@@ -1,0 +1,1078 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "11000-11999",
+  "count": 119,
+  "records": [
+    {
+      "port": 11000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "irisa",
+      "description": "IRISA",
+      "assignee": "[V_A_Brauner]",
+      "registrationDate": null
+    },
+    {
+      "port": 11000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "irisa",
+      "description": "IRISA",
+      "assignee": "[V_A_Brauner]",
+      "registrationDate": null
+    },
+    {
+      "port": 11001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "metasys",
+      "description": "Metasys",
+      "assignee": "[Tobin_Schuster]",
+      "registrationDate": null
+    },
+    {
+      "port": 11001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "metasys",
+      "description": "Metasys",
+      "assignee": "[Tobin_Schuster]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11002-11094",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11095,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "weave",
+      "description": "Nest device-to-device and device-to-service application protocol",
+      "assignee": "[Nest_Labs_Inc]",
+      "registrationDate": "2014-01-16"
+    },
+    {
+      "port": 11095,
+      "portRange": null,
+      "transport": "udp",
+      "name": "weave",
+      "description": "Nest device-to-device and device-to-service application protocol",
+      "assignee": "[Nest_Labs_Inc]",
+      "registrationDate": "2014-01-16"
+    },
+    {
+      "port": null,
+      "portRange": "11096-11102",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11103,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "origo-sync",
+      "description": "OrigoDB Server Sync Interface",
+      "assignee": "[Devrex_Labs]",
+      "registrationDate": "2013-03-29"
+    },
+    {
+      "port": 11103,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11104,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netapp-icmgmt",
+      "description": "NetApp Intercluster Management",
+      "assignee": "[Craig_Everhart]",
+      "registrationDate": "2010-07-06"
+    },
+    {
+      "port": 11104,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11105,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netapp-icdata",
+      "description": "NetApp Intercluster Data",
+      "assignee": "[Craig_Everhart]",
+      "registrationDate": "2010-07-06"
+    },
+    {
+      "port": 11105,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11106,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sgi-lk",
+      "description": "SGI LK Licensing service",
+      "assignee": "[Michel_Bourget]",
+      "registrationDate": "2009-01-06"
+    },
+    {
+      "port": 11106,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sgi-lk",
+      "description": "SGI LK Licensing service",
+      "assignee": "[Michel_Bourget]",
+      "registrationDate": "2009-01-06"
+    },
+    {
+      "port": 11107,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11108,
+      "portRange": null,
+      "transport": "udp",
+      "name": "myq-termlink",
+      "description": "Hardware Terminals Discovery and Low-Level Communication Protocol",
+      "assignee": "[JANUS_spol]",
+      "registrationDate": "2013-04-23"
+    },
+    {
+      "port": 11108,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11109,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sgi-dmfmgr",
+      "description": "Data migration facility Manager (DMF) is a browser based interface to DMF",
+      "assignee": "[SGI]",
+      "registrationDate": "2013-01-07"
+    },
+    {
+      "port": 11109,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11110,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sgi-soap",
+      "description": "Data migration facility (DMF) SOAP is a web server protocol to support remote access to DMF",
+      "assignee": "[SGI]",
+      "registrationDate": "2013-01-07"
+    },
+    {
+      "port": 11110,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11111,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vce",
+      "description": "Viral Computing Environment (VCE)",
+      "assignee": "[Fred_Cohen]",
+      "registrationDate": null
+    },
+    {
+      "port": 11111,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vce",
+      "description": "Viral Computing Environment (VCE)",
+      "assignee": "[Fred_Cohen]",
+      "registrationDate": null
+    },
+    {
+      "port": 11112,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dicom",
+      "description": "DICOM",
+      "assignee": "[David_Clunie]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11112,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dicom",
+      "description": "DICOM",
+      "assignee": "[David_Clunie]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "11113-11160",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11161,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "suncacao-snmp",
+      "description": "sun cacao snmp access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11161,
+      "portRange": null,
+      "transport": "udp",
+      "name": "suncacao-snmp",
+      "description": "sun cacao snmp access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11162,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "suncacao-jmxmp",
+      "description": "sun cacao JMX-remoting access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11162,
+      "portRange": null,
+      "transport": "udp",
+      "name": "suncacao-jmxmp",
+      "description": "sun cacao JMX-remoting access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11163,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "suncacao-rmi",
+      "description": "sun cacao rmi registry access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11163,
+      "portRange": null,
+      "transport": "udp",
+      "name": "suncacao-rmi",
+      "description": "sun cacao rmi registry access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11164,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "suncacao-csa",
+      "description": "sun cacao command-streaming access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11164,
+      "portRange": null,
+      "transport": "udp",
+      "name": "suncacao-csa",
+      "description": "sun cacao command-streaming access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11165,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "suncacao-websvc",
+      "description": "sun cacao web service access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 11165,
+      "portRange": null,
+      "transport": "udp",
+      "name": "suncacao-websvc",
+      "description": "sun cacao web service access point",
+      "assignee": "[Nick_Stephen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "11166-11170",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11171,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11171,
+      "portRange": null,
+      "transport": "udp",
+      "name": "snss",
+      "description": "Surgical Notes Security Service Discovery (SNSS)",
+      "assignee": "[David_Lethe]",
+      "registrationDate": "2010-12-24"
+    },
+    {
+      "port": 11172,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "oemcacao-jmxmp",
+      "description": "OEM cacao JMX-remoting access point",
+      "assignee": "[David_Sechrest]",
+      "registrationDate": "2010-09-22"
+    },
+    {
+      "port": 11172,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11173,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "t5-straton",
+      "description": "Straton Runtime Programing",
+      "assignee": "[COPALP]",
+      "registrationDate": "2012-03-01"
+    },
+    {
+      "port": 11173,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11174,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "oemcacao-rmi",
+      "description": "OEM cacao rmi registry access point",
+      "assignee": "[David_Sechrest]",
+      "registrationDate": "2010-09-22"
+    },
+    {
+      "port": 11174,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11175,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "oemcacao-websvc",
+      "description": "OEM cacao web service access point",
+      "assignee": "[David_Sechrest]",
+      "registrationDate": "2010-09-22"
+    },
+    {
+      "port": 11175,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11176-11200",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11201,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "smsqp",
+      "description": "smsqp",
+      "assignee": "[Andres_Seco_Hernande]",
+      "registrationDate": null
+    },
+    {
+      "port": 11201,
+      "portRange": null,
+      "transport": "udp",
+      "name": "smsqp",
+      "description": "smsqp",
+      "assignee": "[Andres_Seco_Hernande]",
+      "registrationDate": null
+    },
+    {
+      "port": 11202,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dcsl-backup",
+      "description": "DCSL Network Backup Services",
+      "assignee": "[John_Reynolds]",
+      "registrationDate": "2012-04-17"
+    },
+    {
+      "port": 11202,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11203-11207",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11208,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "wifree",
+      "description": "WiFree Service",
+      "assignee": "[Jose_Luis_Martin_Pei]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": 11208,
+      "portRange": null,
+      "transport": "udp",
+      "name": "wifree",
+      "description": "WiFree Service",
+      "assignee": "[Jose_Luis_Martin_Pei]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": null,
+      "portRange": "11209-11210",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11211,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "memcache",
+      "description": "Memory cache service",
+      "assignee": "[Trond_Norbye]",
+      "registrationDate": "2009-02-09"
+    },
+    {
+      "port": 11211,
+      "portRange": null,
+      "transport": "udp",
+      "name": "memcache",
+      "description": "Memory cache service",
+      "assignee": "[Trond_Norbye]",
+      "registrationDate": "2009-02-09"
+    },
+    {
+      "port": null,
+      "portRange": "11212-11234",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11235,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xcompute",
+      "description": "numerical systems messaging",
+      "assignee": "[Xplicit_Computing_Inc]",
+      "registrationDate": "2020-10-16"
+    },
+    {
+      "port": 11235,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11235,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "xcompute",
+      "description": "numerical systems messaging",
+      "assignee": "[Xplicit_Computing_Inc]",
+      "registrationDate": "2020-10-16"
+    },
+    {
+      "port": null,
+      "portRange": "11236-11318",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11319,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "imip",
+      "description": "IMIP",
+      "assignee": "[Len_Zuvela]",
+      "registrationDate": null
+    },
+    {
+      "port": 11319,
+      "portRange": null,
+      "transport": "udp",
+      "name": "imip",
+      "description": "IMIP",
+      "assignee": "[Len_Zuvela]",
+      "registrationDate": null
+    },
+    {
+      "port": 11320,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "imip-channels",
+      "description": "IMIP Channels Port",
+      "assignee": "[Len_Zuvela_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 11320,
+      "portRange": null,
+      "transport": "udp",
+      "name": "imip-channels",
+      "description": "IMIP Channels Port",
+      "assignee": "[Len_Zuvela_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 11321,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "arena-server",
+      "description": "Arena Server Listen",
+      "assignee": "[Earl_Brannigan]",
+      "registrationDate": null
+    },
+    {
+      "port": 11321,
+      "portRange": null,
+      "transport": "udp",
+      "name": "arena-server",
+      "description": "Arena Server Listen",
+      "assignee": "[Earl_Brannigan]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11322-11366",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11367,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "atm-uhas",
+      "description": "ATM UHAS",
+      "assignee": "[Todd_Barker]",
+      "registrationDate": null
+    },
+    {
+      "port": 11367,
+      "portRange": null,
+      "transport": "udp",
+      "name": "atm-uhas",
+      "description": "ATM UHAS",
+      "assignee": "[Todd_Barker]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11368-11370",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11371,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hkp",
+      "description": "OpenPGP HTTP Keyserver",
+      "assignee": "[David_Shaw]",
+      "registrationDate": "2003-05"
+    },
+    {
+      "port": 11371,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hkp",
+      "description": "OpenPGP HTTP Keyserver",
+      "assignee": "[David_Shaw]",
+      "registrationDate": "2003-05"
+    },
+    {
+      "port": null,
+      "portRange": "11372-11429",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11430,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lsdp",
+      "description": "Lenbrook Service Discovery Protocol",
+      "assignee": "[Lenbrook_Industries_Limited]",
+      "registrationDate": "2014-03-27"
+    },
+    {
+      "port": 11430,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11431-11433",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11434,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ollama",
+      "description": "Ollama",
+      "assignee": "[Jesse_Gross]",
+      "registrationDate": "2025-09-26"
+    },
+    {
+      "port": 11434,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11435-11488",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11489,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "asgcypresstcps",
+      "description": "ASG Cypress Secure Only",
+      "assignee": "[David_Luxford]",
+      "registrationDate": "2010-07-01"
+    },
+    {
+      "port": 11489,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11490-11599",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11600,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tempest-port",
+      "description": "Tempest Protocol Port",
+      "assignee": "[Francis_Cianfrocca]",
+      "registrationDate": null
+    },
+    {
+      "port": 11600,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tempest-port",
+      "description": "Tempest Protocol Port",
+      "assignee": "[Francis_Cianfrocca]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11601-11622",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11623,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "emc-xsw-dconfig",
+      "description": "EMC XtremSW distributed config",
+      "assignee": "[EMC]",
+      "registrationDate": "2013-09-18"
+    },
+    {
+      "port": 11623,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11624-11719",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11720,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "h323callsigalt",
+      "description": "H.323 Call Control Signalling Alternate",
+      "assignee": "[ITU-T]",
+      "registrationDate": null
+    },
+    {
+      "port": 11720,
+      "portRange": null,
+      "transport": "udp",
+      "name": "h323callsigalt",
+      "description": "H.323 Call Control Signalling Alternate",
+      "assignee": "[ITU-T]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11721-11722",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11723,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "emc-xsw-dcache",
+      "description": "EMC XtremSW distributed cache",
+      "assignee": "[EMC]",
+      "registrationDate": "2013-09-18"
+    },
+    {
+      "port": 11723,
+      "portRange": null,
+      "transport": "udp",
+      "name": "emc-xsw-dcache",
+      "description": "EMC XtremSW distributed cache",
+      "assignee": "[EMC]",
+      "registrationDate": "2013-09-18"
+    },
+    {
+      "port": null,
+      "portRange": "11724-11750",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11751,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "intrepid-ssl",
+      "description": "Intrepid SSL",
+      "assignee": "[Robert_Eden]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": 11751,
+      "portRange": null,
+      "transport": "udp",
+      "name": "intrepid-ssl",
+      "description": "Intrepid SSL",
+      "assignee": "[Robert_Eden]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": null,
+      "portRange": "11752-11795",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11796,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lanschool",
+      "description": "LanSchool",
+      "assignee": "[Stoneware_Inc]",
+      "registrationDate": "2012-05-18"
+    },
+    {
+      "port": 11796,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lanschool-mpt",
+      "description": "Lanschool Multipoint",
+      "assignee": "[Stoneware_Inc]",
+      "registrationDate": "2012-05-18"
+    },
+    {
+      "port": null,
+      "portRange": "11797-11875",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11876,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xoraya",
+      "description": "X2E Xoraya Multichannel protocol",
+      "assignee": "[Hannes_K]",
+      "registrationDate": "2010-09-13"
+    },
+    {
+      "port": 11876,
+      "portRange": null,
+      "transport": "udp",
+      "name": "xoraya",
+      "description": "X2E Xoraya Multichannel protocol",
+      "assignee": "[Hannes_K]",
+      "registrationDate": "2010-09-13"
+    },
+    {
+      "port": 11877,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11877,
+      "portRange": null,
+      "transport": "udp",
+      "name": "x2e-disc",
+      "description": "X2E service discovery protocol",
+      "assignee": "[Hannes_K]",
+      "registrationDate": "2010-09-13"
+    },
+    {
+      "port": null,
+      "portRange": "11878-11966",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11967,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sysinfo-sp",
+      "description": "SysInfo Service Protocol",
+      "assignee": "[Mike_Cooper]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": 11967,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sysinfo-sp",
+      "description": "SysInfo Service Protocol",
+      "assignee": "[Mike_Cooper]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": null,
+      "portRange": "11968-11970",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11971,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tibsd",
+      "description": "TiBS Service",
+      "assignee": "[Teradactyl_LLC]",
+      "registrationDate": "2019-05-17"
+    },
+    {
+      "port": 11971,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "11972-11996",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 11997,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "wmereceiving",
+      "description": "WorldMailExpress",
+      "assignee": "[Greg_Foutz]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": 11998,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "wmedistribution",
+      "description": "WorldMailExpress",
+      "assignee": "[Greg_Foutz]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": 11999,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "wmereporting",
+      "description": "WorldMailExpress",
+      "assignee": "[Greg_Foutz]",
+      "registrationDate": "2006-03"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "15000-15999",
+  "count": 28,
+  "records": [
+    {
+      "port": 15000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hydap",
+      "description": "Hypack Data Aquisition",
+      "assignee": "[HYPACK_Inc]",
+      "registrationDate": null
+    },
+    {
+      "port": 15000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hydap",
+      "description": "Hypack Data Aquisition",
+      "assignee": "[HYPACK_Inc]",
+      "registrationDate": null
+    },
+    {
+      "port": 15001,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "onep-tls",
+      "description": "Open Network Environment TLS",
+      "assignee": "[Cisco_3]",
+      "registrationDate": "2014-01-21"
+    },
+    {
+      "port": 15002,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "15003-15117",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15118,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15118,
+      "portRange": null,
+      "transport": "udp",
+      "name": "v2g-secc",
+      "description": "v2g Supply Equipment Communication Controller Discovery Protocol",
+      "assignee": "[Holger_Lochner]",
+      "registrationDate": "2011-04-06"
+    },
+    {
+      "port": null,
+      "portRange": "15119-15344",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15345,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xpilot",
+      "description": "XPilot Contact Port",
+      "assignee": "[Bert_Gijsbers]",
+      "registrationDate": null
+    },
+    {
+      "port": 15345,
+      "portRange": null,
+      "transport": "udp",
+      "name": "xpilot",
+      "description": "XPilot Contact Port",
+      "assignee": "[Bert_Gijsbers]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "15346-15362",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15363,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "3link",
+      "description": "3Link Negotiation",
+      "assignee": "[Brant_Thomsen]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 15363,
+      "portRange": null,
+      "transport": "udp",
+      "name": "3link",
+      "description": "3Link Negotiation",
+      "assignee": "[Brant_Thomsen]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": null,
+      "portRange": "15364-15554",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15555,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cisco-snat",
+      "description": "Cisco Stateful NAT",
+      "assignee": "[Kaushik_Biswas]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": 15555,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cisco-snat",
+      "description": "Cisco Stateful NAT",
+      "assignee": "[Kaushik_Biswas]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": null,
+      "portRange": "15556-15659",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15660,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bex-xr",
+      "description": "Backup Express Restore Server",
+      "assignee": "[Catalogic_Software_Inc]",
+      "registrationDate": "2008-03-19"
+    },
+    {
+      "port": 15660,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bex-xr",
+      "description": "Backup Express Restore Server",
+      "assignee": "[Catalogic_Software_Inc]",
+      "registrationDate": "2008-03-19"
+    },
+    {
+      "port": null,
+      "portRange": "15661-15739",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15740,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ptp",
+      "description": "Picture Transfer Protocol",
+      "assignee": "[Petronel_Bigioi]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 15740,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ptp",
+      "description": "Picture Transfer Protocol",
+      "assignee": "[Petronel_Bigioi]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "15741-15997",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15998,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 15998,
+      "portRange": null,
+      "transport": "udp",
+      "name": "2ping",
+      "description": "2ping Bi-Directional Ping Service",
+      "assignee": "[Ryan_Finnie]",
+      "registrationDate": "2010-10-06"
+    },
+    {
+      "port": 15999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "programmar",
+      "description": "ProGrammar Enterprise",
+      "assignee": "[Norman_Wilson]",
+      "registrationDate": "2010-10-06"
+    },
+    {
+      "port": 15999,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

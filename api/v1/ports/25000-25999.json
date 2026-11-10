@@ -1,0 +1,448 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "25000-25999",
+  "count": 49,
+  "records": [
+    {
+      "port": 25000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase1",
+      "description": "icl-twobase1",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase1",
+      "description": "icl-twobase1",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase2",
+      "description": "icl-twobase2",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase2",
+      "description": "icl-twobase2",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase3",
+      "description": "icl-twobase3",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase3",
+      "description": "icl-twobase3",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase4",
+      "description": "icl-twobase4",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase4",
+      "description": "icl-twobase4",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase5",
+      "description": "icl-twobase5",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25004,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase5",
+      "description": "icl-twobase5",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase6",
+      "description": "icl-twobase6",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25005,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase6",
+      "description": "icl-twobase6",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25006,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase7",
+      "description": "icl-twobase7",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25006,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase7",
+      "description": "icl-twobase7",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25007,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase8",
+      "description": "icl-twobase8",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25007,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase8",
+      "description": "icl-twobase8",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25008,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase9",
+      "description": "icl-twobase9",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25008,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase9",
+      "description": "icl-twobase9",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25009,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icl-twobase10",
+      "description": "icl-twobase10",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": 25009,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icl-twobase10",
+      "description": "icl-twobase10",
+      "assignee": "[J_A_Sever]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "25010-25099",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25100,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "db2c-tls",
+      "description": "IBM Db2 Client Interface - Encrypted",
+      "assignee": "[IBM]",
+      "registrationDate": "2024-03-05"
+    },
+    {
+      "port": 25100,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "25101-25470",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25471,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "rna",
+      "description": "RNSAP User Adaptation for Iurh",
+      "assignee": "[Dario_S_Tonesi]",
+      "registrationDate": "2011-02-07"
+    },
+    {
+      "port": null,
+      "portRange": "25472-25575",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25576,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sauterdongle",
+      "description": "Sauter Dongle",
+      "assignee": "[Christian_Brecht]",
+      "registrationDate": "2010-12-15"
+    },
+    {
+      "port": 25576,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "25577-25603",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25604,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "idtp",
+      "description": "Identifier Tracing Protocol",
+      "assignee": "[Huang_Neng-geng]",
+      "registrationDate": "2011-08-09"
+    },
+    {
+      "port": 25604,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "25605-25792",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25793,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vocaltec-hos",
+      "description": "Vocaltec Address Server",
+      "assignee": "[Scott_Petrack]",
+      "registrationDate": null
+    },
+    {
+      "port": 25793,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vocaltec-hos",
+      "description": "Vocaltec Address Server",
+      "assignee": "[Scott_Petrack]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "25794-25899",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25900,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tasp-net",
+      "description": "TASP Network Comm",
+      "assignee": "[Martin_Ellis]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 25900,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tasp-net",
+      "description": "TASP Network Comm",
+      "assignee": "[Martin_Ellis]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 25901,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "niobserver",
+      "description": "NIObserver",
+      "assignee": "[Roman_Oliynyk]",
+      "registrationDate": null
+    },
+    {
+      "port": 25901,
+      "portRange": null,
+      "transport": "udp",
+      "name": "niobserver",
+      "description": "NIObserver",
+      "assignee": "[Roman_Oliynyk]",
+      "registrationDate": null
+    },
+    {
+      "port": 25902,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nilinkanalyst",
+      "description": "NILinkAnalyst",
+      "assignee": "[Roman_Oliynyk_2]",
+      "registrationDate": "2007-08-30"
+    },
+    {
+      "port": 25902,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nilinkanalyst",
+      "description": "NILinkAnalyst",
+      "assignee": "[Roman_Oliynyk_2]",
+      "registrationDate": "2007-08-30"
+    },
+    {
+      "port": 25903,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "niprobe",
+      "description": "NIProbe",
+      "assignee": "[Roman_Oliynyk]",
+      "registrationDate": null
+    },
+    {
+      "port": 25903,
+      "portRange": null,
+      "transport": "udp",
+      "name": "niprobe",
+      "description": "NIProbe",
+      "assignee": "[Roman_Oliynyk]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "25904-25953",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25954,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bf-game",
+      "description": "Bitfighter game server",
+      "assignee": "[Christopher_Eykamp]",
+      "registrationDate": "2012-08-16"
+    },
+    {
+      "port": 25954,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 25955,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bf-master",
+      "description": "Bitfighter master server",
+      "assignee": "[Christopher_Eykamp]",
+      "registrationDate": "2012-08-16"
+    },
+    {
+      "port": 25955,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "25956-25999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

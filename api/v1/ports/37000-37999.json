@@ -1,0 +1,151 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "37000-37999",
+  "count": 16,
+  "records": [
+    {
+      "port": 37472,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 37472,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 37472,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "3gpp-w1ap",
+      "description": "W1 signalling transport",
+      "assignee": "[_3GPP_3]",
+      "registrationDate": "2020-07-16"
+    },
+    {
+      "port": null,
+      "portRange": "37473-37474",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 37475,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "neckar",
+      "description": "science + computing's Venus Administration Port",
+      "assignee": "[Ralf_Allrutz]",
+      "registrationDate": "2002-02"
+    },
+    {
+      "port": 37475,
+      "portRange": null,
+      "transport": "udp",
+      "name": "neckar",
+      "description": "science + computing's Venus Administration Port",
+      "assignee": "[Ralf_Allrutz]",
+      "registrationDate": "2002-02"
+    },
+    {
+      "port": null,
+      "portRange": "37476-37482",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 37483,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gdrive-sync",
+      "description": "Google Drive Sync",
+      "assignee": "[Google_Inc]",
+      "registrationDate": "2013-02-01"
+    },
+    {
+      "port": 37483,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "37484-37600",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 37601,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "eftp",
+      "description": "Epipole File Transfer Protocol",
+      "assignee": "[Epipole_Limited]",
+      "registrationDate": "2014-11-13"
+    },
+    {
+      "port": 37601,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "37602-37653",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 37654,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "unisys-eportal",
+      "description": "Unisys ClearPath ePortal",
+      "assignee": "[Sung_U_Ro]",
+      "registrationDate": "2006-01"
+    },
+    {
+      "port": 37654,
+      "portRange": null,
+      "transport": "udp",
+      "name": "unisys-eportal",
+      "description": "Unisys ClearPath ePortal",
+      "assignee": "[Sung_U_Ro]",
+      "registrationDate": "2006-01"
+    },
+    {
+      "port": null,
+      "portRange": "37655-37999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

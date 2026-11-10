@@ -1,0 +1,412 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "14000-14999",
+  "count": 45,
+  "records": [
+    {
+      "port": 14000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "scotty-ft",
+      "description": "SCOTTY High-Speed Filetransfer",
+      "assignee": "[Patrick_Verbeek]",
+      "registrationDate": "2007-05"
+    },
+    {
+      "port": 14000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "scotty-ft",
+      "description": "SCOTTY High-Speed Filetransfer",
+      "assignee": "[Patrick_Verbeek]",
+      "registrationDate": "2007-05"
+    },
+    {
+      "port": 14001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sua",
+      "description": "SUA",
+      "assignee": "[Miguel_Angel_Garcia]",
+      "registrationDate": null
+    },
+    {
+      "port": 14001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sua",
+      "description": "De-Registered",
+      "assignee": "[Miguel_Angel_Garcia]",
+      "registrationDate": "2001-06-06"
+    },
+    {
+      "port": 14001,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "sua",
+      "description": "SUA",
+      "assignee": "[Miguel_Angel_Garcia]",
+      "registrationDate": null
+    },
+    {
+      "port": 14002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "scotty-disc",
+      "description": "Discovery of a SCOTTY hardware codec board",
+      "assignee": "[SCOTTY_Group_SE]",
+      "registrationDate": "2013-01-14"
+    },
+    {
+      "port": 14002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "14003-14032",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14033,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sage-best-com1",
+      "description": "sage Best! Config Server 1",
+      "assignee": "[Christian_Rubach]",
+      "registrationDate": null
+    },
+    {
+      "port": 14033,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sage-best-com1",
+      "description": "sage Best! Config Server 1",
+      "assignee": "[Christian_Rubach]",
+      "registrationDate": null
+    },
+    {
+      "port": 14034,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sage-best-com2",
+      "description": "sage Best! Config Server 2",
+      "assignee": "[Christian_Rubach]",
+      "registrationDate": null
+    },
+    {
+      "port": 14034,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sage-best-com2",
+      "description": "sage Best! Config Server 2",
+      "assignee": "[Christian_Rubach]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "14035-14140",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14141,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vcs-app",
+      "description": "VCS Application",
+      "assignee": "[Ming_Xu]",
+      "registrationDate": null
+    },
+    {
+      "port": 14141,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vcs-app",
+      "description": "VCS Application",
+      "assignee": "[Ming_Xu]",
+      "registrationDate": null
+    },
+    {
+      "port": 14142,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icpp",
+      "description": "IceWall Cert Protocol",
+      "assignee": "[Tsutomu_Fujinami]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 14142,
+      "portRange": null,
+      "transport": "udp",
+      "name": "icpp",
+      "description": "IceWall Cert Protocol",
+      "assignee": "[Tsutomu_Fujinami]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 14143,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "icpps",
+      "description": "IceWall Cert Protocol over TLS",
+      "assignee": "[Kenta_Kambara]",
+      "registrationDate": "2016-05-24"
+    },
+    {
+      "port": 14143,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14144,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14145,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gcm-app",
+      "description": "GCM Application",
+      "assignee": "[Ming_Xu]",
+      "registrationDate": null
+    },
+    {
+      "port": 14145,
+      "portRange": null,
+      "transport": "udp",
+      "name": "gcm-app",
+      "description": "GCM Application",
+      "assignee": "[Ming_Xu]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "14146-14148",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14149,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vrts-tdd",
+      "description": "Veritas Traffic Director",
+      "assignee": "[Sameer_Deokule]",
+      "registrationDate": "2002-03"
+    },
+    {
+      "port": 14149,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vrts-tdd",
+      "description": "Veritas Traffic Director",
+      "assignee": "[Sameer_Deokule]",
+      "registrationDate": "2002-03"
+    },
+    {
+      "port": 14150,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vcscmd",
+      "description": "Veritas Cluster Server Command Server",
+      "assignee": "[Anand_Bhalerao]",
+      "registrationDate": "2008-10-02"
+    },
+    {
+      "port": 14150,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "14151-14153",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14154,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vad",
+      "description": "Veritas Application Director",
+      "assignee": "[Rajeev_Verma]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 14154,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vad",
+      "description": "Veritas Application Director",
+      "assignee": "[Rajeev_Verma]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": null,
+      "portRange": "14155-14249",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14250,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cps",
+      "description": "Fencing Server",
+      "assignee": "[Mayank_Vasa]",
+      "registrationDate": "2008-04-03"
+    },
+    {
+      "port": 14250,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cps",
+      "description": "Fencing Server",
+      "assignee": "[Mayank_Vasa]",
+      "registrationDate": "2008-04-03"
+    },
+    {
+      "port": null,
+      "portRange": "14251-14413",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14414,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ca-web-update",
+      "description": "CA eTrust Web Update Service",
+      "assignee": "[Robert_Ciochon]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 14414,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ca-web-update",
+      "description": "CA eTrust Web Update Service",
+      "assignee": "[Robert_Ciochon]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": null,
+      "portRange": "14415-14499",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14500,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xpra",
+      "description": "xpra network protocol",
+      "assignee": "[Xpra]",
+      "registrationDate": "2016-10-05"
+    },
+    {
+      "port": 14500,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "14501-14935",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 14936,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hde-lcesrvr-1",
+      "description": "hde-lcesrvr-1",
+      "assignee": "[Horizon_Digital_Ente]",
+      "registrationDate": null
+    },
+    {
+      "port": 14936,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hde-lcesrvr-1",
+      "description": "hde-lcesrvr-1",
+      "assignee": "[Horizon_Digital_Ente]",
+      "registrationDate": null
+    },
+    {
+      "port": 14937,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hde-lcesrvr-2",
+      "description": "hde-lcesrvr-2",
+      "assignee": "[Horizon_Digital_Ente]",
+      "registrationDate": null
+    },
+    {
+      "port": 14937,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hde-lcesrvr-2",
+      "description": "hde-lcesrvr-2",
+      "assignee": "[Horizon_Digital_Ente]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "14938-14999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

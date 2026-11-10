@@ -1,0 +1,214 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "28000-28999",
+  "count": 23,
+  "records": [
+    {
+      "port": 28000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nxlmd",
+      "description": "NX License Manager",
+      "assignee": "[Anthony_Greatorex]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 28000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nxlmd",
+      "description": "NX License Manager",
+      "assignee": "[Anthony_Greatorex]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 28001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pqsp",
+      "description": "PQ Service",
+      "assignee": "[Peter_Laschtowitz]",
+      "registrationDate": "2009-09-15"
+    },
+    {
+      "port": 28001,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "28002-28009",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 28010,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gruber-cashreg",
+      "description": "Gruber cash registry protocol",
+      "assignee": "[Gruber_Schanksysteme]",
+      "registrationDate": "2019-12-31"
+    },
+    {
+      "port": 28010,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "28011-28079",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 28080,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "thor-engine",
+      "description": "thor/server - ML engine",
+      "assignee": "[Aronetics_LLC]",
+      "registrationDate": "2021-09-29"
+    },
+    {
+      "port": 28080,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "28081-28118",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 28119,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 28119,
+      "portRange": null,
+      "transport": "udp",
+      "name": "a27-ran-ran",
+      "description": "A27 cdma2000 RAN Management",
+      "assignee": "[_3GPP_2]",
+      "registrationDate": "2012-04-13"
+    },
+    {
+      "port": null,
+      "portRange": "28120-28199",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 28200,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "voxelstorm",
+      "description": "VoxelStorm game server",
+      "assignee": "[VoxelStorm]",
+      "registrationDate": "2012-11-08"
+    },
+    {
+      "port": 28200,
+      "portRange": null,
+      "transport": "udp",
+      "name": "voxelstorm",
+      "description": "VoxelStorm game server",
+      "assignee": "[VoxelStorm]",
+      "registrationDate": "2012-11-08"
+    },
+    {
+      "port": null,
+      "portRange": "28201-28239",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 28240,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "siemensgsm",
+      "description": "Siemens GSM",
+      "assignee": "[David_Anuszewski]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 28240,
+      "portRange": null,
+      "transport": "udp",
+      "name": "siemensgsm",
+      "description": "Siemens GSM",
+      "assignee": "[David_Anuszewski]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "28241-28588",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 28589,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bosswave",
+      "description": "Building operating system services wide area verified exchange",
+      "assignee": "[University_of_California_Berkeley]",
+      "registrationDate": "2016-06-13"
+    },
+    {
+      "port": 28589,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "28590-28999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

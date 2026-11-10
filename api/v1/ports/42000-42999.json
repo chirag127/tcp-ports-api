@@ -1,0 +1,88 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "42000-42999",
+  "count": 9,
+  "records": [
+    {
+      "port": 42508,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "candp",
+      "description": "Computer Associates network discovery protocol",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-09"
+    },
+    {
+      "port": 42508,
+      "portRange": null,
+      "transport": "udp",
+      "name": "candp",
+      "description": "Computer Associates network discovery protocol",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-09"
+    },
+    {
+      "port": 42509,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "candrp",
+      "description": "CA discovery response",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 42509,
+      "portRange": null,
+      "transport": "udp",
+      "name": "candrp",
+      "description": "CA discovery response",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 42510,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "caerpc",
+      "description": "CA eTrust RPC",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 42510,
+      "portRange": null,
+      "transport": "udp",
+      "name": "caerpc",
+      "description": "CA eTrust RPC",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "42511-42998",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 42999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "curiosity",
+      "description": "API endpoint for search application",
+      "assignee": "[Curiosity_GmbH]",
+      "registrationDate": "2022-12-09"
+    },
+    {
+      "port": 42999,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

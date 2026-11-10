@@ -1,0 +1,193 @@
+openapi: 3.1.0
+info:
+  title: TCP Ports API
+  version: 1.0.0
+  description: >-
+    All 14,545 records from the IANA Service Name and Transport Protocol Port Number
+    Registry, served as free static JSON from GitHub Pages. No authentication, no rate limit.
+  license:
+    name: MIT
+    identifier: MIT
+servers:
+  - url: https://chirag127.github.io/tcp-ports-api
+    description: GitHub Pages
+paths:
+  /api/v1/ports.json:
+    get:
+      summary: All port records
+      description: Returns the complete dataset — 14,545 records.
+      responses:
+        "200":
+          description: The full registry.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/PortCollection"
+  /api/v1/ports/index.json:
+    get:
+      summary: Bucket index
+      description: >-
+        Lists the bucket files with their record counts, so clients can fetch
+        only the range they need.
+      responses:
+        "200":
+          description: The bucket index.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  generatedFrom:
+                    type: string
+                    format: uri
+                  buckets:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Bucket"
+  /api/v1/ports/{bucket}:
+    get:
+      summary: One bucket of records
+      description: >-
+        Returns one bucket, e.g. `0-999` (1,525 records) through `49000-49999`,
+        plus `no-port` for records without a usable port.
+      parameters:
+        - name: bucket
+          in: path
+          required: true
+          description: Bucket label, e.g. `0-999`, `49000-49999` or `no-port`.
+          schema:
+            type: string
+            enum:
+              - 0-999
+              - 1000-1999
+              - 2000-2999
+              - 3000-3999
+              - 4000-4999
+              - 5000-5999
+              - 6000-6999
+              - 7000-7999
+              - 8000-8999
+              - 9000-9999
+              - 10000-10999
+              - 11000-11999
+              - 12000-12999
+              - 13000-13999
+              - 14000-14999
+              - 15000-15999
+              - 16000-16999
+              - 17000-17999
+              - 18000-18999
+              - 19000-19999
+              - 20000-20999
+              - 21000-21999
+              - 22000-22999
+              - 23000-23999
+              - 24000-24999
+              - 25000-25999
+              - 26000-26999
+              - 27000-27999
+              - 28000-28999
+              - 29000-29999
+              - 30000-30999
+              - 31000-31999
+              - 32000-32999
+              - 33000-33999
+              - 34000-34999
+              - 35000-35999
+              - 36000-36999
+              - 37000-37999
+              - 38000-38999
+              - 39000-39999
+              - 40000-40999
+              - 41000-41999
+              - 42000-42999
+              - 43000-43999
+              - 44000-44999
+              - 45000-45999
+              - 46000-46999
+              - 47000-47999
+              - 48000-48999
+              - 49000-49999
+              - no-port
+      responses:
+        "200":
+          description: The bucket.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/PortBucket"
+        "404":
+          description: Unknown bucket.
+components:
+  schemas:
+    PortRecord:
+      type: object
+      properties:
+        port:
+          type: [integer, "null"]
+          description: Integer port number, or null for rows without a usable port.
+          examples: [443]
+        portRange:
+          type: [string, "null"]
+          description: Reserved range, e.g. "225-241".
+          examples: ["225-241"]
+        transport:
+          type: [string, "null"]
+          enum: [tcp, udp, sctp, dccp, null]
+          description: Transport protocol, or null when IANA left it blank.
+        name:
+          type: [string, "null"]
+          description: The IANA service name.
+          examples: ["https"]
+        description:
+          type: [string, "null"]
+          description: IANA's description, quoted verbatim.
+          examples: ["http protocol over TLS/SSL"]
+        assignee:
+          type: [string, "null"]
+          description: Assignee or contact, quoted verbatim.
+          examples: ["[IESG]"]
+        registrationDate:
+          type: [string, "null"]
+          description: ISO registration date, or null when not recorded.
+          examples: ["2012-07-31"]
+    PortCollection:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+          examples: ["https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv"]
+        count:
+          type: integer
+          const: 14545
+        records:
+          type: array
+          items:
+            $ref: "#/components/schemas/PortRecord"
+    Bucket:
+      type: object
+      properties:
+        bucket:
+          type: string
+          examples: ["0-999", "no-port"]
+        file:
+          type: string
+          examples: ["ports/0-999.json"]
+        count:
+          type: integer
+          examples: [1525]
+    PortBucket:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+        bucket:
+          type: string
+        count:
+          type: integer
+        records:
+          type: array
+          items:
+            $ref: "#/components/schemas/PortRecord"

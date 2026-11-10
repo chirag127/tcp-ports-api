@@ -1,0 +1,259 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "33000-33999",
+  "count": 28,
+  "records": [
+    {
+      "port": 33000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "wg-endpt-comms",
+      "description": "WatchGuard Endpoint Communications",
+      "assignee": "[WatchGuard_Technologies_Inc]",
+      "registrationDate": "2020-01-16"
+    },
+    {
+      "port": 33000,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "33001-33059",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33060,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mysqlx",
+      "description": "MySQL Database Extended Interface",
+      "assignee": "[Oracle_8]",
+      "registrationDate": "2015-08-06"
+    },
+    {
+      "port": 33060,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "33061-33122",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33123,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "aurora-balaena",
+      "description": "Aurora (Balaena Ltd)",
+      "assignee": "[Andrew_Mather]",
+      "registrationDate": "2008-02-14"
+    },
+    {
+      "port": 33123,
+      "portRange": null,
+      "transport": "udp",
+      "name": "aurora-balaena",
+      "description": "Aurora (Balaena Ltd)",
+      "assignee": "[Andrew_Mather]",
+      "registrationDate": "2008-02-14"
+    },
+    {
+      "port": null,
+      "portRange": "33124-33330",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33331,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "diamondport",
+      "description": "DiamondCentral Interface",
+      "assignee": "[Edward_Browdy]",
+      "registrationDate": "2002-07"
+    },
+    {
+      "port": 33331,
+      "portRange": null,
+      "transport": "udp",
+      "name": "diamondport",
+      "description": "DiamondCentral Interface",
+      "assignee": "[Edward_Browdy]",
+      "registrationDate": "2002-07"
+    },
+    {
+      "port": 33332,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33333,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dgi-serv",
+      "description": "Digital Gaslight Service",
+      "assignee": "[George_Flanagin]",
+      "registrationDate": "2010-03-02"
+    },
+    {
+      "port": 33333,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33334,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "speedtrace",
+      "description": "SpeedTrace TraceAgent",
+      "assignee": "[Holger_Heinrich]",
+      "registrationDate": "2012-02-01"
+    },
+    {
+      "port": 33334,
+      "portRange": null,
+      "transport": "udp",
+      "name": "speedtrace-disc",
+      "description": "SpeedTrace TraceAgent Discovery",
+      "assignee": "[Holger_Heinrich]",
+      "registrationDate": "2012-02-01"
+    },
+    {
+      "port": null,
+      "portRange": "33335-33433",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33434,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "traceroute",
+      "description": "traceroute use",
+      "assignee": "[IANA]",
+      "registrationDate": null
+    },
+    {
+      "port": 33434,
+      "portRange": null,
+      "transport": "udp",
+      "name": "traceroute",
+      "description": "traceroute use",
+      "assignee": "[IANA]",
+      "registrationDate": null
+    },
+    {
+      "port": 33435,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33435,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mtrace",
+      "description": "IP Multicast Traceroute",
+      "assignee": "[IESG]",
+      "registrationDate": "2017-12-13"
+    },
+    {
+      "port": null,
+      "portRange": "33436-33655",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33656,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "snip-slave",
+      "description": "SNIP Slave",
+      "assignee": "[Dr_Chris_Tucker]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 33656,
+      "portRange": null,
+      "transport": "udp",
+      "name": "snip-slave",
+      "description": "SNIP Slave",
+      "assignee": "[Dr_Chris_Tucker]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "33657-33889",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 33890,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "digilent-adept",
+      "description": "Adept IP protocol",
+      "assignee": "[Digilent_Inc]",
+      "registrationDate": "2020-06-25"
+    },
+    {
+      "port": 33890,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "33891-34248",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

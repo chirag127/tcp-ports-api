@@ -1,0 +1,313 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "48000-48999",
+  "count": 34,
+  "records": [
+    {
+      "port": 48000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nimcontroller",
+      "description": "Nimbus Controller",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nimcontroller",
+      "description": "Nimbus Controller",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nimspooler",
+      "description": "Nimbus Spooler",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nimspooler",
+      "description": "Nimbus Spooler",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nimhub",
+      "description": "Nimbus Hub",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nimhub",
+      "description": "Nimbus Hub",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nimgtw",
+      "description": "Nimbus Gateway",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nimgtw",
+      "description": "Nimbus Gateway",
+      "assignee": "[Carstein_Seeberg_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 48004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nimbusdb",
+      "description": "NimbusDB Connector",
+      "assignee": "[Stephen_Harrison]",
+      "registrationDate": "2011-01-24"
+    },
+    {
+      "port": 48004,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nimbusdbctrl",
+      "description": "NimbusDB Control",
+      "assignee": "[Stephen_Harrison]",
+      "registrationDate": "2011-01-24"
+    },
+    {
+      "port": 48005,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "48006-48047",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48048,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "juka",
+      "description": "Juliar Programming Language Protocol",
+      "assignee": "[Juliar]",
+      "registrationDate": "2018-02-16"
+    },
+    {
+      "port": 48048,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48049,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "3gpp-cbsp",
+      "description": "3GPP Cell Broadcast Service Protocol",
+      "assignee": "[Gert_Thomasen]",
+      "registrationDate": "2009-12-07"
+    },
+    {
+      "port": 48049,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48050,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "weandsf",
+      "description": "WeFi Access Network Discovery and Selection Function",
+      "assignee": "[WeFi_Inc]",
+      "registrationDate": "2013-07-19"
+    },
+    {
+      "port": 48050,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "48051-48127",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48128,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "isnetserv",
+      "description": "Image Systems Network Services",
+      "assignee": "[Bengt_Gustafsson]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 48128,
+      "portRange": null,
+      "transport": "udp",
+      "name": "isnetserv",
+      "description": "Image Systems Network Services",
+      "assignee": "[Bengt_Gustafsson]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 48129,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "blp5",
+      "description": "Bloomberg locator",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 48129,
+      "portRange": null,
+      "transport": "udp",
+      "name": "blp5",
+      "description": "Bloomberg locator",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": null,
+      "portRange": "48130-48555",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48556,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "com-bardac-dw",
+      "description": "com-bardac-dw",
+      "assignee": "[Nicholas_J_Howes]",
+      "registrationDate": null
+    },
+    {
+      "port": 48556,
+      "portRange": null,
+      "transport": "udp",
+      "name": "com-bardac-dw",
+      "description": "com-bardac-dw",
+      "assignee": "[Nicholas_J_Howes]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "48557-48618",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48619,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iqobject",
+      "description": "iqobject",
+      "assignee": "[Bjorn_de_Bonnenfant]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 48619,
+      "portRange": null,
+      "transport": "udp",
+      "name": "iqobject",
+      "description": "iqobject",
+      "assignee": "[Bjorn_de_Bonnenfant]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": null,
+      "portRange": "48620-48652",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 48653,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "robotraconteur",
+      "description": "Robot Raconteur transport",
+      "assignee": "[Wason_Technology_LLC]",
+      "registrationDate": "2014-01-27"
+    },
+    {
+      "port": 48653,
+      "portRange": null,
+      "transport": "udp",
+      "name": "robotraconteur",
+      "description": "Robot Raconteur transport",
+      "assignee": "[Wason_Technology_LLC]",
+      "registrationDate": "2014-01-27"
+    },
+    {
+      "port": null,
+      "portRange": "48654-48999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

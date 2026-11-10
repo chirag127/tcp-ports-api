@@ -1,0 +1,70 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "46000-46999",
+  "count": 7,
+  "records": [
+    {
+      "port": 46336,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inedo",
+      "description": "Listen port used for Inedo agent communication",
+      "assignee": "[Inedo]",
+      "registrationDate": "2016-01-12"
+    },
+    {
+      "port": 46336,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "46337-46997",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 46998,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "spremotetablet",
+      "description": "Connection between a desktop computer or server and a signature tablet to capture handwritten signatures",
+      "assignee": "[SOFTPRO_GmbH]",
+      "registrationDate": "2012-07-19"
+    },
+    {
+      "port": 46998,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 46999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mediabox",
+      "description": "MediaBox Server",
+      "assignee": "[Alexander_Graef]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 46999,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mediabox",
+      "description": "MediaBox Server",
+      "assignee": "[Alexander_Graef]",
+      "registrationDate": "2004-11"
+    }
+  ]
+}

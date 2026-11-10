@@ -1,0 +1,376 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "31000-31999",
+  "count": 41,
+  "records": [
+    {
+      "port": null,
+      "portRange": "31000-31015",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31016,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ka-sddp",
+      "description": "Kollective Agent Secure Distributed Delivery Protocol",
+      "assignee": "[Kollective_Technology_Inc]",
+      "registrationDate": "2016-12-11"
+    },
+    {
+      "port": 31016,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ka-kdp",
+      "description": "Kollective Agent Kollective Delivery Protocol",
+      "assignee": "[Kollective_Technology_Inc]",
+      "registrationDate": "2016-12-11"
+    },
+    {
+      "port": null,
+      "portRange": "31017-31019",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31020,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "autotrac-acp",
+      "description": "Autotrac ACP 245",
+      "assignee": "[Roberto_Jorge_Dino]",
+      "registrationDate": null
+    },
+    {
+      "port": 31020,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "31021-31028",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31029,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31029,
+      "portRange": null,
+      "transport": "udp",
+      "name": "yawn",
+      "description": "YaWN - Yet Another Windows Notifier",
+      "assignee": "[David_Spivey]",
+      "registrationDate": "2010-08-30"
+    },
+    {
+      "port": null,
+      "portRange": "31030-31336",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31337,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "eldim",
+      "description": "eldim is a secure file upload proxy",
+      "assignee": "[Antonios_A_Chariton]",
+      "registrationDate": "2021-05-14"
+    },
+    {
+      "port": 31337,
+      "portRange": null,
+      "transport": "udp",
+      "name": "eldim",
+      "description": "eldim is a secure file upload proxy",
+      "assignee": "[Antonios_A_Chariton]",
+      "registrationDate": "2021-05-14"
+    },
+    {
+      "port": null,
+      "portRange": "31338-31399",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31400,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pace-licensed",
+      "description": "PACE license server",
+      "assignee": "[PACE_Anti-Piracy]",
+      "registrationDate": "2014-04-28"
+    },
+    {
+      "port": 31400,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "31401-31415",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31416,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xqosd",
+      "description": "XQoS network monitor",
+      "assignee": "[Joe_Elliott]",
+      "registrationDate": "2002-06"
+    },
+    {
+      "port": 31416,
+      "portRange": null,
+      "transport": "udp",
+      "name": "xqosd",
+      "description": "XQoS network monitor",
+      "assignee": "[Joe_Elliott]",
+      "registrationDate": "2002-06"
+    },
+    {
+      "port": null,
+      "portRange": "31417-31456",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31457,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tetrinet",
+      "description": "TetriNET Protocol",
+      "assignee": "[Emmanuel_Bourg]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 31457,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tetrinet",
+      "description": "TetriNET Protocol",
+      "assignee": "[Emmanuel_Bourg]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "31458-31619",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31620,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lm-mon",
+      "description": "lm mon",
+      "assignee": "[System_Administrator]",
+      "registrationDate": "2003-06"
+    },
+    {
+      "port": 31620,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lm-mon",
+      "description": "lm mon",
+      "assignee": "[System_Administrator]",
+      "registrationDate": "2003-06"
+    },
+    {
+      "port": null,
+      "portRange": "31621-31684",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31685,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dsx-monitor",
+      "description": "DS Expert Monitor\n\nIANA assigned this well-formed service name as a replacement for \"dsx_monitor\".",
+      "assignee": "[John_Lowery]",
+      "registrationDate": "2008-08-21"
+    },
+    {
+      "port": 31685,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dsx_monitor",
+      "description": "DS Expert Monitor",
+      "assignee": "[John_Lowery]",
+      "registrationDate": "2008-08-21"
+    },
+    {
+      "port": 31685,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "31686-31764",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31765,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gamesmith-port",
+      "description": "GameSmith Port",
+      "assignee": "[Randy_Thompson]",
+      "registrationDate": "2002-08"
+    },
+    {
+      "port": 31765,
+      "portRange": null,
+      "transport": "udp",
+      "name": "gamesmith-port",
+      "description": "GameSmith Port",
+      "assignee": "[Randy_Thompson]",
+      "registrationDate": "2002-08"
+    },
+    {
+      "port": null,
+      "portRange": "31766-31947",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 31948,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iceedcp-tx",
+      "description": "Embedded Device Configuration Protocol TX\n\nIANA assigned this well-formed service name as a replacement for \"iceedcp_tx\".",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 31948,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iceedcp_tx",
+      "description": "Embedded Device Configuration Protocol TX",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 31948,
+      "portRange": null,
+      "transport": "udp",
+      "name": "iceedcp-tx",
+      "description": "Embedded Device Configuration Protocol TX\n\nIANA assigned this well-formed service name as a replacement for \"iceedcp_tx\".",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 31948,
+      "portRange": null,
+      "transport": "udp",
+      "name": "iceedcp_tx",
+      "description": "Embedded Device Configuration Protocol TX",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 31949,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iceedcp-rx",
+      "description": "Embedded Device Configuration Protocol RX\n\nIANA assigned this well-formed service name as a replacement for \"iceedcp_rx\".",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 31949,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iceedcp_rx",
+      "description": "Embedded Device Configuration Protocol RX",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 31949,
+      "portRange": null,
+      "transport": "udp",
+      "name": "iceedcp-rx",
+      "description": "Embedded Device Configuration Protocol RX\n\nIANA assigned this well-formed service name as a replacement for \"iceedcp_rx\".",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 31949,
+      "portRange": null,
+      "transport": "udp",
+      "name": "iceedcp_rx",
+      "description": "Embedded Device Configuration Protocol RX",
+      "assignee": "[Oliver_Lewis]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": null,
+      "portRange": "31950-32033",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

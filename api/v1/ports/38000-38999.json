@@ -1,0 +1,358 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "38000-38999",
+  "count": 39,
+  "records": [
+    {
+      "port": 38000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ivs-database",
+      "description": "InfoVista Server Database",
+      "assignee": "[InfoVista]",
+      "registrationDate": "2014-05-23"
+    },
+    {
+      "port": 38000,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ivs-insertion",
+      "description": "InfoVista Server Insertion",
+      "assignee": "[InfoVista]",
+      "registrationDate": "2014-05-23"
+    },
+    {
+      "port": 38001,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cresco-control",
+      "description": "Cresco Controller",
+      "assignee": "[UofK]",
+      "registrationDate": "2014-11-21"
+    },
+    {
+      "port": 38002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "crescoctrl-disc",
+      "description": "Cresco Controller Discovery",
+      "assignee": "[UofK]",
+      "registrationDate": "2014-11-21"
+    },
+    {
+      "port": null,
+      "portRange": "38003-38200",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38201,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "galaxy7-data",
+      "description": "Galaxy7 Data Tunnel",
+      "assignee": "[Tatham_Oddie]",
+      "registrationDate": "2002-09"
+    },
+    {
+      "port": 38201,
+      "portRange": null,
+      "transport": "udp",
+      "name": "galaxy7-data",
+      "description": "Galaxy7 Data Tunnel",
+      "assignee": "[Tatham_Oddie]",
+      "registrationDate": "2002-09"
+    },
+    {
+      "port": 38202,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fairview",
+      "description": "Fairview Message Service",
+      "assignee": "[Jim_Lyle]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 38202,
+      "portRange": null,
+      "transport": "udp",
+      "name": "fairview",
+      "description": "Fairview Message Service",
+      "assignee": "[Jim_Lyle]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 38203,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "agpolicy",
+      "description": "AppGate Policy Server",
+      "assignee": "[Martin_Forssen]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 38203,
+      "portRange": null,
+      "transport": "udp",
+      "name": "agpolicy",
+      "description": "AppGate Policy Server",
+      "assignee": "[Martin_Forssen]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "38204-38411",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38412,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38412,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38412,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "ng-control",
+      "description": "NG Control Plane (3GPP)",
+      "assignee": "[Luis_Lopes]",
+      "registrationDate": "2017-05-18"
+    },
+    {
+      "port": null,
+      "portRange": "38413-38421",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38422,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38422,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38422,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "xn-control",
+      "description": "Xn Control Plane (3GPP)",
+      "assignee": "[Luis_Lopes]",
+      "registrationDate": "2017-05-18"
+    },
+    {
+      "port": null,
+      "portRange": "38423-38461",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38462,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38462,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38462,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "e1-interface",
+      "description": "E1 signalling transport (3GPP)",
+      "assignee": "[Huawei_Technologies_France]",
+      "registrationDate": "2018-11-06"
+    },
+    {
+      "port": null,
+      "portRange": "38463-38471",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38472,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38472,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38472,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "f1-control",
+      "description": "F1 Control Plane (3GPP)",
+      "assignee": "[Luis_Lopes]",
+      "registrationDate": "2017-06-23"
+    },
+    {
+      "port": null,
+      "portRange": "38473-38637",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38638,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "psqlmws",
+      "description": "Premier SQL Middleware Server",
+      "assignee": "[Brain_Patchwork_DX_LLC]",
+      "registrationDate": "2022-02-15"
+    },
+    {
+      "port": 38638,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "38639-38799",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38800,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sruth",
+      "description": "Sruth is a service for the distribution of routinely-\n      generated but arbitrary files based on a publish/subscribe\n      distribution model and implemented using a peer-to-peer transport\n      mechanism",
+      "assignee": "[University_Corporation_for_Atmospheric_Research]",
+      "registrationDate": "2012-05-07"
+    },
+    {
+      "port": 38800,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "38801-38864",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 38865,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "secrmmsafecopya",
+      "description": "Security approval process for use of the secRMM SafeCopy program",
+      "assignee": "[Squadra_Technologies]",
+      "registrationDate": "2012-03-14"
+    },
+    {
+      "port": 38865,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "38866-39062",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "21000-21999",
+  "count": 40,
+  "records": [
+    {
+      "port": 21000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "irtrans",
+      "description": "IRTrans Control",
+      "assignee": "[Marcus_Mueller]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 21000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "irtrans",
+      "description": "IRTrans Control",
+      "assignee": "[Marcus_Mueller]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "21001-21009",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21010,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "notezilla-lan",
+      "description": "Notezilla.Lan Server",
+      "assignee": "[Conceptworld_Corporation]",
+      "registrationDate": "2013-08-20"
+    },
+    {
+      "port": 21010,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "21011-21211",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21212,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "trinket-agent",
+      "description": "Distributed artificial intelligence",
+      "assignee": "[Holvonix_LLC]",
+      "registrationDate": "2017-11-29"
+    },
+    {
+      "port": 21212,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21213,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cohesity-agent",
+      "description": "Cohesity backup agents",
+      "assignee": "[Cohesity_Inc]",
+      "registrationDate": "2019-08-01"
+    },
+    {
+      "port": 21213,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "21214-21220",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21221,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "aigairserver",
+      "description": "Services for Air Server",
+      "assignee": "[AIG_S.L.]",
+      "registrationDate": "2017-03-16"
+    },
+    {
+      "port": 21221,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "21222-21336",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21337,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xahaud",
+      "description": "Xahau P2P network protocol",
+      "assignee": "[INFTF_MTU]",
+      "registrationDate": "2025-10-16"
+    },
+    {
+      "port": 21337,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "21338-21552",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21553,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rdm-tfs",
+      "description": "Raima RDM TFS",
+      "assignee": "[Paul_Johnson]",
+      "registrationDate": "2011-05-02"
+    },
+    {
+      "port": 21553,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21554,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dfserver",
+      "description": "MineScape Design File Server",
+      "assignee": "[Michael_Purser]",
+      "registrationDate": "2006-06"
+    },
+    {
+      "port": 21554,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dfserver",
+      "description": "MineScape Design File Server",
+      "assignee": "[Michael_Purser]",
+      "registrationDate": "2006-06"
+    },
+    {
+      "port": null,
+      "portRange": "21555-21589",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21590,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vofr-gateway",
+      "description": "VoFR Gateway",
+      "assignee": "[Marty_Borden]",
+      "registrationDate": null
+    },
+    {
+      "port": 21590,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vofr-gateway",
+      "description": "VoFR Gateway",
+      "assignee": "[Marty_Borden]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "21591-21799",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21800,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tvpm",
+      "description": "TVNC Pro Multiplexing",
+      "assignee": "[Brian_Blevins]",
+      "registrationDate": null
+    },
+    {
+      "port": 21800,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tvpm",
+      "description": "TVNC Pro Multiplexing",
+      "assignee": "[Brian_Blevins]",
+      "registrationDate": null
+    },
+    {
+      "port": 21801,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sal",
+      "description": "Safe AutoLogon",
+      "assignee": "[WM_Software_Inc.]",
+      "registrationDate": "2022-07-05"
+    },
+    {
+      "port": null,
+      "portRange": "21802-21844",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 21845,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "webphone",
+      "description": "webphone",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21845,
+      "portRange": null,
+      "transport": "udp",
+      "name": "webphone",
+      "description": "webphone",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21846,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netspeak-is",
+      "description": "NetSpeak Corp. Directory Services",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21846,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netspeak-is",
+      "description": "NetSpeak Corp. Directory Services",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21847,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netspeak-cs",
+      "description": "NetSpeak Corp. Connection Services",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21847,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netspeak-cs",
+      "description": "NetSpeak Corp. Connection Services",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21848,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netspeak-acd",
+      "description": "NetSpeak Corp. Automatic Call Distribution",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21848,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netspeak-acd",
+      "description": "NetSpeak Corp. Automatic Call Distribution",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21849,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netspeak-cps",
+      "description": "NetSpeak Corp. Credit Processing System",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": 21849,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netspeak-cps",
+      "description": "NetSpeak Corp. Credit Processing System",
+      "assignee": "[Toby_Hosterman]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "21850-21999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

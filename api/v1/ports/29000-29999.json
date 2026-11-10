@@ -1,0 +1,151 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "29000-29999",
+  "count": 16,
+  "records": [
+    {
+      "port": 29000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "saltd-licensing",
+      "description": "Siemens Licensing Server",
+      "assignee": "[Siemens_Digital_Industries_Software]",
+      "registrationDate": "2020-06-08"
+    },
+    {
+      "port": 29000,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "29001-29117",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 29118,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 29118,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 29118,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "sgsap",
+      "description": "SGsAP in 3GPP",
+      "assignee": "[_3GPP_Specifications]",
+      "registrationDate": "2009-06-11"
+    },
+    {
+      "port": null,
+      "portRange": "29119-29166",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 29167,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "otmp",
+      "description": "ObTools Message Protocol",
+      "assignee": "[Paul_Clark]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 29167,
+      "portRange": null,
+      "transport": "udp",
+      "name": "otmp",
+      "description": "ObTools Message Protocol",
+      "assignee": "[Paul_Clark]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 29168,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 29168,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 29168,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "sbcap",
+      "description": "SBcAP in 3GPP",
+      "assignee": "[_3GPP_Specifications]",
+      "registrationDate": "2009-06-11"
+    },
+    {
+      "port": 29169,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "iuhsctpassoc",
+      "description": "HNBAP and RUA Common Association",
+      "assignee": "[Dongwook_Kim]",
+      "registrationDate": "2009-09-08"
+    },
+    {
+      "port": null,
+      "portRange": "29170-29998",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 29999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bingbang",
+      "description": "data exchange protocol for IEC61850 in wind power plants",
+      "assignee": "[DEIF_AS]",
+      "registrationDate": "2012-10-15"
+    },
+    {
+      "port": 29999,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

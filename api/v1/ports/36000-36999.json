@@ -1,0 +1,313 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "36000-36999",
+  "count": 34,
+  "records": [
+    {
+      "port": 36001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "allpeers",
+      "description": "AllPeers Network",
+      "assignee": "[Cedric_Maloux]",
+      "registrationDate": "2007-04"
+    },
+    {
+      "port": 36001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "allpeers",
+      "description": "AllPeers Network",
+      "assignee": "[Cedric_Maloux]",
+      "registrationDate": "2007-04"
+    },
+    {
+      "port": null,
+      "portRange": "36002-36410",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36411,
+      "portRange": null,
+      "transport": "udp",
+      "name": "wlcp",
+      "description": "Wireless LAN Control plane Protocol (WLCP)",
+      "assignee": "[_3GPP]",
+      "registrationDate": "2014-11-14"
+    },
+    {
+      "port": 36411,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36412,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36412,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36412,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "s1-control",
+      "description": "S1-Control Plane (3GPP)",
+      "assignee": "[Kimmo_Kymalainen]",
+      "registrationDate": "2009-09-01"
+    },
+    {
+      "port": null,
+      "portRange": "36413-36421",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36422,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36422,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36422,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "x2-control",
+      "description": "X2-Control Plane (3GPP)",
+      "assignee": "[Kimmo_Kymalainen]",
+      "registrationDate": "2009-09-01"
+    },
+    {
+      "port": 36423,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "slmap",
+      "description": "SLm Interface Application Protocol",
+      "assignee": "[_3GPP_4]",
+      "registrationDate": "2015-06-18"
+    },
+    {
+      "port": 36424,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "nq-ap",
+      "description": "Nq and Nq' Application Protocol",
+      "assignee": "[_3GPP_4]",
+      "registrationDate": "2015-06-18"
+    },
+    {
+      "port": null,
+      "portRange": "36425-36442",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36443,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "m2ap",
+      "description": "M2 Application Part",
+      "assignee": "[Dario_S_Tonesi]",
+      "registrationDate": "2011-02-07"
+    },
+    {
+      "port": 36444,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "m3ap",
+      "description": "M3 Application Part",
+      "assignee": "[Dario_S_Tonesi]",
+      "registrationDate": "2011-02-07"
+    },
+    {
+      "port": null,
+      "portRange": "36445-36461",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36462,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36462,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36462,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "xw-control",
+      "description": "Xw-Control Plane (3GPP)",
+      "assignee": "[Boubacar_KIMNBA_DIT_ADAMOU]",
+      "registrationDate": "2015-11-13"
+    },
+    {
+      "port": null,
+      "portRange": "36463-36523",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36524,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "febooti-aw",
+      "description": "Febooti Automation Workshop",
+      "assignee": "[Maris_Bormanis]",
+      "registrationDate": "2011-06-10"
+    },
+    {
+      "port": 36524,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "36525-36601",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36602,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "observium-agent",
+      "description": "Observium statistics collection agent",
+      "assignee": "[Observium]",
+      "registrationDate": "2013-05-10"
+    },
+    {
+      "port": 36602,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "36603-36699",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36700,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mapx",
+      "description": "MapX communication",
+      "assignee": "[MicroTechniX]",
+      "registrationDate": "2014-10-13"
+    },
+    {
+      "port": 36700,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "36701-36864",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 36865,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "kastenxpipe",
+      "description": "KastenX Pipe",
+      "assignee": "[Guy_Cheng]",
+      "registrationDate": null
+    },
+    {
+      "port": 36865,
+      "portRange": null,
+      "transport": "udp",
+      "name": "kastenxpipe",
+      "description": "KastenX Pipe",
+      "assignee": "[Guy_Cheng]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "36866-37471",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

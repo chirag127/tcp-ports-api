@@ -1,0 +1,178 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "40000-40999",
+  "count": 19,
+  "records": [
+    {
+      "port": 40000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "safetynetp",
+      "description": "SafetyNET p",
+      "assignee": "[Pilz_GmbH_and_Co._KG]",
+      "registrationDate": "2006-11"
+    },
+    {
+      "port": 40000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "safetynetp",
+      "description": "SafetyNET p",
+      "assignee": "[Pilz_GmbH_and_Co._KG]",
+      "registrationDate": "2006-11"
+    },
+    {
+      "port": null,
+      "portRange": "40001-40022",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 40023,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 40023,
+      "portRange": null,
+      "transport": "udp",
+      "name": "k-patentssensor",
+      "description": "K-PatentsSensorInformation",
+      "assignee": "[Vaisala]",
+      "registrationDate": "2015-12-02"
+    },
+    {
+      "port": null,
+      "portRange": "40024-40403",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 40404,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sptx",
+      "description": "Simplify Printing TX",
+      "assignee": "[Tricerat]",
+      "registrationDate": "2013-12-09"
+    },
+    {
+      "port": 40404,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "40405-40840",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 40841,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cscp",
+      "description": "CSCP",
+      "assignee": "[Michael_Dodge]",
+      "registrationDate": null
+    },
+    {
+      "port": 40841,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cscp",
+      "description": "CSCP",
+      "assignee": "[Michael_Dodge]",
+      "registrationDate": null
+    },
+    {
+      "port": 40842,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "csccredir",
+      "description": "CSCCREDIR",
+      "assignee": "[Sudhir_Menon]",
+      "registrationDate": null
+    },
+    {
+      "port": 40842,
+      "portRange": null,
+      "transport": "udp",
+      "name": "csccredir",
+      "description": "CSCCREDIR",
+      "assignee": "[Sudhir_Menon]",
+      "registrationDate": null
+    },
+    {
+      "port": 40843,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "csccfirewall",
+      "description": "CSCCFIREWALL",
+      "assignee": "[Sudhir_Menon]",
+      "registrationDate": null
+    },
+    {
+      "port": 40843,
+      "portRange": null,
+      "transport": "udp",
+      "name": "csccfirewall",
+      "description": "CSCCFIREWALL",
+      "assignee": "[Sudhir_Menon]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "40844-40852",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 40853,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 40853,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ortec-disc",
+      "description": "ORTEC Service Discovery",
+      "assignee": "[Jesse_Ursery]",
+      "registrationDate": "2010-11-22"
+    },
+    {
+      "port": null,
+      "portRange": "40854-41110",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

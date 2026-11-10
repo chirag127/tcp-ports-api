@@ -1,0 +1,277 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "26000-26999",
+  "count": 30,
+  "records": [
+    {
+      "port": 26000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "quake",
+      "description": "quake",
+      "assignee": "[Yasunari_Gon_Yamasit]",
+      "registrationDate": null
+    },
+    {
+      "port": 26000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "quake",
+      "description": "quake",
+      "assignee": "[Yasunari_Gon_Yamasit]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "26001-26132",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 26133,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "scscp",
+      "description": "Symbolic Computation Software Composability Protocol",
+      "assignee": "[Alexander_Konovalov]",
+      "registrationDate": "2007-11-27"
+    },
+    {
+      "port": 26133,
+      "portRange": null,
+      "transport": "udp",
+      "name": "scscp",
+      "description": "Symbolic Computation Software Composability Protocol",
+      "assignee": "[Alexander_Konovalov]",
+      "registrationDate": "2007-11-27"
+    },
+    {
+      "port": null,
+      "portRange": "26134-26207",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 26208,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "wnn6-ds",
+      "description": "wnn6-ds",
+      "assignee": "[Yasunari_Gon_Yamasit]",
+      "registrationDate": null
+    },
+    {
+      "port": 26208,
+      "portRange": null,
+      "transport": "udp",
+      "name": "wnn6-ds",
+      "description": "wnn6-ds",
+      "assignee": "[Yasunari_Gon_Yamasit]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "26209-26256",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 26257,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cockroach",
+      "description": "CockroachDB",
+      "assignee": "[Cockroach_Labs_Inc]",
+      "registrationDate": "2015-09-29"
+    },
+    {
+      "port": 26257,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "26258-26259",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 26260,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ezproxy",
+      "description": "eZproxy",
+      "assignee": "[Albert_C_Yang]",
+      "registrationDate": null
+    },
+    {
+      "port": 26260,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ezproxy",
+      "description": "eZproxy",
+      "assignee": "[Albert_C_Yang]",
+      "registrationDate": null
+    },
+    {
+      "port": 26261,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ezmeeting",
+      "description": "eZmeeting",
+      "assignee": "[Albert_C_Yang]",
+      "registrationDate": null
+    },
+    {
+      "port": 26261,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ezmeeting",
+      "description": "eZmeeting",
+      "assignee": "[Albert_C_Yang]",
+      "registrationDate": null
+    },
+    {
+      "port": 26262,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "k3software-svr",
+      "description": "K3 Software-Server",
+      "assignee": "[Jim_Baldridge]",
+      "registrationDate": null
+    },
+    {
+      "port": 26262,
+      "portRange": null,
+      "transport": "udp",
+      "name": "k3software-svr",
+      "description": "K3 Software-Server",
+      "assignee": "[Jim_Baldridge]",
+      "registrationDate": null
+    },
+    {
+      "port": 26263,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "k3software-cli",
+      "description": "K3 Software-Client",
+      "assignee": "[Jim_Baldridge]",
+      "registrationDate": null
+    },
+    {
+      "port": 26263,
+      "portRange": null,
+      "transport": "udp",
+      "name": "k3software-cli",
+      "description": "K3 Software-Client",
+      "assignee": "[Jim_Baldridge]",
+      "registrationDate": null
+    },
+    {
+      "port": 26264,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "De-registered",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "26265-26485",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 26486,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "exoline-tcp",
+      "description": "EXOline-TCP",
+      "assignee": "[AB_Regin]",
+      "registrationDate": "2008-12-24"
+    },
+    {
+      "port": 26486,
+      "portRange": null,
+      "transport": "udp",
+      "name": "exoline-udp",
+      "description": "EXOline-UDP",
+      "assignee": "[AB_Regin]",
+      "registrationDate": "2008-12-24"
+    },
+    {
+      "port": 26487,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "exoconfig",
+      "description": "EXOconfig",
+      "assignee": "[Urban_Fosseus]",
+      "registrationDate": "2008-12-24"
+    },
+    {
+      "port": 26487,
+      "portRange": null,
+      "transport": "udp",
+      "name": "exoconfig",
+      "description": "EXOconfig",
+      "assignee": "[Urban_Fosseus]",
+      "registrationDate": "2008-12-24"
+    },
+    {
+      "port": 26488,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 26489,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "exonet",
+      "description": "EXOnet",
+      "assignee": "[Urban_Fosseus]",
+      "registrationDate": "2008-12-24"
+    },
+    {
+      "port": 26489,
+      "portRange": null,
+      "transport": "udp",
+      "name": "exonet",
+      "description": "EXOnet",
+      "assignee": "[Urban_Fosseus]",
+      "registrationDate": "2008-12-24"
+    },
+    {
+      "port": null,
+      "portRange": "26490-26999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

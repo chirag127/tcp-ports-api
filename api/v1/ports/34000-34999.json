@@ -1,0 +1,232 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "34000-34999",
+  "count": 25,
+  "records": [
+    {
+      "port": 34249,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "turbonote-2",
+      "description": "TurboNote Relay Server Default Port",
+      "assignee": "[Peter_Hyde]",
+      "registrationDate": null
+    },
+    {
+      "port": 34249,
+      "portRange": null,
+      "transport": "udp",
+      "name": "turbonote-2",
+      "description": "TurboNote Relay Server Default Port",
+      "assignee": "[Peter_Hyde]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "34250-34377",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 34378,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "p-net-local",
+      "description": "P-Net on IP local",
+      "assignee": "[Kurt_Nissen]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": 34378,
+      "portRange": null,
+      "transport": "udp",
+      "name": "p-net-local",
+      "description": "P-Net on IP local",
+      "assignee": "[Kurt_Nissen]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": 34379,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "p-net-remote",
+      "description": "P-Net on IP remote",
+      "assignee": "[Kurt_Nissen]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": 34379,
+      "portRange": null,
+      "transport": "udp",
+      "name": "p-net-remote",
+      "description": "P-Net on IP remote",
+      "assignee": "[Kurt_Nissen]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": null,
+      "portRange": "34380-34566",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 34567,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dhanalakshmi",
+      "description": "dhanalakshmi.org EDI Service",
+      "assignee": "[Girish_Gopalakrishna]",
+      "registrationDate": "2010-04-20"
+    },
+    {
+      "port": 34567,
+      "portRange": null,
+      "transport": "udp",
+      "name": "edi_service",
+      "description": "dhanalakshmi.org EDI Service",
+      "assignee": "[Girish_Gopalakrishna]",
+      "registrationDate": "2016-10-26"
+    },
+    {
+      "port": null,
+      "portRange": "34568-34961",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 34962,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "profinet-rt",
+      "description": "PROFInet RT Unicast",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 34962,
+      "portRange": null,
+      "transport": "udp",
+      "name": "profinet-rt",
+      "description": "PROFInet RT Unicast",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 34963,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "profinet-rtm",
+      "description": "PROFInet RT Multicast",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 34963,
+      "portRange": null,
+      "transport": "udp",
+      "name": "profinet-rtm",
+      "description": "PROFInet RT Multicast",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 34964,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "profinet-cm",
+      "description": "PROFInet Context Manager",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 34964,
+      "portRange": null,
+      "transport": "udp",
+      "name": "profinet-cm",
+      "description": "PROFInet Context Manager",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 34965,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "profinet-cm-sec",
+      "description": "PROFINET secure connection management and key provisioning",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2026-03-10"
+    },
+    {
+      "port": 34965,
+      "portRange": null,
+      "transport": "udp",
+      "name": "profinet-cm-sec",
+      "description": "PROFINET secure connection management and key provisioning",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2026-03-10"
+    },
+    {
+      "port": 34966,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 34966,
+      "portRange": null,
+      "transport": "udp",
+      "name": "profinet-rt-sec",
+      "description": "PROFINET secure real-time data transfer over UDP (unicast and multicast)",
+      "assignee": "[PNO_PROFIBUS_Nutzerorganisation_e.V.]",
+      "registrationDate": "2026-03-10"
+    },
+    {
+      "port": null,
+      "portRange": "34967-34979",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 34980,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ethercat",
+      "description": "EtherCAT Port",
+      "assignee": "[Martin_Rostan]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 34980,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ethercat",
+      "description": "EtherCAT Port",
+      "assignee": "[Martin_Rostan]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": null,
+      "portRange": "34981-34999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

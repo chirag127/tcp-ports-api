@@ -1,0 +1,448 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "32000-32999",
+  "count": 49,
+  "records": [
+    {
+      "port": 32034,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iracinghelper",
+      "description": "iRacing helper service",
+      "assignee": "[Randy_Cassidy]",
+      "registrationDate": "2007-08-30"
+    },
+    {
+      "port": 32034,
+      "portRange": null,
+      "transport": "udp",
+      "name": "iracinghelper",
+      "description": "iRacing helper service",
+      "assignee": "[Randy_Cassidy]",
+      "registrationDate": "2007-08-30"
+    },
+    {
+      "port": null,
+      "portRange": "32035-32248",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32249,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "t1distproc60",
+      "description": "T1 Distributed Processor",
+      "assignee": "[Peter_Beahan]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 32249,
+      "portRange": null,
+      "transport": "udp",
+      "name": "t1distproc60",
+      "description": "T1 Distributed Processor",
+      "assignee": "[Peter_Beahan]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "32250-32399",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32400,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "plex",
+      "description": "Plex multimedia",
+      "assignee": "[Plex_Inc.]",
+      "registrationDate": "2016-06-02"
+    },
+    {
+      "port": 32400,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "32401-32482",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32483,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "apm-link",
+      "description": "Access Point Manager Link",
+      "assignee": "[Tony_Diodato]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 32483,
+      "portRange": null,
+      "transport": "udp",
+      "name": "apm-link",
+      "description": "Access Point Manager Link",
+      "assignee": "[Tony_Diodato]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "32484-32634",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32635,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sec-ntb-clnt",
+      "description": "SecureNotebook-CLNT",
+      "assignee": "[Eric_Cantineau]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 32635,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sec-ntb-clnt",
+      "description": "SecureNotebook-CLNT",
+      "assignee": "[Eric_Cantineau]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 32636,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "DMExpress",
+      "description": "DMExpress",
+      "assignee": "[Arnie_Farrelly]",
+      "registrationDate": null
+    },
+    {
+      "port": 32636,
+      "portRange": null,
+      "transport": "udp",
+      "name": "DMExpress",
+      "description": "DMExpress",
+      "assignee": "[Arnie_Farrelly]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "32637-32766",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32767,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-powsrm",
+      "description": "FileNet BPM WS-ReliableMessaging Client",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 32767,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-powsrm",
+      "description": "FileNet BPM WS-ReliableMessaging Client",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 32768,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-tms",
+      "description": "Filenet TMS",
+      "assignee": "[Daniel_Whelan]",
+      "registrationDate": null
+    },
+    {
+      "port": 32768,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-tms",
+      "description": "Filenet TMS",
+      "assignee": "[Daniel_Whelan]",
+      "registrationDate": null
+    },
+    {
+      "port": 32769,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-rpc",
+      "description": "Filenet RPC",
+      "assignee": "[Daniel_Whelan]",
+      "registrationDate": null
+    },
+    {
+      "port": 32769,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-rpc",
+      "description": "Filenet RPC",
+      "assignee": "[Daniel_Whelan]",
+      "registrationDate": null
+    },
+    {
+      "port": 32770,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-nch",
+      "description": "Filenet NCH",
+      "assignee": "[Daniel_Whelan]",
+      "registrationDate": null
+    },
+    {
+      "port": 32770,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-nch",
+      "description": "Filenet NCH",
+      "assignee": "[Daniel_Whelan]",
+      "registrationDate": null
+    },
+    {
+      "port": 32771,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-rmi",
+      "description": "FileNET RMI",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": null
+    },
+    {
+      "port": 32771,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-rmi",
+      "description": "FileNet RMI",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": null
+    },
+    {
+      "port": 32772,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-pa",
+      "description": "FileNET Process Analyzer",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 32772,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-pa",
+      "description": "FileNET Process Analyzer",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 32773,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-cm",
+      "description": "FileNET Component Manager",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 32773,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-cm",
+      "description": "FileNET Component Manager",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 32774,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-re",
+      "description": "FileNET Rules Engine",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 32774,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-re",
+      "description": "FileNET Rules Engine",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 32775,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-pch",
+      "description": "Performance Clearinghouse",
+      "assignee": "[Tim_Morgan_2]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 32775,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-pch",
+      "description": "Performance Clearinghouse",
+      "assignee": "[Tim_Morgan_2]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 32776,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-peior",
+      "description": "FileNET BPM IOR",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 32776,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-peior",
+      "description": "FileNET BPM IOR",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 32777,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filenet-obrok",
+      "description": "FileNet BPM CORBA",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 32777,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filenet-obrok",
+      "description": "FileNet BPM CORBA",
+      "assignee": "[Chris_Adkins]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": null,
+      "portRange": "32778-32800",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32801,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mlsn",
+      "description": "Multiple Listing Service Network",
+      "assignee": "[Corey_Leong]",
+      "registrationDate": "2010-10-11"
+    },
+    {
+      "port": 32801,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mlsn",
+      "description": "Multiple Listing Service Network",
+      "assignee": "[Corey_Leong]",
+      "registrationDate": "2010-10-11"
+    },
+    {
+      "port": null,
+      "portRange": "32802-32810",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32811,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "retp",
+      "description": "Real Estate Transport Protocol",
+      "assignee": "[Corey_Leong]",
+      "registrationDate": "2010-10-11"
+    },
+    {
+      "port": 32811,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "32812-32895",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 32896,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "idmgratm",
+      "description": "Attachmate ID Manager",
+      "assignee": "[George_Gianelos_2]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": 32896,
+      "portRange": null,
+      "transport": "udp",
+      "name": "idmgratm",
+      "description": "Attachmate ID Manager",
+      "assignee": "[George_Gianelos_2]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": null,
+      "portRange": "32897-32999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

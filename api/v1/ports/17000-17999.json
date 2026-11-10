@@ -1,0 +1,457 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "17000-17999",
+  "count": 50,
+  "records": [
+    {
+      "port": 17007,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "isode-dua",
+      "description": null,
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17007,
+      "portRange": null,
+      "transport": "udp",
+      "name": "isode-dua",
+      "description": null,
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "17008-17009",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17010,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ncpu",
+      "description": "Plan 9 cpu port",
+      "assignee": "[Ronald_G_Minnich]",
+      "registrationDate": "2022-05-13"
+    },
+    {
+      "port": 17010,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "17011-17183",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17184,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vestasdlp",
+      "description": "Vestas Data Layer Protocol",
+      "assignee": "[Vestas_Wind_Systems]",
+      "registrationDate": "2013-10-30"
+    },
+    {
+      "port": 17184,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17185,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "soundsvirtual",
+      "description": "Sounds Virtual",
+      "assignee": "[Richard_Snider]",
+      "registrationDate": null
+    },
+    {
+      "port": 17185,
+      "portRange": null,
+      "transport": "udp",
+      "name": "soundsvirtual",
+      "description": "Sounds Virtual",
+      "assignee": "[Richard_Snider]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "17186-17218",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17219,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "chipper",
+      "description": "Chipper",
+      "assignee": "[Ronald_Jimmink]",
+      "registrationDate": null
+    },
+    {
+      "port": 17219,
+      "portRange": null,
+      "transport": "udp",
+      "name": "chipper",
+      "description": "Chipper",
+      "assignee": "[Ronald_Jimmink]",
+      "registrationDate": null
+    },
+    {
+      "port": 17220,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "avtp",
+      "description": "IEEE 1722 Transport Protocol for Time Sensitive Applications",
+      "assignee": "[Transport_Protocol_for_Time-Sensitive_Networking_TG]",
+      "registrationDate": "2014-03-07"
+    },
+    {
+      "port": 17220,
+      "portRange": null,
+      "transport": "udp",
+      "name": "avtp",
+      "description": "IEEE 1722 Transport Protocol for Time Sensitive Applications",
+      "assignee": "[Transport_Protocol_for_Time-Sensitive_Networking_TG]",
+      "registrationDate": "2014-03-07"
+    },
+    {
+      "port": 17221,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "avdecc",
+      "description": "IEEE 1722.1 AVB Discovery, Enumeration, Connection management, and Control",
+      "assignee": "[IEEE_1722_1]",
+      "registrationDate": "2011-11-01"
+    },
+    {
+      "port": 17221,
+      "portRange": null,
+      "transport": "udp",
+      "name": "avdecc",
+      "description": "IEEE 1722.1 AVB Discovery, Enumeration, Connection management, and Control",
+      "assignee": "[IEEE_1722_1]",
+      "registrationDate": "2011-11-01"
+    },
+    {
+      "port": 17222,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17222,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cpsp",
+      "description": "Control Plane Synchronization Protocol (SPSP)",
+      "assignee": "[Randall_Stewart_2]",
+      "registrationDate": "2011-11-10"
+    },
+    {
+      "port": 17223,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "isa100-gci",
+      "description": "ISA100 GCI is a service utilizing a common interface between an ISA100 Wireless gateway and a client application",
+      "assignee": "[ISA100_Wireless_Compliance_Institute]",
+      "registrationDate": "2015-07-24"
+    },
+    {
+      "port": 17223,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17224,
+      "portRange": null,
+      "transport": "udp",
+      "name": "trdp-pd",
+      "description": "Train Realtime Data Protocol (TRDP) Process Data",
+      "assignee": "[IEC_Central_Office]",
+      "registrationDate": "2015-07-24"
+    },
+    {
+      "port": 17224,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17225,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "trdp-md",
+      "description": "Train Realtime Data Protocol (TRDP) Message Data",
+      "assignee": "[IEC_Central_Office]",
+      "registrationDate": "2015-07-24"
+    },
+    {
+      "port": 17225,
+      "portRange": null,
+      "transport": "udp",
+      "name": "trdp-md",
+      "description": "Train Realtime Data Protocol (TRDP) Message Data",
+      "assignee": "[IEC_Central_Office]",
+      "registrationDate": "2015-07-24"
+    },
+    {
+      "port": null,
+      "portRange": "17226-17233",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17234,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "integrius-stp",
+      "description": "Integrius Secure Tunnel Protocol",
+      "assignee": "[Christian_Klemetsson]",
+      "registrationDate": "2010-03-04"
+    },
+    {
+      "port": 17234,
+      "portRange": null,
+      "transport": "udp",
+      "name": "integrius-stp",
+      "description": "Integrius Secure Tunnel Protocol",
+      "assignee": "[Christian_Klemetsson]",
+      "registrationDate": "2010-03-04"
+    },
+    {
+      "port": 17235,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ssh-mgmt",
+      "description": "SSH Tectia Manager",
+      "assignee": "[Ville_Laurikari]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 17235,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ssh-mgmt",
+      "description": "SSH Tectia Manager",
+      "assignee": "[Ville_Laurikari]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "17236-17499",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17500,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "db-lsp",
+      "description": "Dropbox LanSync Protocol",
+      "assignee": "[Paul_Bohm]",
+      "registrationDate": "2010-01-21"
+    },
+    {
+      "port": 17500,
+      "portRange": null,
+      "transport": "udp",
+      "name": "db-lsp-disc",
+      "description": "Dropbox LanSync Discovery",
+      "assignee": "[Paul_Bohm]",
+      "registrationDate": "2010-01-21"
+    },
+    {
+      "port": null,
+      "portRange": "17501-17554",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17555,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ailith",
+      "description": "Ailith management of routers",
+      "assignee": "[Thomas_Boje]",
+      "registrationDate": "2014-03-27"
+    },
+    {
+      "port": 17555,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "17556-17728",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17729,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ea",
+      "description": "Eclipse Aviation",
+      "assignee": "[William_Schmidt]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": 17729,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ea",
+      "description": "Eclipse Aviation",
+      "assignee": "[William_Schmidt]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": null,
+      "portRange": "17730-17753",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17754,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "zep",
+      "description": "Encap. ZigBee Packets",
+      "assignee": "[Fred_Fierling]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 17754,
+      "portRange": null,
+      "transport": "udp",
+      "name": "zep",
+      "description": "Encap. ZigBee Packets",
+      "assignee": "[Fred_Fierling]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 17755,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "zigbee-ip",
+      "description": "ZigBee IP Transport Service",
+      "assignee": "[Chris_Herzog]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 17755,
+      "portRange": null,
+      "transport": "udp",
+      "name": "zigbee-ip",
+      "description": "ZigBee IP Transport Service",
+      "assignee": "[Chris_Herzog]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 17756,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "zigbee-ips",
+      "description": "ZigBee IP Transport Secure Service",
+      "assignee": "[Chris_Herzog]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 17756,
+      "portRange": null,
+      "transport": "udp",
+      "name": "zigbee-ips",
+      "description": "ZigBee IP Transport Secure Service",
+      "assignee": "[Chris_Herzog]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": null,
+      "portRange": "17757-17776",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 17777,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sw-orion",
+      "description": "SolarWinds Orion",
+      "assignee": "[Joel_Dolisy]",
+      "registrationDate": "2008-09-10"
+    },
+    {
+      "port": 17777,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "17778-17999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

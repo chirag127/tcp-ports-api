@@ -1,0 +1,268 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "30000-30999",
+  "count": 29,
+  "records": [
+    {
+      "port": 30000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ndmps",
+      "description": "Secure Network Data Management Protocol",
+      "assignee": "[Alioune_Thiam]",
+      "registrationDate": "2013-02-05"
+    },
+    {
+      "port": 30000,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pago-services1",
+      "description": "Pago Services 1",
+      "assignee": "[Balduin_Mueller_Plat]",
+      "registrationDate": "2002-03"
+    },
+    {
+      "port": 30001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pago-services1",
+      "description": "Pago Services 1",
+      "assignee": "[Balduin_Mueller_Plat]",
+      "registrationDate": "2002-03"
+    },
+    {
+      "port": 30002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pago-services2",
+      "description": "Pago Services 2",
+      "assignee": "[Balduin_Mueller_Plat]",
+      "registrationDate": "2002-03"
+    },
+    {
+      "port": 30002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pago-services2",
+      "description": "Pago Services 2",
+      "assignee": "[Balduin_Mueller_Plat]",
+      "registrationDate": "2002-03"
+    },
+    {
+      "port": 30003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "amicon-fpsu-ra",
+      "description": "Amicon FPSU-IP Remote Administration",
+      "assignee": "[Amicon_OOO]",
+      "registrationDate": "2013-04-25"
+    },
+    {
+      "port": 30003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amicon-fpsu-ra",
+      "description": "Amicon FPSU-IP Remote Administration",
+      "assignee": "[Amicon_OOO]",
+      "registrationDate": "2013-04-25"
+    },
+    {
+      "port": 30004,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amicon-fpsu-s",
+      "description": "Amicon FPSU-IP VPN",
+      "assignee": "[Amicon_OOO]",
+      "registrationDate": "2013-04-25"
+    },
+    {
+      "port": 30004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "30005-30099",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30100,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rwp",
+      "description": "Remote Window Protocol",
+      "assignee": "[Maxim_Baklanovsky]",
+      "registrationDate": "2015-05-20"
+    },
+    {
+      "port": 30100,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30100,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "rwp",
+      "description": "Remote Window Protocol",
+      "assignee": "[Maxim_Baklanovsky]",
+      "registrationDate": "2015-05-20"
+    },
+    {
+      "port": null,
+      "portRange": "30101-30259",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30260,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "kingdomsonline",
+      "description": "Kingdoms Online (CraigAvenue)",
+      "assignee": "[Drake_Bankston]",
+      "registrationDate": "2009-08-18"
+    },
+    {
+      "port": 30260,
+      "portRange": null,
+      "transport": "udp",
+      "name": "kingdomsonline",
+      "description": "Kingdoms Online (CraigAvenue)",
+      "assignee": "[Drake_Bankston]",
+      "registrationDate": "2009-08-18"
+    },
+    {
+      "port": null,
+      "portRange": "30261-30399",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30400,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gs-realtime",
+      "description": "GroundStar RealTime System",
+      "assignee": "[INFORM_GmbH]",
+      "registrationDate": "2017-08-10"
+    },
+    {
+      "port": 30400,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "30401-30831",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30832,
+      "portRange": null,
+      "transport": "udp",
+      "name": "samsung-disc",
+      "description": "Samsung Convergence Discovery Protocol",
+      "assignee": "[Samsung_2]",
+      "registrationDate": "2013-05-29"
+    },
+    {
+      "port": 30832,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "30833-30938",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30939,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dilithium3",
+      "description": "Persistent peer-to-peer connections for block propagation, transaction relay, and BFT consensus message exchange.",
+      "assignee": "[Juan_Jose_Todoli_de_Torres]",
+      "registrationDate": "2026-05-28"
+    },
+    {
+      "port": 30939,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dilithium3",
+      "description": "Kademlia DHT peer discovery and routing table maintenance.",
+      "assignee": "[Juan_Jose_Todoli_de_Torres]",
+      "registrationDate": "2026-05-28"
+    },
+    {
+      "port": null,
+      "portRange": "30940-30998",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 30999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ovobs",
+      "description": "OpenView Service Desk Client",
+      "assignee": "[Service_Desk_Product]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 30999,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ovobs",
+      "description": "OpenView Service Desk Client",
+      "assignee": "[Service_Desk_Product]",
+      "registrationDate": "2006-05"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "49000-49999",
+  "count": 8,
+  "records": [
+    {
+      "port": 49000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "matahari",
+      "description": "Matahari Broker",
+      "assignee": "[Matahari_Project]",
+      "registrationDate": "2011-08-31"
+    },
+    {
+      "port": 49000,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 49001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nusrp",
+      "description": "Nuance Unity Service Request Protocol",
+      "assignee": "[Nuance_Communications_Inc3]",
+      "registrationDate": "2017-04-20"
+    },
+    {
+      "port": 49001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nusdp-disc",
+      "description": "Nuance Unity Service Discovery Protocol",
+      "assignee": "[Nuance_Communications_Inc3]",
+      "registrationDate": "2017-04-20"
+    },
+    {
+      "port": null,
+      "portRange": "49002-49149",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 49150,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inspider",
+      "description": "InSpider System",
+      "assignee": "[AnRobot]",
+      "registrationDate": "2017-11-06"
+    },
+    {
+      "port": 49150,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 49151,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

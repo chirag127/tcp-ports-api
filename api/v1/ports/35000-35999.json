@@ -1,0 +1,250 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "35000-35999",
+  "count": 27,
+  "records": [
+    {
+      "port": 35000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "heathview",
+      "description": "HeathView",
+      "assignee": "[Heathwest_Systems_Limited]",
+      "registrationDate": "2013-03-21"
+    },
+    {
+      "port": 35000,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rt-viewer",
+      "description": "ReadyTech Viewer",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rt-viewer",
+      "description": "ReadyTech Viewer",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rt-sound",
+      "description": "ReadyTech Sound Server",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35002,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rt-devicemapper",
+      "description": "ReadyTech DeviceMapper Server",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35003,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rt-classmanager",
+      "description": "ReadyTech ClassManager",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35004,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rt-classmanager",
+      "description": "ReadyTech ClassManager",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rt-labtracker",
+      "description": "ReadyTech LabTracker",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35005,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35006,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rt-helper",
+      "description": "ReadyTech Helper Service",
+      "assignee": "[ReadyTech_Corporation]",
+      "registrationDate": "2013-09-13"
+    },
+    {
+      "port": 35006,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "35007-35099",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35100,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "axio-disc",
+      "description": "Axiomatic discovery protocol",
+      "assignee": "[Axiomatic_Technologies_Corporation]",
+      "registrationDate": "2016-12-09"
+    },
+    {
+      "port": 35100,
+      "portRange": null,
+      "transport": "udp",
+      "name": "axio-disc",
+      "description": "Axiomatic discovery protocol",
+      "assignee": "[Axiomatic_Technologies_Corporation]",
+      "registrationDate": "2016-12-09"
+    },
+    {
+      "port": null,
+      "portRange": "35101-35353",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35354,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "kitim",
+      "description": "KIT Messenger",
+      "assignee": "[Rudi_Visser]",
+      "registrationDate": "2011-07-07"
+    },
+    {
+      "port": 35354,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35355,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "altova-lm",
+      "description": "Altova License Management",
+      "assignee": "[Alexander_Falk_2]",
+      "registrationDate": "2011-07-07"
+    },
+    {
+      "port": 35355,
+      "portRange": null,
+      "transport": "udp",
+      "name": "altova-lm-disc",
+      "description": "Altova License Management Discovery",
+      "assignee": "[Alexander_Falk_2]",
+      "registrationDate": "2011-07-07"
+    },
+    {
+      "port": 35356,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "guttersnex",
+      "description": "Gutters Note Exchange",
+      "assignee": "[Squee_Application_Development]",
+      "registrationDate": "2011-07-19"
+    },
+    {
+      "port": 35356,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 35357,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "openstack-id",
+      "description": "OpenStack ID Service",
+      "assignee": "[Rackspace_Hosting]",
+      "registrationDate": "2011-08-15"
+    },
+    {
+      "port": 35357,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "35358-36000",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

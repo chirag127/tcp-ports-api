@@ -1,0 +1,574 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "12000-12999",
+  "count": 63,
+  "records": [
+    {
+      "port": 12000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "entextxid",
+      "description": "IBM Enterprise Extender SNA XID Exchange",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "entextxid",
+      "description": "IBM Enterprise Extender SNA XID Exchange",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "entextnetwk",
+      "description": "IBM Enterprise Extender SNA COS Network Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "entextnetwk",
+      "description": "IBM Enterprise Extender SNA COS Network Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "entexthigh",
+      "description": "IBM Enterprise Extender SNA COS High Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "entexthigh",
+      "description": "IBM Enterprise Extender SNA COS High Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "entextmed",
+      "description": "IBM Enterprise Extender SNA COS Medium Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "entextmed",
+      "description": "IBM Enterprise Extender SNA COS Medium Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "entextlow",
+      "description": "IBM Enterprise Extender SNA COS Low Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12004,
+      "portRange": null,
+      "transport": "udp",
+      "name": "entextlow",
+      "description": "IBM Enterprise Extender SNA COS Low Priority",
+      "assignee": "[Eugene_Cox]",
+      "registrationDate": null
+    },
+    {
+      "port": 12005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dbisamserver1",
+      "description": "DBISAM Database Server - Regular",
+      "assignee": "[Tim_Young]",
+      "registrationDate": "2002-05"
+    },
+    {
+      "port": 12005,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dbisamserver1",
+      "description": "DBISAM Database Server - Regular",
+      "assignee": "[Tim_Young]",
+      "registrationDate": "2002-05"
+    },
+    {
+      "port": 12006,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dbisamserver2",
+      "description": "DBISAM Database Server - Admin",
+      "assignee": "[Tim_Young]",
+      "registrationDate": "2002-05"
+    },
+    {
+      "port": 12006,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dbisamserver2",
+      "description": "DBISAM Database Server - Admin",
+      "assignee": "[Tim_Young]",
+      "registrationDate": "2002-05"
+    },
+    {
+      "port": 12007,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "accuracer",
+      "description": "Accuracer Database System Server",
+      "assignee": "[Alexander_V_Ivanov]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 12007,
+      "portRange": null,
+      "transport": "udp",
+      "name": "accuracer",
+      "description": "Accuracer Database System Server",
+      "assignee": "[Alexander_V_Ivanov]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 12008,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "accuracer-dbms",
+      "description": "Accuracer Database System Admin",
+      "assignee": "[Alexander_V_Ivanov]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 12008,
+      "portRange": null,
+      "transport": "udp",
+      "name": "accuracer-dbms",
+      "description": "Accuracer Database System Admin",
+      "assignee": "[Alexander_V_Ivanov]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 12009,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12009,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ghvpn",
+      "description": "Green Hills VPN",
+      "assignee": "[Green_Hills_Software]",
+      "registrationDate": "2012-02-07"
+    },
+    {
+      "port": 12010,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "edbsrvr",
+      "description": "ElevateDB Server",
+      "assignee": "[Tim_Young]",
+      "registrationDate": "2009-05-06"
+    },
+    {
+      "port": 12010,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12011,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12012,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vipera",
+      "description": "Vipera Messaging Service",
+      "assignee": "[Silvano_Maffeis_2]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 12012,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vipera",
+      "description": "Vipera Messaging Service",
+      "assignee": "[Silvano_Maffeis_2]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 12013,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vipera-ssl",
+      "description": "Vipera Messaging Service over SSL Communication",
+      "assignee": "[Silvano_Maffeis_2]",
+      "registrationDate": "2008-01-16"
+    },
+    {
+      "port": 12013,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vipera-ssl",
+      "description": "Vipera Messaging Service over SSL Communication",
+      "assignee": "[Silvano_Maffeis_2]",
+      "registrationDate": "2008-01-16"
+    },
+    {
+      "port": null,
+      "portRange": "12014-12108",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12109,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rets-ssl",
+      "description": "RETS over SSL",
+      "assignee": "[Jeremy_Crawford]",
+      "registrationDate": "2003-02"
+    },
+    {
+      "port": 12109,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rets-ssl",
+      "description": "RETS over SSL",
+      "assignee": "[Jeremy_Crawford]",
+      "registrationDate": "2003-02"
+    },
+    {
+      "port": null,
+      "portRange": "12110-12120",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12121,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nupaper-ss",
+      "description": "NuPaper Session Service",
+      "assignee": "[David_Warden_2]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 12121,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nupaper-ss",
+      "description": "NuPaper Session Service",
+      "assignee": "[David_Warden_2]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": null,
+      "portRange": "12122-12167",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12168,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cawas",
+      "description": "CA Web Access Service",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 12168,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cawas",
+      "description": "CA Web Access Service",
+      "assignee": "[Jon_Press]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "12169-12171",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12172,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hivep",
+      "description": "HiveP",
+      "assignee": "[Dick_Augustsson]",
+      "registrationDate": null
+    },
+    {
+      "port": 12172,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hivep",
+      "description": "HiveP",
+      "assignee": "[Dick_Augustsson]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "12173-12299",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12300,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "linogridengine",
+      "description": "LinoGrid Engine",
+      "assignee": "[Frans_Lundberg]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 12300,
+      "portRange": null,
+      "transport": "udp",
+      "name": "linogridengine",
+      "description": "LinoGrid Engine",
+      "assignee": "[Frans_Lundberg]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 12301,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12302,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rads",
+      "description": "Remote Administration Daemon (RAD) is a system service that offers secure, remote, programmatic access to Solaris system configuration and run-time state",
+      "assignee": "[Oracle]",
+      "registrationDate": "2012-04-20"
+    },
+    {
+      "port": 12302,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "12303-12320",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12321,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "warehouse-sss",
+      "description": "Warehouse Monitoring Syst SSS",
+      "assignee": "[Craig_Steffen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 12321,
+      "portRange": null,
+      "transport": "udp",
+      "name": "warehouse-sss",
+      "description": "Warehouse Monitoring Syst SSS",
+      "assignee": "[Craig_Steffen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 12322,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "warehouse",
+      "description": "Warehouse Monitoring Syst",
+      "assignee": "[Craig_Steffen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 12322,
+      "portRange": null,
+      "transport": "udp",
+      "name": "warehouse",
+      "description": "Warehouse Monitoring Syst",
+      "assignee": "[Craig_Steffen]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "12323-12344",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12345,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "italk",
+      "description": "Italk Chat System",
+      "assignee": "[Takayuki_Ito]",
+      "registrationDate": null
+    },
+    {
+      "port": 12345,
+      "portRange": null,
+      "transport": "udp",
+      "name": "italk",
+      "description": "Italk Chat System",
+      "assignee": "[Takayuki_Ito]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "12346-12545",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12546,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "carb-repl-ctrl",
+      "description": "Carbonite Server Replication Control",
+      "assignee": "[Open_Text_Corporation]",
+      "registrationDate": "2022-10-07"
+    },
+    {
+      "port": 12546,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "12547-12752",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12753,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tsaf",
+      "description": "tsaf port",
+      "assignee": "[Andreas_Fehr]",
+      "registrationDate": null
+    },
+    {
+      "port": 12753,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tsaf",
+      "description": "tsaf port",
+      "assignee": "[Andreas_Fehr]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "12754-12864",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 12865,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netperf",
+      "description": "control port for the netperf benchmark",
+      "assignee": "[netperf.org]",
+      "registrationDate": "2013-04-05"
+    },
+    {
+      "port": 12865,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "12866-13159",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

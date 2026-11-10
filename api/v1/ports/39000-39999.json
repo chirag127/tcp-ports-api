@@ -1,0 +1,61 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "39000-39999",
+  "count": 6,
+  "records": [
+    {
+      "port": 39063,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vroa",
+      "description": "Children's hearing test/Telemedicine",
+      "assignee": "[Hearing_Australia]",
+      "registrationDate": "2021-12-23"
+    },
+    {
+      "port": 39063,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "39064-39680",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 39681,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "turbonote-1",
+      "description": "TurboNote Default Port",
+      "assignee": "[Peter_Hyde]",
+      "registrationDate": null
+    },
+    {
+      "port": 39681,
+      "portRange": null,
+      "transport": "udp",
+      "name": "turbonote-1",
+      "description": "TurboNote Default Port",
+      "assignee": "[Peter_Hyde]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "39682-39999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

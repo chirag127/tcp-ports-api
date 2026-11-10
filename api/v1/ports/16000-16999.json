@@ -1,0 +1,628 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "16000-16999",
+  "count": 69,
+  "records": [
+    {
+      "port": 16000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fmsas",
+      "description": "Administration Server Access",
+      "assignee": "[Mark_Davidson]",
+      "registrationDate": "2010-10-06"
+    },
+    {
+      "port": 16000,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fmsascon",
+      "description": "Administration Server Connector",
+      "assignee": "[Mark_Davidson]",
+      "registrationDate": "2010-10-06"
+    },
+    {
+      "port": 16001,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gsms",
+      "description": "GoodSync Mediation Service",
+      "assignee": "[Vadim_Maslov]",
+      "registrationDate": "2010-10-06"
+    },
+    {
+      "port": 16002,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "alfin",
+      "description": "Automation and Control by REGULACE.ORG",
+      "assignee": "[Ing_Tomas_Halabala]",
+      "registrationDate": "2010-10-06"
+    },
+    {
+      "port": null,
+      "portRange": "16004-16019",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16020,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "jwpc",
+      "description": "Filemaker Java Web Publishing Core",
+      "assignee": "[Robert_Parks]",
+      "registrationDate": "2010-05-12"
+    },
+    {
+      "port": 16020,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16021,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "jwpc-bin",
+      "description": "Filemaker Java Web Publishing Core Binary",
+      "assignee": "[Robert_Parks]",
+      "registrationDate": "2010-05-12"
+    },
+    {
+      "port": 16021,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16022-16160",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16161,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sun-sea-port",
+      "description": "Solaris SEA Port",
+      "assignee": "[Dana_Porter]",
+      "registrationDate": "2003-10"
+    },
+    {
+      "port": 16161,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sun-sea-port",
+      "description": "Solaris SEA Port",
+      "assignee": "[Dana_Porter]",
+      "registrationDate": "2003-10"
+    },
+    {
+      "port": 16162,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "solaris-audit",
+      "description": "Solaris Audit - secure remote audit log",
+      "assignee": "[Jan_Friedel]",
+      "registrationDate": "2009-05-07"
+    },
+    {
+      "port": 16162,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16163-16308",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16309,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "etb4j",
+      "description": "etb4j",
+      "assignee": "[Christopher_R_Smith]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 16309,
+      "portRange": null,
+      "transport": "udp",
+      "name": "etb4j",
+      "description": "etb4j",
+      "assignee": "[Christopher_R_Smith]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 16310,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pduncs",
+      "description": "Policy Distribute, Update Notification",
+      "assignee": "[Diane_I_Shannon]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 16310,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pduncs",
+      "description": "Policy Distribute, Update Notification",
+      "assignee": "[Diane_I_Shannon]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 16311,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pdefmns",
+      "description": "Policy definition and update management",
+      "assignee": "[Diane_I_Shannon]",
+      "registrationDate": "2007-04"
+    },
+    {
+      "port": 16311,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pdefmns",
+      "description": "Policy definition and update management",
+      "assignee": "[Diane_I_Shannon]",
+      "registrationDate": "2007-04"
+    },
+    {
+      "port": null,
+      "portRange": "16312-16359",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16360,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netserialext1",
+      "description": "Network Serial Extension Ports One",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": 16360,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netserialext1",
+      "description": "Network Serial Extension Ports One",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": 16361,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netserialext2",
+      "description": "Network Serial Extension Ports Two",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": 16361,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netserialext2",
+      "description": "Network Serial Extension Ports Two",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16362-16366",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16367,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netserialext3",
+      "description": "Network Serial Extension Ports Three",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": 16367,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netserialext3",
+      "description": "Network Serial Extension Ports Three",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": 16368,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "netserialext4",
+      "description": "Network Serial Extension Ports Four",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": 16368,
+      "portRange": null,
+      "transport": "udp",
+      "name": "netserialext4",
+      "description": "Network Serial Extension Ports Four",
+      "assignee": "[Michael_J_Hoy]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16369-16383",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16384,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "connected",
+      "description": "Connected Corp",
+      "assignee": "[Nicole_C_Ouellette]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": 16384,
+      "portRange": null,
+      "transport": "udp",
+      "name": "connected",
+      "description": "Connected Corp",
+      "assignee": "[Nicole_C_Ouellette]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": 16385,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rdgs",
+      "description": "Reliable Datagram Sockets",
+      "assignee": "[Oracle_7]",
+      "registrationDate": "2015-04-30"
+    },
+    {
+      "port": 16385,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16386-16618",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16619,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xoms",
+      "description": "X509 Objects Management Service",
+      "assignee": "[Francis_GASCHET]",
+      "registrationDate": "2008-09-08"
+    },
+    {
+      "port": 16619,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16620-16664",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16665,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "axon-tunnel",
+      "description": "Reliable multipath data transport for high latencies",
+      "assignee": "[Bridgeworks]",
+      "registrationDate": "2014-09-26"
+    },
+    {
+      "port": 16665,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16666,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16666,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vtp",
+      "description": "Vidder Tunnel Protocol",
+      "assignee": "[Vidder_Inc]",
+      "registrationDate": "2011-10-24"
+    },
+    {
+      "port": null,
+      "portRange": "16667-16788",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16789,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cadsisvr",
+      "description": "This server provides callable services to mainframe External Security Managers from any TCP/IP platform",
+      "assignee": "[Broadcom]",
+      "registrationDate": "2015-06-02"
+    },
+    {
+      "port": 16789,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16790-16899",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16900,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "newbay-snc-mc",
+      "description": "Newbay Mobile Client Update Service",
+      "assignee": "[Srinivasa_Nayudu]",
+      "registrationDate": "2009-07-06"
+    },
+    {
+      "port": 16900,
+      "portRange": null,
+      "transport": "udp",
+      "name": "newbay-snc-mc",
+      "description": "Newbay Mobile Client Update Service",
+      "assignee": "[Srinivasa_Nayudu]",
+      "registrationDate": "2009-07-06"
+    },
+    {
+      "port": null,
+      "portRange": "16901-16949",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16950,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sgcip",
+      "description": "Simple Generic Client Interface Protocol",
+      "assignee": "[John_Aquilino]",
+      "registrationDate": null
+    },
+    {
+      "port": 16950,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sgcip",
+      "description": "Simple Generic Client Interface Protocol",
+      "assignee": "[John_Aquilino]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "16951-16990",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 16991,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "intel-rci-mp",
+      "description": "INTEL-RCI-MP",
+      "assignee": "[Jane_Dashevsky]",
+      "registrationDate": null
+    },
+    {
+      "port": 16991,
+      "portRange": null,
+      "transport": "udp",
+      "name": "intel-rci-mp",
+      "description": "INTEL-RCI-MP",
+      "assignee": "[Jane_Dashevsky]",
+      "registrationDate": null
+    },
+    {
+      "port": 16992,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "amt-soap-http",
+      "description": "Intel(R) AMT SOAP/HTTP",
+      "assignee": "[David_T_Hines]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": 16992,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amt-soap-http",
+      "description": "Intel(R) AMT SOAP/HTTP",
+      "assignee": "[David_T_Hines]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": 16993,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "amt-soap-https",
+      "description": "Intel(R) AMT SOAP/HTTPS",
+      "assignee": "[David_T_Hines]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": 16993,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amt-soap-https",
+      "description": "Intel(R) AMT SOAP/HTTPS",
+      "assignee": "[David_T_Hines]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": 16994,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "amt-redir-tcp",
+      "description": "Intel(R) AMT Redirection/TCP",
+      "assignee": "[Nimrod_Diamant]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": 16994,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amt-redir-tcp",
+      "description": "Intel(R) AMT Redirection/TCP",
+      "assignee": "[Nimrod_Diamant]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": 16995,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "amt-redir-tls",
+      "description": "Intel(R) AMT Redirection/TLS",
+      "assignee": "[Nimrod_Diamant]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": 16995,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amt-redir-tls",
+      "description": "Intel(R) AMT Redirection/TLS",
+      "assignee": "[Nimrod_Diamant]",
+      "registrationDate": "2005-02"
+    },
+    {
+      "port": null,
+      "portRange": "16996-17006",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

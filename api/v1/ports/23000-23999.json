@@ -1,0 +1,367 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "23000-23999",
+  "count": 40,
+  "records": [
+    {
+      "port": 23000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inovaport1",
+      "description": "Inova LightLink Server Type 1",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "inovaport1",
+      "description": "Inova LightLink Server Type 1",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inovaport2",
+      "description": "Inova LightLink Server Type 2",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "inovaport2",
+      "description": "Inova LightLink Server Type 2",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inovaport3",
+      "description": "Inova LightLink Server Type 3",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "inovaport3",
+      "description": "Inova LightLink Server Type 3",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inovaport4",
+      "description": "Inova LightLink Server Type 4",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "inovaport4",
+      "description": "Inova LightLink Server Type 4",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inovaport5",
+      "description": "Inova LightLink Server Type 5",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23004,
+      "portRange": null,
+      "transport": "udp",
+      "name": "inovaport5",
+      "description": "Inova LightLink Server Type 5",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "inovaport6",
+      "description": "Inova LightLink Server Type 6",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": 23005,
+      "portRange": null,
+      "transport": "udp",
+      "name": "inovaport6",
+      "description": "Inova LightLink Server Type 6",
+      "assignee": "[Chris_Koeritz_3]",
+      "registrationDate": "2006-10"
+    },
+    {
+      "port": null,
+      "portRange": "23006-23052",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23053,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gntp",
+      "description": "Generic Notification Transport Protocol",
+      "assignee": "[Growl_Project]",
+      "registrationDate": "2012-02-07"
+    },
+    {
+      "port": 23053,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "23054-23271",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23272,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23272,
+      "portRange": null,
+      "transport": "udp",
+      "name": "s102",
+      "description": "S102 application",
+      "assignee": "[Kimmo_Kymalainen]",
+      "registrationDate": "2009-08-26"
+    },
+    {
+      "port": null,
+      "portRange": "23273-23293",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23294,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "5afe-dir",
+      "description": "5AFE SDN Directory",
+      "assignee": "[Ayoda_GmbH]",
+      "registrationDate": "2016-04-01"
+    },
+    {
+      "port": 23294,
+      "portRange": null,
+      "transport": "udp",
+      "name": "5afe-disc",
+      "description": "5AFE SDN Directory discovery",
+      "assignee": "[Ayoda_GmbH]",
+      "registrationDate": "2016-04-01"
+    },
+    {
+      "port": null,
+      "portRange": "23295-23332",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23333,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "elxmgmt",
+      "description": "Emulex HBAnyware Remote Management",
+      "assignee": "[Maziar_Tamadon]",
+      "registrationDate": "2007-11-06"
+    },
+    {
+      "port": 23333,
+      "portRange": null,
+      "transport": "udp",
+      "name": "elxmgmt",
+      "description": "Emulex HBAnyware Remote Management",
+      "assignee": "[Maziar_Tamadon]",
+      "registrationDate": "2007-11-06"
+    },
+    {
+      "port": null,
+      "portRange": "23334-23399",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23400,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "novar-dbase",
+      "description": "Novar Data",
+      "assignee": "[Keith_Kilroy]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 23400,
+      "portRange": null,
+      "transport": "udp",
+      "name": "novar-dbase",
+      "description": "Novar Data",
+      "assignee": "[Keith_Kilroy]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 23401,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "novar-alarm",
+      "description": "Novar Alarm",
+      "assignee": "[Keith_Kilroy]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 23401,
+      "portRange": null,
+      "transport": "udp",
+      "name": "novar-alarm",
+      "description": "Novar Alarm",
+      "assignee": "[Keith_Kilroy]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 23402,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "novar-global",
+      "description": "Novar Global",
+      "assignee": "[Keith_Kilroy]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": 23402,
+      "portRange": null,
+      "transport": "udp",
+      "name": "novar-global",
+      "description": "Novar Global",
+      "assignee": "[Keith_Kilroy]",
+      "registrationDate": "2006-02"
+    },
+    {
+      "port": null,
+      "portRange": "23403-23455",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23456,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "aequus",
+      "description": "Aequus Service",
+      "assignee": "[James_Anson]",
+      "registrationDate": "2009-02-12"
+    },
+    {
+      "port": 23456,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23457,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "aequus-alt",
+      "description": "Aequus Service Mgmt",
+      "assignee": "[James_Anson]",
+      "registrationDate": "2009-02-12"
+    },
+    {
+      "port": 23457,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "23458-23545",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 23546,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "areaguard-neo",
+      "description": "AreaGuard Neo - WebServer",
+      "assignee": "[SODATSW_spol]",
+      "registrationDate": "2012-05-31"
+    },
+    {
+      "port": 23546,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "23547-23999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

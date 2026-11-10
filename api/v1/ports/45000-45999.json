@@ -1,0 +1,277 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "45000-45999",
+  "count": 30,
+  "records": [
+    {
+      "port": 45000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "asmp",
+      "description": "Nuance AutoStore Status Monitoring Protocol (data transfer)",
+      "assignee": "[Nuance_Communications_Inc4]",
+      "registrationDate": "2011-09-01"
+    },
+    {
+      "port": 45000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "asmp-mon",
+      "description": "Nuance AutoStore Status Monitoring Protocol (device monitoring)",
+      "assignee": "[Nuance_Communications_Inc4]",
+      "registrationDate": "2011-09-01"
+    },
+    {
+      "port": 45001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "asmps",
+      "description": "Nuance AutoStore Status Monitoring Protocol (secure data transfer)",
+      "assignee": "[Nuance_Communications_Inc4]",
+      "registrationDate": "2011-09-01"
+    },
+    {
+      "port": 45001,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rs-status",
+      "description": "Redspeed Status Monitor",
+      "assignee": "[Redspeed_International_Ltd]",
+      "registrationDate": "2015-03-10"
+    },
+    {
+      "port": 45002,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "45003-45044",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45045,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "synctest",
+      "description": "Remote application control protocol",
+      "assignee": "[Eleks_Ltd]",
+      "registrationDate": "2013-04-08"
+    },
+    {
+      "port": 45045,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "45046-45053",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45054,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "invision-ag",
+      "description": "InVision AG",
+      "assignee": "[Matthias_Schroer]",
+      "registrationDate": null
+    },
+    {
+      "port": 45054,
+      "portRange": null,
+      "transport": "udp",
+      "name": "invision-ag",
+      "description": "InVision AG",
+      "assignee": "[Matthias_Schroer]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "45055-45184",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45185,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "witsnet",
+      "description": "Wire and Wireless transfer on synchroniz",
+      "assignee": "[Shenzhen_Inovance_Technology_Co_Ltd]",
+      "registrationDate": "2025-03-11"
+    },
+    {
+      "port": 45185,
+      "portRange": null,
+      "transport": "udp",
+      "name": "witsnet",
+      "description": "Wire and Wireless transfer on synchroniz",
+      "assignee": "[Shenzhen_Inovance_Technology_Co_Ltd]",
+      "registrationDate": "2025-03-11"
+    },
+    {
+      "port": null,
+      "portRange": "45186-45513",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45514,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cloudcheck",
+      "description": "ASSIA CloudCheck WiFi Management System",
+      "assignee": "[ASSIA_Inc]",
+      "registrationDate": "2016-08-29"
+    },
+    {
+      "port": 45514,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cloudcheck-ping",
+      "description": "ASSIA CloudCheck WiFi Management keepalive",
+      "assignee": "[ASSIA_Inc]",
+      "registrationDate": "2016-08-29"
+    },
+    {
+      "port": null,
+      "portRange": "45515-45677",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45678,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "eba",
+      "description": "EBA PRISE",
+      "assignee": "[Patrick_Kara]",
+      "registrationDate": null
+    },
+    {
+      "port": 45678,
+      "portRange": null,
+      "transport": "udp",
+      "name": "eba",
+      "description": "EBA PRISE",
+      "assignee": "[Patrick_Kara]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "45679-45823",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45824,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dai-shell",
+      "description": "Server for the DAI family of client-server products",
+      "assignee": "[Data_Access_Inc]",
+      "registrationDate": "2012-04-30"
+    },
+    {
+      "port": 45824,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45825,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "qdb2service",
+      "description": "Qpuncture Data Access Service",
+      "assignee": "[Michael_Yun]",
+      "registrationDate": "2007-10-24"
+    },
+    {
+      "port": 45825,
+      "portRange": null,
+      "transport": "udp",
+      "name": "qdb2service",
+      "description": "Qpuncture Data Access Service",
+      "assignee": "[Michael_Yun]",
+      "registrationDate": "2007-10-24"
+    },
+    {
+      "port": null,
+      "portRange": "45826-45965",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 45966,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ssr-servermgr",
+      "description": "SSRServerMgr",
+      "assignee": "[Jeremy_Gilliat]",
+      "registrationDate": null
+    },
+    {
+      "port": 45966,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ssr-servermgr",
+      "description": "SSRServerMgr",
+      "assignee": "[Jeremy_Gilliat]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "45967-46335",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

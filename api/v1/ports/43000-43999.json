@@ -1,0 +1,223 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "43000-43999",
+  "count": 24,
+  "records": [
+    {
+      "port": 43000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "recvr-rc",
+      "description": "Receiver Remote Control",
+      "assignee": "[Research_Electronics_International]",
+      "registrationDate": "2012-12-20"
+    },
+    {
+      "port": 43000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "recvr-rc-disc",
+      "description": "Receiver Remote Control Discovery",
+      "assignee": "[Research_Electronics_International]",
+      "registrationDate": "2012-12-20"
+    },
+    {
+      "port": null,
+      "portRange": "43001-43187",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 43188,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "reachout",
+      "description": "REACHOUT",
+      "assignee": "[Roman_Kriis]",
+      "registrationDate": null
+    },
+    {
+      "port": 43188,
+      "portRange": null,
+      "transport": "udp",
+      "name": "reachout",
+      "description": "REACHOUT",
+      "assignee": "[Roman_Kriis]",
+      "registrationDate": null
+    },
+    {
+      "port": 43189,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ndm-agent-port",
+      "description": "NDM-AGENT-PORT",
+      "assignee": "[Roman_Kriis]",
+      "registrationDate": null
+    },
+    {
+      "port": 43189,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ndm-agent-port",
+      "description": "NDM-AGENT-PORT",
+      "assignee": "[Roman_Kriis]",
+      "registrationDate": null
+    },
+    {
+      "port": 43190,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ip-provision",
+      "description": "IP-PROVISION",
+      "assignee": "[Roman_Kriis]",
+      "registrationDate": null
+    },
+    {
+      "port": 43190,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ip-provision",
+      "description": "IP-PROVISION",
+      "assignee": "[Roman_Kriis]",
+      "registrationDate": null
+    },
+    {
+      "port": 43191,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "noit-transport",
+      "description": "Reconnoiter Agent Data Transport",
+      "assignee": "[Theo_Schlossnagle]",
+      "registrationDate": "2009-05-19"
+    },
+    {
+      "port": 43191,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "43192-43209",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 43210,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "shaperai",
+      "description": "Shaper Automation Server Management",
+      "assignee": "[Shaper_Automation]",
+      "registrationDate": "2012-06-22"
+    },
+    {
+      "port": 43210,
+      "portRange": null,
+      "transport": "udp",
+      "name": "shaperai-disc",
+      "description": "Shaper Automation Server Management Discovery",
+      "assignee": "[Shaper_Automation]",
+      "registrationDate": "2012-06-22"
+    },
+    {
+      "port": null,
+      "portRange": "43211-43437",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 43438,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 43438,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hmip-routing",
+      "description": "HmIP LAN Routing",
+      "assignee": "[eQ-3_Entwicklung_GmbH]",
+      "registrationDate": "2018-02-28"
+    },
+    {
+      "port": 43439,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "eq3-update",
+      "description": "EQ3 firmware update",
+      "assignee": "[eQ-3_Entwicklung_GmbH]",
+      "registrationDate": "2012-02-10"
+    },
+    {
+      "port": 43439,
+      "portRange": null,
+      "transport": "udp",
+      "name": "eq3-config",
+      "description": "EQ3 discovery and configuration",
+      "assignee": "[eQ-3_Entwicklung_GmbH]",
+      "registrationDate": "2012-02-10"
+    },
+    {
+      "port": 43440,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ew-mgmt",
+      "description": "Cisco EnergyWise Management",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 43440,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ew-disc-cmd",
+      "description": "Cisco EnergyWise Discovery and Command Flooding",
+      "assignee": "[John_Parello]",
+      "registrationDate": "2009-05-19"
+    },
+    {
+      "port": 43441,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ciscocsdb",
+      "description": "Cisco NetMgmt DB Ports",
+      "assignee": "[Cisco_Systems]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 43441,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ciscocsdb",
+      "description": "Cisco NetMgmt DB Ports",
+      "assignee": "[Cisco_Systems]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": null,
+      "portRange": "43442-44122",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

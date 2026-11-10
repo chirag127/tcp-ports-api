@@ -1,0 +1,547 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "22000-22999",
+  "count": 60,
+  "records": [
+    {
+      "port": 22000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "snapenetio",
+      "description": "SNAPenetIO",
+      "assignee": "[Kevin_Kuhns]",
+      "registrationDate": null
+    },
+    {
+      "port": 22000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "snapenetio",
+      "description": "SNAPenetIO",
+      "assignee": "[Kevin_Kuhns]",
+      "registrationDate": null
+    },
+    {
+      "port": 22001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "optocontrol",
+      "description": "OptoControl",
+      "assignee": "[Kevin_Kuhns]",
+      "registrationDate": null
+    },
+    {
+      "port": 22001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "optocontrol",
+      "description": "OptoControl",
+      "assignee": "[Kevin_Kuhns]",
+      "registrationDate": null
+    },
+    {
+      "port": 22002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "optohost002",
+      "description": "Opto Host Port 2",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": 22002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "optohost002",
+      "description": "Opto Host Port 2",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": 22003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "optohost003",
+      "description": "Opto Host Port 3",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": 22003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "optohost003",
+      "description": "Opto Host Port 3",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": 22004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "optohost004",
+      "description": "Opto Host Port 4",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": 22004,
+      "portRange": null,
+      "transport": "udp",
+      "name": "optohost004",
+      "description": "Opto Host Port 4",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": 22005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "optohost004",
+      "description": "Opto Host Port 5",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": 22005,
+      "portRange": null,
+      "transport": "udp",
+      "name": "optohost004",
+      "description": "Opto Host Port 5",
+      "assignee": "[Doug_Leany]",
+      "registrationDate": "2006-09"
+    },
+    {
+      "port": null,
+      "portRange": "22006-22124",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22125,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dcap",
+      "description": "dCache Access Protocol",
+      "assignee": "[Christoph_Anton_Mitt]",
+      "registrationDate": "2009-03-10"
+    },
+    {
+      "port": 22125,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22126-22127",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22128,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gsidcap",
+      "description": "GSI dCache Access Protocol",
+      "assignee": "[Christoph_Anton_Mitt]",
+      "registrationDate": "2009-03-10"
+    },
+    {
+      "port": 22128,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22129-22221",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22222,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "easyengine",
+      "description": "EasyEngine is CLI tool to manage WordPress Sites on Nginx server",
+      "assignee": "[rtCamp_Solutions_Private_Limited]",
+      "registrationDate": "2014-03-10"
+    },
+    {
+      "port": 22222,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22223-22272",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22273,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "wnn6",
+      "description": "wnn6",
+      "assignee": "[Yasunari_Gon_Yamasit]",
+      "registrationDate": null
+    },
+    {
+      "port": 22273,
+      "portRange": null,
+      "transport": "udp",
+      "name": "wnn6",
+      "description": "wnn6",
+      "assignee": "[Yasunari_Gon_Yamasit]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22274-22304",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22305,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cis",
+      "description": "CompactIS Tunnel",
+      "assignee": "[Justin_Paupore]",
+      "registrationDate": "2007-08-16"
+    },
+    {
+      "port": 22305,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cis",
+      "description": "CompactIS Tunnel",
+      "assignee": "[Justin_Paupore]",
+      "registrationDate": "2007-08-16"
+    },
+    {
+      "port": null,
+      "portRange": "22306-22332",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22333,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "showcockpit-net",
+      "description": "ShowCockpit Networking",
+      "assignee": "[Ricardo_Dias]",
+      "registrationDate": "2020-11-18"
+    },
+    {
+      "port": 22333,
+      "portRange": null,
+      "transport": "udp",
+      "name": "showcockpit-net",
+      "description": "ShowCockpit Networking",
+      "assignee": "[Ricardo_Dias]",
+      "registrationDate": "2020-11-18"
+    },
+    {
+      "port": 22334,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22335,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "shrewd-control",
+      "description": "Initium Labs Security and Automation Control",
+      "assignee": "[Initium_Labs_LLC]",
+      "registrationDate": "2015-03-06"
+    },
+    {
+      "port": 22335,
+      "portRange": null,
+      "transport": "udp",
+      "name": "shrewd-stream",
+      "description": "Initium Labs Security and Automation Streaming",
+      "assignee": "[Initium_Labs_LLC]",
+      "registrationDate": "2015-03-06"
+    },
+    {
+      "port": null,
+      "portRange": "22336-22342",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22343,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cis-secure",
+      "description": "CompactIS Secure Tunnel",
+      "assignee": "[Justin_Paupore]",
+      "registrationDate": "2007-08-16"
+    },
+    {
+      "port": 22343,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cis-secure",
+      "description": "CompactIS Secure Tunnel",
+      "assignee": "[Justin_Paupore]",
+      "registrationDate": "2007-08-16"
+    },
+    {
+      "port": null,
+      "portRange": "22344-22346",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22347,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "wibukey",
+      "description": "WibuKey Standard WkLan",
+      "assignee": "[Wolfgang_Voelker]",
+      "registrationDate": "2007-06"
+    },
+    {
+      "port": 22347,
+      "portRange": null,
+      "transport": "udp",
+      "name": "wibukey",
+      "description": "WibuKey Standard WkLan",
+      "assignee": "[Wolfgang_Voelker]",
+      "registrationDate": "2007-06"
+    },
+    {
+      "port": null,
+      "portRange": "22348-22349",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22350,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "codemeter",
+      "description": "CodeMeter Standard",
+      "assignee": "[Wolfgang_Voelker]",
+      "registrationDate": "2007-06"
+    },
+    {
+      "port": 22350,
+      "portRange": null,
+      "transport": "udp",
+      "name": "codemeter",
+      "description": "CodeMeter Standard",
+      "assignee": "[Wolfgang_Voelker]",
+      "registrationDate": "2007-06"
+    },
+    {
+      "port": 22351,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "codemeter-cmwan",
+      "description": "TPC/IP requests of copy protection software to a server",
+      "assignee": "[WIBU-SYSTEMS_AG]",
+      "registrationDate": "2013-06-25"
+    },
+    {
+      "port": 22351,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22352-22536",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22537,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "caldsoft-backup",
+      "description": "CaldSoft Backup server file transfer",
+      "assignee": "[CaldSoft]",
+      "registrationDate": "2011-08-12"
+    },
+    {
+      "port": 22537,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22538-22554",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22555,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vocaltec-wconf",
+      "description": "Vocaltec Web Conference",
+      "assignee": "[Scott_Petrack]",
+      "registrationDate": null
+    },
+    {
+      "port": 22555,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vocaltec-phone",
+      "description": "Vocaltec Internet Phone",
+      "assignee": "[Scott_Petrack]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22556-22762",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22763,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "talikaserver",
+      "description": "Talika Main Server",
+      "assignee": "[Laxman_C_Marathe]",
+      "registrationDate": "2006-12"
+    },
+    {
+      "port": 22763,
+      "portRange": null,
+      "transport": "udp",
+      "name": "talikaserver",
+      "description": "Talika Main Server",
+      "assignee": "[Laxman_C_Marathe]",
+      "registrationDate": "2006-12"
+    },
+    {
+      "port": null,
+      "portRange": "22764-22799",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22800,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "aws-brf",
+      "description": "Telerate Information Platform LAN",
+      "assignee": "[Timo_Sivonen]",
+      "registrationDate": null
+    },
+    {
+      "port": 22800,
+      "portRange": null,
+      "transport": "udp",
+      "name": "aws-brf",
+      "description": "Telerate Information Platform LAN",
+      "assignee": "[Timo_Sivonen]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22801-22950",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 22951,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "brf-gw",
+      "description": "Telerate Information Platform WAN",
+      "assignee": "[Timo_Sivonen]",
+      "registrationDate": null
+    },
+    {
+      "port": 22951,
+      "portRange": null,
+      "transport": "udp",
+      "name": "brf-gw",
+      "description": "Telerate Information Platform WAN",
+      "assignee": "[Timo_Sivonen]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "22952-22999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

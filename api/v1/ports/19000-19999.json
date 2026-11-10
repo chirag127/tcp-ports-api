@@ -1,0 +1,475 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "19000-19999",
+  "count": 52,
+  "records": [
+    {
+      "port": 19000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "igrid",
+      "description": "iGrid Server",
+      "assignee": "[Massimo_Cafaro]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 19000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "igrid",
+      "description": "iGrid Server",
+      "assignee": "[Massimo_Cafaro]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "19001-19006",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19007,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "scintilla",
+      "description": "Scintilla protocol for device services",
+      "assignee": "[Veejansh_Inc]",
+      "registrationDate": "2014-03-04"
+    },
+    {
+      "port": 19007,
+      "portRange": null,
+      "transport": "udp",
+      "name": "scintilla",
+      "description": "Scintilla protocol for device services",
+      "assignee": "[Veejansh_Inc]",
+      "registrationDate": "2014-03-04"
+    },
+    {
+      "port": null,
+      "portRange": "19008-19019",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19020,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "j-link",
+      "description": "J-Link TCP/IP Protocol",
+      "assignee": "[SEGGER]",
+      "registrationDate": null
+    },
+    {
+      "port": 19020,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19021-19190",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19191,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsec-uaa",
+      "description": "OPSEC UAA",
+      "assignee": "[Reuven_Harrison]",
+      "registrationDate": null
+    },
+    {
+      "port": 19191,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opsec-uaa",
+      "description": "OPSEC UAA",
+      "assignee": "[Reuven_Harrison]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19192-19193",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19194,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ua-secureagent",
+      "description": "UserAuthority SecureAgent",
+      "assignee": "[Reuven_Harrison_2]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 19194,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ua-secureagent",
+      "description": "UserAuthority SecureAgent",
+      "assignee": "[Reuven_Harrison_2]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": null,
+      "portRange": "19195-19219",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19220,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cora",
+      "description": "Client Connection Management and Data Exchange Service",
+      "assignee": "[Softvise_GmbH]",
+      "registrationDate": "2016-11-10"
+    },
+    {
+      "port": 19220,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cora-disc",
+      "description": "Discovery for Client Connection Management and Data Exchange Service",
+      "assignee": "[Softvise_GmbH]",
+      "registrationDate": "2016-11-10"
+    },
+    {
+      "port": null,
+      "portRange": "19221-19282",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19283,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "keysrvr",
+      "description": "Key Server for SASSAFRAS",
+      "assignee": "[Mark_Valence]",
+      "registrationDate": null
+    },
+    {
+      "port": 19283,
+      "portRange": null,
+      "transport": "udp",
+      "name": "keysrvr",
+      "description": "Key Server for SASSAFRAS",
+      "assignee": "[Mark_Valence]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19284-19314",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19315,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "keyshadow",
+      "description": "Key Shadow for SASSAFRAS",
+      "assignee": "[Mark_Valence]",
+      "registrationDate": null
+    },
+    {
+      "port": 19315,
+      "portRange": null,
+      "transport": "udp",
+      "name": "keyshadow",
+      "description": "Key Shadow for SASSAFRAS",
+      "assignee": "[Mark_Valence]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19316-19397",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19398,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mtrgtrans",
+      "description": "mtrgtrans",
+      "assignee": "[Katsuhito_Muroi]",
+      "registrationDate": null
+    },
+    {
+      "port": 19398,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mtrgtrans",
+      "description": "mtrgtrans",
+      "assignee": "[Katsuhito_Muroi]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19399-19409",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19410,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hp-sco",
+      "description": "hp-sco",
+      "assignee": "[Larry_Schwartz]",
+      "registrationDate": null
+    },
+    {
+      "port": 19410,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hp-sco",
+      "description": "hp-sco",
+      "assignee": "[Larry_Schwartz]",
+      "registrationDate": null
+    },
+    {
+      "port": 19411,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hp-sca",
+      "description": "hp-sca",
+      "assignee": "[Larry_Schwartz]",
+      "registrationDate": null
+    },
+    {
+      "port": 19411,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hp-sca",
+      "description": "hp-sca",
+      "assignee": "[Larry_Schwartz]",
+      "registrationDate": null
+    },
+    {
+      "port": 19412,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hp-sessmon",
+      "description": "HP-SESSMON",
+      "assignee": "[Gita_Murthy]",
+      "registrationDate": null
+    },
+    {
+      "port": 19412,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hp-sessmon",
+      "description": "HP-SESSMON",
+      "assignee": "[Gita_Murthy]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19413-19538",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19539,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fxuptp",
+      "description": "FXUPTP",
+      "assignee": "[Keiji_Okuma]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 19539,
+      "portRange": null,
+      "transport": "udp",
+      "name": "fxuptp",
+      "description": "FXUPTP",
+      "assignee": "[Keiji_Okuma]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 19540,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sxuptp",
+      "description": "SXUPTP",
+      "assignee": "[Keiji_Okuma]",
+      "registrationDate": "2002-08"
+    },
+    {
+      "port": 19540,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sxuptp",
+      "description": "SXUPTP",
+      "assignee": "[Keiji_Okuma]",
+      "registrationDate": "2002-08"
+    },
+    {
+      "port": 19541,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "jcp",
+      "description": "JCP Client",
+      "assignee": "[Yuji_Sasaki]",
+      "registrationDate": null
+    },
+    {
+      "port": 19541,
+      "portRange": null,
+      "transport": "udp",
+      "name": "jcp",
+      "description": "JCP Client",
+      "assignee": "[Yuji_Sasaki]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19542-19787",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19788,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mle",
+      "description": "Mesh Link Establishment",
+      "assignee": "[IESG]",
+      "registrationDate": "2012-12-18"
+    },
+    {
+      "port": 19788,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19789,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19790,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "faircom-db",
+      "description": "FairCom Database",
+      "assignee": "[FairCom_Corporation]",
+      "registrationDate": "2020-12-04"
+    },
+    {
+      "port": 19790,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "19791-19997",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19998,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iec-104-sec",
+      "description": "IEC 60870-5-104 process control - secure",
+      "assignee": "[Grant_Gilchrist]",
+      "registrationDate": "2010-10-18"
+    },
+    {
+      "port": 19998,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 19999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dnp-sec",
+      "description": "Distributed Network Protocol - Secure",
+      "assignee": "[Grant_Gilchrist]",
+      "registrationDate": "2008-08-04"
+    },
+    {
+      "port": 19999,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dnp-sec",
+      "description": "Distributed Network Protocol - Secure",
+      "assignee": "[Grant_Gilchrist]",
+      "registrationDate": "2008-08-04"
+    },
+    {
+      "port": 19999,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "dnp-sec",
+      "description": "Distributed Network Protocol - secured",
+      "assignee": "[DNP_Users_Group]",
+      "registrationDate": "2022-12-20"
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "18000-18999",
+  "count": 59,
+  "records": [
+    {
+      "port": 18000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "biimenu",
+      "description": "Beckman Instruments, Inc.",
+      "assignee": "[R_L_Meyering]",
+      "registrationDate": null
+    },
+    {
+      "port": 18000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "biimenu",
+      "description": "Beckman Instruments, Inc.",
+      "assignee": "[R_L_Meyering]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18001-18103",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18104,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "radpdf",
+      "description": "RAD PDF Service",
+      "assignee": "[Christopher_Truxaw]",
+      "registrationDate": "2010-10-15"
+    },
+    {
+      "port": 18104,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18105-18135",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18136,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "racf",
+      "description": "z/OS Resource Access Control Facility",
+      "assignee": "[Bruce_Wells]",
+      "registrationDate": "2010-10-04"
+    },
+    {
+      "port": 18136,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18137-18180",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18181,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsec-cvp",
+      "description": "OPSEC CVP",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18181,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opsec-cvp",
+      "description": "OPSEC CVP",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18182,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsec-ufp",
+      "description": "OPSEC UFP",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18182,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opsec-ufp",
+      "description": "OPSEC UFP",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18183,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsec-sam",
+      "description": "OPSEC SAM",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18183,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opsec-sam",
+      "description": "OPSEC SAM",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18184,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsec-lea",
+      "description": "OPSEC LEA",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18184,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opsec-lea",
+      "description": "OPSEC LEA",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18185,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsec-omi",
+      "description": "OPSEC OMI",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18185,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opsec-omi",
+      "description": "OPSEC OMI",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18186,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ohsc",
+      "description": "Occupational Health SC",
+      "assignee": "[David_Fudge]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 18186,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ohsc",
+      "description": "Occupational Health Sc",
+      "assignee": "[David_Fudge]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 18187,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsec-ela",
+      "description": "OPSEC ELA",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": 18187,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opsec-ela",
+      "description": "OPSEC ELA",
+      "assignee": "[Alon_Kantor]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18188-18240",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18241,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "checkpoint-rtm",
+      "description": "Check Point RTM",
+      "assignee": "[Dudi_Hazan]",
+      "registrationDate": null
+    },
+    {
+      "port": 18241,
+      "portRange": null,
+      "transport": "udp",
+      "name": "checkpoint-rtm",
+      "description": "Check Point RTM",
+      "assignee": "[Dudi_Hazan]",
+      "registrationDate": null
+    },
+    {
+      "port": 18242,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "iclid",
+      "description": "Checkpoint router monitoring",
+      "assignee": "[Check_Point_Software]",
+      "registrationDate": "2012-06-28"
+    },
+    {
+      "port": 18242,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18243,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "clusterxl",
+      "description": "Checkpoint router state backup",
+      "assignee": "[Check_Point_Software]",
+      "registrationDate": "2012-06-28"
+    },
+    {
+      "port": 18243,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18244-18258",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18259,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18260-18261",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18262,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gv-pf",
+      "description": "GV NetConfig Service",
+      "assignee": "[Scott_Libert]",
+      "registrationDate": "2008-01-29"
+    },
+    {
+      "port": 18262,
+      "portRange": null,
+      "transport": "udp",
+      "name": "gv-pf",
+      "description": "GV NetConfig Service",
+      "assignee": "[Scott_Libert]",
+      "registrationDate": "2008-01-29"
+    },
+    {
+      "port": null,
+      "portRange": "18263-18462",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18463,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ac-cluster",
+      "description": "AC Cluster",
+      "assignee": "[Lisa_Zhong]",
+      "registrationDate": null
+    },
+    {
+      "port": 18463,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ac-cluster",
+      "description": "AC Cluster",
+      "assignee": "[Lisa_Zhong]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18464-18515",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18516,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18516,
+      "portRange": null,
+      "transport": "udp",
+      "name": "heythings",
+      "description": "HeyThings Device communicate service",
+      "assignee": "[Guangdong_OPPO_Mobile_Telecommunications_Corp_Ltd]",
+      "registrationDate": "2020-05-13"
+    },
+    {
+      "port": null,
+      "portRange": "18517-18633",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18634,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rds-ib",
+      "description": "Reliable Datagram Service",
+      "assignee": "[Andy_Grover]",
+      "registrationDate": "2009-02-27"
+    },
+    {
+      "port": 18634,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rds-ib",
+      "description": "Reliable Datagram Service",
+      "assignee": "[Andy_Grover]",
+      "registrationDate": "2009-02-27"
+    },
+    {
+      "port": 18635,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rds-ip",
+      "description": "Reliable Datagram Service over IP",
+      "assignee": "[Andy_Grover]",
+      "registrationDate": "2009-05-20"
+    },
+    {
+      "port": 18635,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rds-ip",
+      "description": "Reliable Datagram Service over IP",
+      "assignee": "[Andy_Grover]",
+      "registrationDate": "2009-05-20"
+    },
+    {
+      "port": null,
+      "portRange": "18636-18667",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18668,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vdmmesh",
+      "description": "Manufacturing Execution Systems Mesh Communication",
+      "assignee": "[Van_Doren_MES]",
+      "registrationDate": "2016-10-31"
+    },
+    {
+      "port": 18668,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vdmmesh-disc",
+      "description": "Manufacturing Execution Systems Mesh Communication",
+      "assignee": "[Van_Doren_MES]",
+      "registrationDate": "2016-10-31"
+    },
+    {
+      "port": null,
+      "portRange": "18669-18768",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18769,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ique",
+      "description": "IQue Protocol",
+      "assignee": "[Avi_Drissman]",
+      "registrationDate": "2002-07"
+    },
+    {
+      "port": 18769,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ique",
+      "description": "IQue Protocol",
+      "assignee": "[Avi_Drissman]",
+      "registrationDate": "2002-07"
+    },
+    {
+      "port": null,
+      "portRange": "18770-18880",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18881,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "infotos",
+      "description": "Infotos",
+      "assignee": "[Marcel_Dube]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 18881,
+      "portRange": null,
+      "transport": "udp",
+      "name": "infotos",
+      "description": "Infotos",
+      "assignee": "[Marcel_Dube]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "18882-18887",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 18888,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "apc-necmp",
+      "description": "APCNECMP",
+      "assignee": "[Michael_Yip]",
+      "registrationDate": null
+    },
+    {
+      "port": 18888,
+      "portRange": null,
+      "transport": "udp",
+      "name": "apc-necmp",
+      "description": "APCNECMP",
+      "assignee": "[Michael_Yip]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "18889-18999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TCP Ports API — free static JSON of the IANA port registry</title>
+<meta name="description" content="All 14,545 records from the IANA Service Name and Transport Protocol Port Number Registry as free static JSON. No authentication, no rate limit, no server.">
+<style>
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #9198a1;
+    --accent: #58a6ff;
+    --border: #30363d;
+    --card: #161b22;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+  }
+  main { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; margin: 0 0 0.25rem; }
+  h2 { font-size: 1.25rem; margin-top: 2.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+  p.lead { color: var(--muted); font-size: 1.05rem; }
+  a { color: var(--accent); }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+    font-size: 0.9em;
+  }
+  pre {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 0.4rem; }
+  .badge {
+    display: inline-block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-right: 0.4rem;
+  }
+  footer.hire-me {
+    margin-top: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+  footer.hire-me h3 { margin: 0 0 0.5rem; }
+  footer.hire-me p { margin: 0.25rem 0; }
+  #output {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.85rem;
+    white-space: pre-wrap;
+    min-height: 4rem;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>TCP Ports API</h1>
+<p class="lead">
+  All 14,545 records from the IANA Service Name and Transport Protocol Port Number Registry as
+  free static JSON. No authentication. No server. No rate limit.
+</p>
+<p>
+  <span class="badge">14,545 records</span>
+  <span class="badge">6,614 tcp · 6,360 udp · 93 sctp · 11 dccp</span>
+  <span class="badge">updated monthly</span>
+</p>
+
+<h2>Try it</h2>
+<pre>curl https://chirag127.github.io/tcp-ports-api/api/v1/ports.json</pre>
+<p>Or fetch the first record right now:</p>
+<div id="output">Loading…</div>
+
+<h2>Endpoints</h2>
+<table>
+  <tr><th>Endpoint</th><th>Description</th><th>Size</th></tr>
+  <tr>
+    <td><code>/api/v1/ports.json</code></td>
+    <td>All 14,545 records</td>
+    <td>~3.2 MB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/ports/index.json</code></td>
+    <td>Bucket index: file name and record count per bucket</td>
+    <td>~1 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/ports/{bucket}.json</code></td>
+    <td>One bucket per file, e.g. <code>0-999.json</code> (1,525 records) through <code>49000-49999.json</code>, plus <code>no-port.json</code> (1,076 records without a usable port)</td>
+    <td>51 files</td>
+  </tr>
+  <tr>
+    <td><code>/data/ports.json</code></td>
+    <td>Same data as above (source of truth for the repo)</td>
+    <td>~3.2 MB</td>
+  </tr>
+</table>
+
+<h2>What you get</h2>
+<table>
+  <tr><th>Field</th><th>Example</th><th>Notes</th></tr>
+  <tr>
+    <td><code>port</code></td>
+    <td><code>443</code></td>
+    <td>Integer port number, or <code>null</code> for rows without a usable port</td>
+  </tr>
+  <tr>
+    <td><code>portRange</code></td>
+    <td><code>"225-241"</code></td>
+    <td>Reserved blocks, e.g. historically reserved ranges — filed under their start port</td>
+  </tr>
+  <tr>
+    <td><code>transport</code></td>
+    <td><code>"tcp"</code></td>
+    <td><code>tcp</code>, <code>udp</code>, <code>sctp</code>, <code>dccp</code> — or <code>null</code> when IANA left it blank (deprecated entries)</td>
+  </tr>
+  <tr>
+    <td><code>name</code></td>
+    <td><code>"https"</code></td>
+    <td>The IANA service name</td>
+  </tr>
+  <tr>
+    <td><code>description</code></td>
+    <td><code>"http protocol over TLS/SSL"</code></td>
+    <td>IANA's description, quoted verbatim</td>
+  </tr>
+  <tr>
+    <td><code>assignee</code></td>
+    <td><code>"[IESG]"</code></td>
+    <td>Assignee or contact, quoted verbatim (bracketed references included)</td>
+  </tr>
+  <tr>
+    <td><code>registrationDate</code></td>
+    <td><code>"2012-07-31"</code></td>
+    <td>ISO date, or <code>null</code> when not recorded</td>
+  </tr>
+</table>
+
+<h2>How it stays fresh</h2>
+<p>
+  The <code>update.yml</code> workflow runs monthly, fetches
+  <a href="https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv">service-names-port-numbers.csv</a>
+  from the IANA registry, regenerates the JSON and commits only when the data actually changed.
+  GitHub Pages serves the result. No server to run.
+</p>
+
+<h2>Data source and accuracy</h2>
+<p>
+  The <a href="https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml">IANA
+  Service Name and Transport Protocol Port Number Registry</a> is the authoritative list of port
+  assignments. All 14,545 registry rows are included: 6,614 tcp, 6,360 udp, 93 sctp, 11 dccp, and
+  1,467 rows without a transport (deprecated or removed entries). It does not cover ephemeral
+  ports that are unregistered, and it carries IANA's records verbatim — including bracketed
+  references and historical notes. The CSV is parsed with an RFC 4180-compliant parser because
+  IANA rows contain quoted fields with embedded commas and newlines.
+</p>
+
+<h2>Limits, stated plainly</h2>
+<ul>
+  <li>The full dataset is ~3.2 MB — fine for a one-off fetch, but use the bucket files if you need one range at a time.</li>
+  <li>Deprecated and removed entries are kept with <code>null</code> fields rather than dropped, so the record count is larger than the number of usable ports.</li>
+  <li>IANA's CSV is the source of truth for dates and assignees; some rows are sparse or historical.</li>
+  <li>The registry is updated irregularly, so the monthly workflow may go many runs without a commit.</li>
+</ul>
+
+<h2>Licence</h2>
+<p>Data: the IANA registry is published for informational use; this API republishes it with
+attribution to IANA. Code: MIT.</p>
+
+<footer class="hire-me">
+  <h3>Hire me</h3>
+  <p>Chirag Singhal — building free, open APIs and tools.</p>
+  <p>
+    <a href="mailto:chirag@oriz.in">chirag@oriz.in</a> ·
+    <a href="https://github.com/chirag127">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a> ·
+    <a href="https://x.com/singhal127">X</a> ·
+    <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
+    <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
+    <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
+    <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+  </p>
+</footer>
+
+</main>
+<script>
+  fetch("api/v1/ports/0-999.json")
+    .then((r) => r.json())
+    .then((d) => {
+      document.getElementById("output").textContent =
+        JSON.stringify(d.records[0], null, 2) + "\n… " + d.count + " records in this bucket";
+    })
+    .catch(() => {
+      document.getElementById("output").textContent =
+        "Live fetch failed here — on GitHub Pages this returns the real data.";
+    });
+</script>
+</body>
+</html>

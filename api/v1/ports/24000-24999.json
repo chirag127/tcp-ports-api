@@ -1,0 +1,628 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "24000-24999",
+  "count": 69,
+  "records": [
+    {
+      "port": 24000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "med-ltp",
+      "description": "med-ltp",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "med-ltp",
+      "description": "med-ltp",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "med-fsp-rx",
+      "description": "med-fsp-rx",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "med-fsp-rx",
+      "description": "med-fsp-rx",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "med-fsp-tx",
+      "description": "med-fsp-tx",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "med-fsp-tx",
+      "description": "med-fsp-tx",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "med-supp",
+      "description": "med-supp",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "med-supp",
+      "description": "med-supp",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "med-ovw",
+      "description": "med-ovw",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24004,
+      "portRange": null,
+      "transport": "udp",
+      "name": "med-ovw",
+      "description": "med-ovw",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "med-ci",
+      "description": "med-ci",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24005,
+      "portRange": null,
+      "transport": "udp",
+      "name": "med-ci",
+      "description": "med-ci",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24006,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "med-net-svc",
+      "description": "med-net-svc",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": 24006,
+      "portRange": null,
+      "transport": "udp",
+      "name": "med-net-svc",
+      "description": "med-net-svc",
+      "assignee": "[Juergen_Fischbach]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24007-24241",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24242,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "filesphere",
+      "description": "fileSphere",
+      "assignee": "[Carl_Cedergren]",
+      "registrationDate": null
+    },
+    {
+      "port": 24242,
+      "portRange": null,
+      "transport": "udp",
+      "name": "filesphere",
+      "description": "fileSphere",
+      "assignee": "[Carl_Cedergren]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24243-24248",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24249,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vista-4gl",
+      "description": "Vista 4GL",
+      "assignee": "[Ingenta_plc]",
+      "registrationDate": null
+    },
+    {
+      "port": 24249,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vista-4gl",
+      "description": "Vista 4GL",
+      "assignee": "[Ingenta_plc]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24250-24320",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24321,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ild",
+      "description": "Isolv Local Directory",
+      "assignee": "[Mitchell_Bass]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 24321,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ild",
+      "description": "Isolv Local Directory",
+      "assignee": "[Mitchell_Bass]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 24322,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hid",
+      "description": "Transport of Human Interface Device data streams",
+      "assignee": "[Freebox_SAS]",
+      "registrationDate": "2012-12-14"
+    },
+    {
+      "port": 24322,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24323,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vrmg-ip",
+      "description": "Verimag mobile class protocol over TCP",
+      "assignee": "[Verimag_OOO]",
+      "registrationDate": "2018-08-15"
+    },
+    {
+      "port": 24323,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24324-24385",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24386,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "intel-rci",
+      "description": "Intel RCI\n\nIANA assigned this well-formed service name as a replacement for \"intel_rci\".",
+      "assignee": "[Mark_Lewis_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 24386,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "intel_rci",
+      "description": "Intel RCI",
+      "assignee": "[Mark_Lewis_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 24386,
+      "portRange": null,
+      "transport": "udp",
+      "name": "intel-rci",
+      "description": "Intel RCI\n\nIANA assigned this well-formed service name as a replacement for \"intel_rci\".",
+      "assignee": "[Mark_Lewis_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 24386,
+      "portRange": null,
+      "transport": "udp",
+      "name": "intel_rci",
+      "description": "Intel RCI",
+      "assignee": "[Mark_Lewis_2]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24387-24464",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24465,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tonidods",
+      "description": "Tonido Domain Server",
+      "assignee": "[Madhan_Kanagavel]",
+      "registrationDate": "2008-07-18"
+    },
+    {
+      "port": 24465,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tonidods",
+      "description": "Tonido Domain Server",
+      "assignee": "[Madhan_Kanagavel]",
+      "registrationDate": "2008-07-18"
+    },
+    {
+      "port": null,
+      "portRange": "24466-24553",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24554,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "binkp",
+      "description": "BINKP",
+      "assignee": "[Maxim_Masiutin]",
+      "registrationDate": null
+    },
+    {
+      "port": 24554,
+      "portRange": null,
+      "transport": "udp",
+      "name": "binkp",
+      "description": "BINKP",
+      "assignee": "[Maxim_Masiutin]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24555-24576",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24577,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bilobit",
+      "description": "bilobit Service",
+      "assignee": "[bilobit_GmbH]",
+      "registrationDate": "2014-08-15"
+    },
+    {
+      "port": 24577,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bilobit-update",
+      "description": "bilobit Service Update",
+      "assignee": "[bilobit_GmbH]",
+      "registrationDate": "2014-08-15"
+    },
+    {
+      "port": null,
+      "portRange": "24578-24600",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24601,
+      "portRange": null,
+      "transport": "udp",
+      "name": "udpstp",
+      "description": "UDP-based IP-Layer Capacity and Performance Measurement protocol",
+      "assignee": "[IESG]",
+      "registrationDate": "2025-09-26"
+    },
+    {
+      "port": 24601,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24602-24665",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24666,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sdtvwcam",
+      "description": "Service used by SmarDTV to communicate between a CAM and a second screen application",
+      "assignee": "[SmarDTV]",
+      "registrationDate": "2015-03-04"
+    },
+    {
+      "port": 24666,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24667-24675",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24676,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "canditv",
+      "description": "Canditv Message Service",
+      "assignee": "[Gary_Aston]",
+      "registrationDate": "2009-03-10"
+    },
+    {
+      "port": 24676,
+      "portRange": null,
+      "transport": "udp",
+      "name": "canditv",
+      "description": "Canditv Message Service",
+      "assignee": "[Gary_Aston]",
+      "registrationDate": "2009-03-10"
+    },
+    {
+      "port": 24677,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "flashfiler",
+      "description": "FlashFiler",
+      "assignee": "[Ben_Oram]",
+      "registrationDate": null
+    },
+    {
+      "port": 24677,
+      "portRange": null,
+      "transport": "udp",
+      "name": "flashfiler",
+      "description": "FlashFiler",
+      "assignee": "[Ben_Oram]",
+      "registrationDate": null
+    },
+    {
+      "port": 24678,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "proactivate",
+      "description": "Turbopower Proactivate",
+      "assignee": "[Ben_Oram]",
+      "registrationDate": null
+    },
+    {
+      "port": 24678,
+      "portRange": null,
+      "transport": "udp",
+      "name": "proactivate",
+      "description": "Turbopower Proactivate",
+      "assignee": "[Ben_Oram]",
+      "registrationDate": null
+    },
+    {
+      "port": 24679,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24680,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tcc-http",
+      "description": "TCC User HTTP Service",
+      "assignee": "[Brian_Kennedy]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": 24680,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tcc-http",
+      "description": "TCC User HTTP Service",
+      "assignee": "[Brian_Kennedy]",
+      "registrationDate": "2006-08"
+    },
+    {
+      "port": null,
+      "portRange": "24681-24726",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24727,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24728-24753",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24754,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cslg",
+      "description": "Citrix StorageLink Gateway",
+      "assignee": "[Mark_Nijmeijer]",
+      "registrationDate": "2009-04-17"
+    },
+    {
+      "port": 24754,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24755-24849",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24850,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24850,
+      "portRange": null,
+      "transport": "udp",
+      "name": "assoc-disc",
+      "description": "Device Association Discovery",
+      "assignee": "[Microsoft_Corporation_3]",
+      "registrationDate": "2012-06-27"
+    },
+    {
+      "port": null,
+      "portRange": "24851-24921",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 24922,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "find",
+      "description": "Find Identification of Network Devices",
+      "assignee": "[Jean_Paul_Moreaux]",
+      "registrationDate": null
+    },
+    {
+      "port": 24922,
+      "portRange": null,
+      "transport": "udp",
+      "name": "find",
+      "description": "Find Identification of Network Devices",
+      "assignee": "[Jean_Paul_Moreaux]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "24923-24999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

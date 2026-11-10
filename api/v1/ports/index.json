@@ -1,0 +1,260 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "buckets": [
+    {
+      "bucket": "0-999",
+      "file": "ports/0-999.json",
+      "count": 1525
+    },
+    {
+      "bucket": "1000-1999",
+      "file": "ports/1000-1999.json",
+      "count": 2007
+    },
+    {
+      "bucket": "2000-2999",
+      "file": "ports/2000-2999.json",
+      "count": 2024
+    },
+    {
+      "bucket": "3000-3999",
+      "file": "ports/3000-3999.json",
+      "count": 2022
+    },
+    {
+      "bucket": "4000-4999",
+      "file": "ports/4000-4999.json",
+      "count": 1150
+    },
+    {
+      "bucket": "5000-5999",
+      "file": "ports/5000-5999.json",
+      "count": 974
+    },
+    {
+      "bucket": "6000-6999",
+      "file": "ports/6000-6999.json",
+      "count": 627
+    },
+    {
+      "bucket": "7000-7999",
+      "file": "ports/7000-7999.json",
+      "count": 534
+    },
+    {
+      "bucket": "8000-8999",
+      "file": "ports/8000-8999.json",
+      "count": 536
+    },
+    {
+      "bucket": "9000-9999",
+      "file": "ports/9000-9999.json",
+      "count": 457
+    },
+    {
+      "bucket": "10000-10999",
+      "file": "ports/10000-10999.json",
+      "count": 159
+    },
+    {
+      "bucket": "11000-11999",
+      "file": "ports/11000-11999.json",
+      "count": 119
+    },
+    {
+      "bucket": "12000-12999",
+      "file": "ports/12000-12999.json",
+      "count": 63
+    },
+    {
+      "bucket": "13000-13999",
+      "file": "ports/13000-13999.json",
+      "count": 62
+    },
+    {
+      "bucket": "14000-14999",
+      "file": "ports/14000-14999.json",
+      "count": 45
+    },
+    {
+      "bucket": "15000-15999",
+      "file": "ports/15000-15999.json",
+      "count": 28
+    },
+    {
+      "bucket": "16000-16999",
+      "file": "ports/16000-16999.json",
+      "count": 69
+    },
+    {
+      "bucket": "17000-17999",
+      "file": "ports/17000-17999.json",
+      "count": 50
+    },
+    {
+      "bucket": "18000-18999",
+      "file": "ports/18000-18999.json",
+      "count": 59
+    },
+    {
+      "bucket": "19000-19999",
+      "file": "ports/19000-19999.json",
+      "count": 52
+    },
+    {
+      "bucket": "20000-20999",
+      "file": "ports/20000-20999.json",
+      "count": 57
+    },
+    {
+      "bucket": "21000-21999",
+      "file": "ports/21000-21999.json",
+      "count": 40
+    },
+    {
+      "bucket": "22000-22999",
+      "file": "ports/22000-22999.json",
+      "count": 60
+    },
+    {
+      "bucket": "23000-23999",
+      "file": "ports/23000-23999.json",
+      "count": 40
+    },
+    {
+      "bucket": "24000-24999",
+      "file": "ports/24000-24999.json",
+      "count": 69
+    },
+    {
+      "bucket": "25000-25999",
+      "file": "ports/25000-25999.json",
+      "count": 49
+    },
+    {
+      "bucket": "26000-26999",
+      "file": "ports/26000-26999.json",
+      "count": 30
+    },
+    {
+      "bucket": "27000-27999",
+      "file": "ports/27000-27999.json",
+      "count": 26
+    },
+    {
+      "bucket": "28000-28999",
+      "file": "ports/28000-28999.json",
+      "count": 23
+    },
+    {
+      "bucket": "29000-29999",
+      "file": "ports/29000-29999.json",
+      "count": 16
+    },
+    {
+      "bucket": "30000-30999",
+      "file": "ports/30000-30999.json",
+      "count": 29
+    },
+    {
+      "bucket": "31000-31999",
+      "file": "ports/31000-31999.json",
+      "count": 41
+    },
+    {
+      "bucket": "32000-32999",
+      "file": "ports/32000-32999.json",
+      "count": 49
+    },
+    {
+      "bucket": "33000-33999",
+      "file": "ports/33000-33999.json",
+      "count": 28
+    },
+    {
+      "bucket": "34000-34999",
+      "file": "ports/34000-34999.json",
+      "count": 25
+    },
+    {
+      "bucket": "35000-35999",
+      "file": "ports/35000-35999.json",
+      "count": 27
+    },
+    {
+      "bucket": "36000-36999",
+      "file": "ports/36000-36999.json",
+      "count": 34
+    },
+    {
+      "bucket": "37000-37999",
+      "file": "ports/37000-37999.json",
+      "count": 16
+    },
+    {
+      "bucket": "38000-38999",
+      "file": "ports/38000-38999.json",
+      "count": 39
+    },
+    {
+      "bucket": "39000-39999",
+      "file": "ports/39000-39999.json",
+      "count": 6
+    },
+    {
+      "bucket": "40000-40999",
+      "file": "ports/40000-40999.json",
+      "count": 19
+    },
+    {
+      "bucket": "41000-41999",
+      "file": "ports/41000-41999.json",
+      "count": 18
+    },
+    {
+      "bucket": "42000-42999",
+      "file": "ports/42000-42999.json",
+      "count": 9
+    },
+    {
+      "bucket": "43000-43999",
+      "file": "ports/43000-43999.json",
+      "count": 24
+    },
+    {
+      "bucket": "44000-44999",
+      "file": "ports/44000-44999.json",
+      "count": 32
+    },
+    {
+      "bucket": "45000-45999",
+      "file": "ports/45000-45999.json",
+      "count": 30
+    },
+    {
+      "bucket": "46000-46999",
+      "file": "ports/46000-46999.json",
+      "count": 7
+    },
+    {
+      "bucket": "47000-47999",
+      "file": "ports/47000-47999.json",
+      "count": 22
+    },
+    {
+      "bucket": "48000-48999",
+      "file": "ports/48000-48999.json",
+      "count": 34
+    },
+    {
+      "bucket": "49000-49999",
+      "file": "ports/49000-49999.json",
+      "count": 8
+    },
+    {
+      "bucket": "no-port",
+      "file": "ports/no-port.json",
+      "count": 1076
+    }
+  ]
+}

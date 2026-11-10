@@ -1,0 +1,241 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "27000-27999",
+  "count": 26,
+  "records": [
+    {
+      "port": null,
+      "portRange": "27000-27009",
+      "transport": null,
+      "name": "flex-lm",
+      "description": "FLEX LM (1-10)",
+      "assignee": "[Flexera_Software]",
+      "registrationDate": null
+    },
+    {
+      "port": 27010,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "flex-lmadmin",
+      "description": "A protocol for managing license services",
+      "assignee": "[Flexera]",
+      "registrationDate": "2018-08-22"
+    },
+    {
+      "port": 27010,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "27011-27015",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27016,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "chlenix",
+      "description": "Cloud hosting environment network",
+      "assignee": "[Vlad_Bondarenko]",
+      "registrationDate": "2024-09-23"
+    },
+    {
+      "port": 27016,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27017,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mongodb",
+      "description": "Mongo database system",
+      "assignee": "[MongoDB_Inc.]",
+      "registrationDate": "2019-02-21"
+    },
+    {
+      "port": 27017,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "27018-27344",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27345,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "imagepump",
+      "description": "ImagePump",
+      "assignee": "[Richard_Minner]",
+      "registrationDate": null
+    },
+    {
+      "port": 27345,
+      "portRange": null,
+      "transport": "udp",
+      "name": "imagepump",
+      "description": "ImagePump",
+      "assignee": "[Richard_Minner]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "27346-27441",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27442,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "jesmsjc",
+      "description": "Job controller service",
+      "assignee": "[Chris_Newman]",
+      "registrationDate": "2010-10-15"
+    },
+    {
+      "port": 27442,
+      "portRange": null,
+      "transport": "udp",
+      "name": "jesmsjc",
+      "description": "Job controller service",
+      "assignee": "[Chris_Newman]",
+      "registrationDate": "2010-10-15"
+    },
+    {
+      "port": null,
+      "portRange": "27443-27503",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27504,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "kopek-httphead",
+      "description": "Kopek HTTP Head Port",
+      "assignee": "[Sten_H_Danielsen]",
+      "registrationDate": "2002-07"
+    },
+    {
+      "port": 27504,
+      "portRange": null,
+      "transport": "udp",
+      "name": "kopek-httphead",
+      "description": "Kopek HTTP Head Port",
+      "assignee": "[Sten_H_Danielsen]",
+      "registrationDate": "2002-07"
+    },
+    {
+      "port": null,
+      "portRange": "27505-27781",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27782,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ars-vista",
+      "description": "ARS VISTA Application",
+      "assignee": "[Spencer_Teran_2]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 27782,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ars-vista",
+      "description": "ARS VISTA Application",
+      "assignee": "[Spencer_Teran_2]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "27783-27875",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27876,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "astrolink",
+      "description": "Astrolink Protocol",
+      "assignee": "[Alanax_Technologies_Inc]",
+      "registrationDate": "2013-01-14"
+    },
+    {
+      "port": 27876,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "27877-27998",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 27999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tw-auth-key",
+      "description": "TW Authentication/Key Distribution and",
+      "assignee": "[Alex_Duncan_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 27999,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tw-auth-key",
+      "description": "Attribute Certificate Services",
+      "assignee": "[Alex_Duncan_2]",
+      "registrationDate": null
+    }
+  ]
+}

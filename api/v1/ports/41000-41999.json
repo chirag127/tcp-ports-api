@@ -1,0 +1,169 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "41000-41999",
+  "count": 18,
+  "records": [
+    {
+      "port": 41111,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fs-qos",
+      "description": "Foursticks QoS Protocol",
+      "assignee": "[Chee_Kent_Lam]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": 41111,
+      "portRange": null,
+      "transport": "udp",
+      "name": "fs-qos",
+      "description": "Foursticks QoS Protocol",
+      "assignee": "[Chee_Kent_Lam]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": null,
+      "portRange": "41112-41120",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 41121,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tentacle",
+      "description": "Tentacle Server",
+      "assignee": "[Sancho_Lerena]",
+      "registrationDate": "2009-06-02"
+    },
+    {
+      "port": 41121,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "41122-41229",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 41230,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "z-wave-s",
+      "description": "Z-Wave Protocol over SSL/TLS",
+      "assignee": "[Sigma_Designs_3]",
+      "registrationDate": "2015-06-26"
+    },
+    {
+      "port": 41230,
+      "portRange": null,
+      "transport": "udp",
+      "name": "z-wave-s",
+      "description": "Z-Wave Protocol over DTLS",
+      "assignee": "[Sigma_Designs_3]",
+      "registrationDate": "2015-06-26"
+    },
+    {
+      "port": null,
+      "portRange": "41231-41793",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 41794,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "crestron-cip",
+      "description": "Crestron Control Port",
+      "assignee": "[Crestron_Electronics]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 41794,
+      "portRange": null,
+      "transport": "udp",
+      "name": "crestron-cip",
+      "description": "Crestron Control Port",
+      "assignee": "[Crestron_Electronics]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 41795,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "crestron-ctp",
+      "description": "Crestron Terminal Port",
+      "assignee": "[Crestron_Electronics]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 41795,
+      "portRange": null,
+      "transport": "udp",
+      "name": "crestron-ctp",
+      "description": "Crestron Terminal Port",
+      "assignee": "[Crestron_Electronics]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 41796,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "crestron-cips",
+      "description": "Crestron Secure Control Port",
+      "assignee": "[Crestron_Electronics]",
+      "registrationDate": "2012-06-27"
+    },
+    {
+      "port": 41796,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 41797,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "crestron-ctps",
+      "description": "Crestron Secure Terminal Port",
+      "assignee": "[Crestron_Electronics]",
+      "registrationDate": "2012-06-27"
+    },
+    {
+      "port": 41797,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "41798-42507",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

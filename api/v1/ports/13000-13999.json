@@ -1,0 +1,565 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "13000-13999",
+  "count": 62,
+  "records": [
+    {
+      "port": 13160,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "i-zipqd",
+      "description": "I-ZIPQD",
+      "assignee": "[Chuck_Runquist]",
+      "registrationDate": null
+    },
+    {
+      "port": 13160,
+      "portRange": null,
+      "transport": "udp",
+      "name": "i-zipqd",
+      "description": "I-ZIPQD",
+      "assignee": "[Chuck_Runquist]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "13161-13215",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13216,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bcslogc",
+      "description": "Black Crow Software application logging",
+      "assignee": "[Ramindur_Singh]",
+      "registrationDate": "2008-12-04"
+    },
+    {
+      "port": 13216,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bcslogc",
+      "description": "Black Crow Software application logging",
+      "assignee": "[Ramindur_Singh]",
+      "registrationDate": "2008-12-04"
+    },
+    {
+      "port": 13217,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rs-pias",
+      "description": "R&S Proxy Installation Assistant Service",
+      "assignee": "[Guido_Kiener]",
+      "registrationDate": "2008-12-04"
+    },
+    {
+      "port": 13217,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rs-pias",
+      "description": "R&S Proxy Installation Assistant Service",
+      "assignee": "[Guido_Kiener]",
+      "registrationDate": "2008-12-04"
+    },
+    {
+      "port": 13218,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "emc-vcas-tcp",
+      "description": "EMC Virtual CAS Service",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13218,
+      "portRange": null,
+      "transport": "udp",
+      "name": "emc-vcas-udp",
+      "description": "EMV Virtual CAS Service Discovery",
+      "assignee": "[Mark_O_Connell]",
+      "registrationDate": "2008-12-04"
+    },
+    {
+      "port": null,
+      "portRange": "13219-13222",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13223,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "powwow-client",
+      "description": "PowWow Client",
+      "assignee": "[Paul_K_Peterson]",
+      "registrationDate": null
+    },
+    {
+      "port": 13223,
+      "portRange": null,
+      "transport": "udp",
+      "name": "powwow-client",
+      "description": "PowWow Client",
+      "assignee": "[Paul_K_Peterson]",
+      "registrationDate": null
+    },
+    {
+      "port": 13224,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "powwow-server",
+      "description": "PowWow Server",
+      "assignee": "[Paul_K_Peterson]",
+      "registrationDate": null
+    },
+    {
+      "port": 13224,
+      "portRange": null,
+      "transport": "udp",
+      "name": "powwow-server",
+      "description": "PowWow Server",
+      "assignee": "[Paul_K_Peterson]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "13225-13399",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13400,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "doip-data",
+      "description": "DoIP Data",
+      "assignee": "[Joerg_Schneider]",
+      "registrationDate": "2011-01-26"
+    },
+    {
+      "port": 13400,
+      "portRange": null,
+      "transport": "udp",
+      "name": "doip-disc",
+      "description": "DoIP Discovery",
+      "assignee": "[Joerg_Schneider]",
+      "registrationDate": "2011-01-26"
+    },
+    {
+      "port": null,
+      "portRange": "13401-13719",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13720,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bprd",
+      "description": "BPRD Protocol (VERITAS NetBackup)",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13720,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bprd",
+      "description": "BPRD Protocol (VERITAS NetBackup)",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13721,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bpdbm",
+      "description": "BPDBM Protocol (VERITAS NetBackup)",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13721,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bpdbm",
+      "description": "BPDBM Protocol (VERITAS NetBackup)",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13722,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bpjava-msvc",
+      "description": "BP Java MSVC Protocol",
+      "assignee": "[Tim_Schmidt]",
+      "registrationDate": null
+    },
+    {
+      "port": 13722,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bpjava-msvc",
+      "description": "BP Java MSVC Protocol",
+      "assignee": "[Tim_Schmidt]",
+      "registrationDate": null
+    },
+    {
+      "port": 13723,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13724,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vnetd",
+      "description": "Veritas Network Utility",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13724,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vnetd",
+      "description": "Veritas Network Utility",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "13725-13781",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13782,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bpcd",
+      "description": "VERITAS NetBackup",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13782,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bpcd",
+      "description": "VERITAS NetBackup",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13783,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vopied",
+      "description": "VOPIED Protocol",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13783,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vopied",
+      "description": "VOPIED Protocol",
+      "assignee": "[Jeff_Holmbeck]",
+      "registrationDate": null
+    },
+    {
+      "port": 13784,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13785,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nbdb",
+      "description": "NetBackup Database",
+      "assignee": "[Pat_Tovo]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 13785,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nbdb",
+      "description": "NetBackup Database",
+      "assignee": "[Pat_Tovo]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 13786,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nomdb",
+      "description": "Veritas-nomdb",
+      "assignee": "[Clayton_Haapala]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 13786,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nomdb",
+      "description": "Veritas-nomdb",
+      "assignee": "[Clayton_Haapala]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "13787-13817",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13818,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dsmcc-config",
+      "description": "DSMCC Config",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13818,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dsmcc-config",
+      "description": "DSMCC Config",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13819,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dsmcc-session",
+      "description": "DSMCC Session Messages",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13819,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dsmcc-session",
+      "description": "DSMCC Session Messages",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13820,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dsmcc-passthru",
+      "description": "DSMCC Pass-Thru Messages",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13820,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dsmcc-passthru",
+      "description": "DSMCC Pass-Thru Messages",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13821,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dsmcc-download",
+      "description": "DSMCC Download Protocol",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13821,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dsmcc-download",
+      "description": "DSMCC Download Protocol",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13822,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dsmcc-ccp",
+      "description": "DSMCC Channel Change Protocol",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13822,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dsmcc-ccp",
+      "description": "DSMCC Channel Change Protocol",
+      "assignee": "[Tim_Addington]",
+      "registrationDate": null
+    },
+    {
+      "port": 13823,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bmdss",
+      "description": "Blackmagic Design Streaming Server",
+      "assignee": "[Sam_Vaughan]",
+      "registrationDate": "2011-03-01"
+    },
+    {
+      "port": 13823,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "13824-13831",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13832,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "a-trust-rpc",
+      "description": "Certificate Management and Issuing",
+      "assignee": "[A-Trust_GmbH]",
+      "registrationDate": "2023-06-05"
+    },
+    {
+      "port": 13832,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "13833-13893",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13894,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ucontrol",
+      "description": "Ultimate Control communication protocol",
+      "assignee": "[NEGU_Soft]",
+      "registrationDate": "2012-09-10"
+    },
+    {
+      "port": 13894,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ucontrol",
+      "description": "Ultimate Control communication protocol",
+      "assignee": "[NEGU_Soft]",
+      "registrationDate": "2012-09-10"
+    },
+    {
+      "port": null,
+      "portRange": "13895-13928",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 13929,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dta-systems",
+      "description": "D-TA SYSTEMS",
+      "assignee": "[Alexis_Bose]",
+      "registrationDate": "2008-12-08"
+    },
+    {
+      "port": 13929,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dta-systems",
+      "description": "D-TA SYSTEMS",
+      "assignee": "[Alexis_Bose]",
+      "registrationDate": "2008-12-08"
+    },
+    {
+      "port": 13930,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "medevolve",
+      "description": "MedEvolve Port Requester",
+      "assignee": "[Jon_Robertson]",
+      "registrationDate": "2008-10-24"
+    },
+    {
+      "port": 13930,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "13931-13999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

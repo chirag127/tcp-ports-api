@@ -1,0 +1,520 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "20000-20999",
+  "count": 57,
+  "records": [
+    {
+      "port": 20000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dnp",
+      "description": "DNP",
+      "assignee": "[Michael_Thesing]",
+      "registrationDate": null
+    },
+    {
+      "port": 20000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dnp",
+      "description": "DNP",
+      "assignee": "[Michael_Thesing]",
+      "registrationDate": null
+    },
+    {
+      "port": 20000,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "dnp",
+      "description": "Distributed Network Protocol",
+      "assignee": "[DNP_Users_Group]",
+      "registrationDate": "2022-12-20"
+    },
+    {
+      "port": 20001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "microsan",
+      "description": "MicroSAN",
+      "assignee": "[Thomas_E_Ludwig]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": 20001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "microsan",
+      "description": "MicroSAN",
+      "assignee": "[Thomas_E_Ludwig]",
+      "registrationDate": "2004-02"
+    },
+    {
+      "port": 20002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "commtact-http",
+      "description": "Commtact HTTP",
+      "assignee": "[Tomas_Svoboda]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 20002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "commtact-http",
+      "description": "Commtact HTTP",
+      "assignee": "[Tomas_Svoboda]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 20003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "commtact-https",
+      "description": "Commtact HTTPS",
+      "assignee": "[Tomas_Svoboda]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 20003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "commtact-https",
+      "description": "Commtact HTTPS",
+      "assignee": "[Tomas_Svoboda]",
+      "registrationDate": "2004-12"
+    },
+    {
+      "port": 20004,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "openwebnet",
+      "description": "OpenWebNet protocol for electric network",
+      "assignee": "[BTicino_S_p_A]",
+      "registrationDate": "2008-04-09"
+    },
+    {
+      "port": 20005,
+      "portRange": null,
+      "transport": "udp",
+      "name": "openwebnet",
+      "description": "OpenWebNet protocol for electric network",
+      "assignee": "[BTicino_S_p_A]",
+      "registrationDate": "2008-04-09"
+    },
+    {
+      "port": null,
+      "portRange": "20006-20011",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20012,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20012,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ss-idi-disc",
+      "description": "Samsung Interdevice Interaction discovery",
+      "assignee": "[Hong_Jungkih]",
+      "registrationDate": null
+    },
+    {
+      "port": 20013,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ss-idi",
+      "description": "Samsung Interdevice Interaction",
+      "assignee": "[Hong_Jungkih]",
+      "registrationDate": null
+    },
+    {
+      "port": 20013,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20014,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opendeploy",
+      "description": "OpenDeploy Listener",
+      "assignee": "[Todd_Scallan]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 20014,
+      "portRange": null,
+      "transport": "udp",
+      "name": "opendeploy",
+      "description": "OpenDeploy Listener",
+      "assignee": "[Todd_Scallan]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "20015-20033",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20034,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nburn-id",
+      "description": "NetBurner ID Port\n\nIANA assigned this well-formed service name as a replacement for \"nburn_id\".",
+      "assignee": "[Paul_Breed]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 20034,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nburn_id",
+      "description": "NetBurner ID Port",
+      "assignee": "[Paul_Breed]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 20034,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nburn-id",
+      "description": "NetBurner ID Port\n\nIANA assigned this well-formed service name as a replacement for \"nburn_id\".",
+      "assignee": "[Paul_Breed]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 20034,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nburn_id",
+      "description": "NetBurner ID Port",
+      "assignee": "[Paul_Breed]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": null,
+      "portRange": "20035-20045",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20046,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tmophl7mts",
+      "description": "TMOP HL7 Message Transfer Service",
+      "assignee": "[Tim_Riley]",
+      "registrationDate": "2009-07-31"
+    },
+    {
+      "port": 20046,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tmophl7mts",
+      "description": "TMOP HL7 Message Transfer Service",
+      "assignee": "[Tim_Riley]",
+      "registrationDate": "2009-07-31"
+    },
+    {
+      "port": null,
+      "portRange": "20047-20047",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20048,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mountd",
+      "description": "NFS mount protocol",
+      "assignee": "[Nicolas_Williams]",
+      "registrationDate": "2010-08-09"
+    },
+    {
+      "port": 20048,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mountd",
+      "description": "NFS mount protocol",
+      "assignee": "[Nicolas_Williams]",
+      "registrationDate": "2010-08-09"
+    },
+    {
+      "port": 20049,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nfsrdma",
+      "description": "Network File System (NFS) over RDMA",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20049,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nfsrdma",
+      "description": "Network File System (NFS) over RDMA",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20049,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "nfsrdma",
+      "description": "Network File System (NFS) over RDMA",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "20050-20056",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20057,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "avesterra",
+      "description": "AvesTerra Hypergraph Transfer Protocol (HGTP)",
+      "assignee": "[Georgetown_University]",
+      "registrationDate": "2016-06-06"
+    },
+    {
+      "port": 20057,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "20058-20166",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20167,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tolfab",
+      "description": "TOLfab Data Change",
+      "assignee": "[Pierre_Couderc]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": 20167,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tolfab",
+      "description": "TOLfab Data Change",
+      "assignee": "[Pierre_Couderc]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": null,
+      "portRange": "20168-20201",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20202,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ipdtp-port",
+      "description": "IPD Tunneling Port",
+      "assignee": "[Vikki_Yin_Wei]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 20202,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ipdtp-port",
+      "description": "IPD Tunneling Port",
+      "assignee": "[Vikki_Yin_Wei]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": null,
+      "portRange": "20203-20221",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20222,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ipulse-ics",
+      "description": "iPulse-ICS",
+      "assignee": "[Meggie_Garica_Woodru]",
+      "registrationDate": null
+    },
+    {
+      "port": 20222,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ipulse-ics",
+      "description": "iPulse-ICS",
+      "assignee": "[Meggie_Garica_Woodru]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "20223-20479",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20480,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "emwavemsg",
+      "description": "emWave Message Service",
+      "assignee": "[Harald_Striepe]",
+      "registrationDate": "2008-02-14"
+    },
+    {
+      "port": 20480,
+      "portRange": null,
+      "transport": "udp",
+      "name": "emwavemsg",
+      "description": "emWave Message Service",
+      "assignee": "[Harald_Striepe]",
+      "registrationDate": "2008-02-14"
+    },
+    {
+      "port": null,
+      "portRange": "20481-20669",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20670,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "track",
+      "description": "Track",
+      "assignee": "[Michael_Sweet]",
+      "registrationDate": null
+    },
+    {
+      "port": 20670,
+      "portRange": null,
+      "transport": "udp",
+      "name": "track",
+      "description": "Track",
+      "assignee": "[Michael_Sweet]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "20671-20809",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20810,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "crtech-nlm",
+      "description": "CRTech NLM",
+      "assignee": "[Cullimore_And_Ring_Technologies]",
+      "registrationDate": "2021-06-24"
+    },
+    {
+      "port": 20810,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "20811-20998",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 20999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "athand-mmp",
+      "description": "At Hand MMP",
+      "assignee": "[Stepan_Riha]",
+      "registrationDate": null
+    },
+    {
+      "port": 20999,
+      "portRange": null,
+      "transport": "udp",
+      "name": "athand-mmp",
+      "description": "AT Hand MMP",
+      "assignee": "[Stepan_Riha]",
+      "registrationDate": null
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "44000-44999",
+  "count": 32,
+  "records": [
+    {
+      "port": 44123,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "z-wave-tunnel",
+      "description": "Z-Wave Secure Tunnel",
+      "assignee": "[Sigma_Designs_Inc]",
+      "registrationDate": "2012-10-12"
+    },
+    {
+      "port": 44123,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "44124-44320",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44321,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pmcd",
+      "description": "PCP server (pmcd)",
+      "assignee": "[Performance_Co-Pilot_PCP_Project]",
+      "registrationDate": "2010-12-20"
+    },
+    {
+      "port": 44321,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pmcd",
+      "description": "PCP server (pmcd)",
+      "assignee": "[Performance_Co-Pilot_PCP_Project]",
+      "registrationDate": "2010-12-20"
+    },
+    {
+      "port": 44322,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pmproxy",
+      "description": "PCP proxy (pmproxy)",
+      "assignee": "[Performance_Co-Pilot_PCP_Project]",
+      "registrationDate": "2003-07"
+    },
+    {
+      "port": 44322,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pmproxy",
+      "description": "PCP proxy (pmproxy)",
+      "assignee": "[Performance_Co-Pilot_PCP_Project]",
+      "registrationDate": "2003-07"
+    },
+    {
+      "port": 44323,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pmwebapi",
+      "description": "HTTP binding for Performance Co-Pilot client API",
+      "assignee": "[Performance_Co-Pilot_PCP_Project]",
+      "registrationDate": "2013-10-09"
+    },
+    {
+      "port": 44323,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "44324-44443",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44444,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cognex-dataman",
+      "description": "Cognex DataMan Management Protocol",
+      "assignee": "[Cognex]",
+      "registrationDate": "2012-08-28"
+    },
+    {
+      "port": 44444,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44445,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "acronis-backup",
+      "description": "Acronis Backup Gateway service port",
+      "assignee": "[Acronis]",
+      "registrationDate": "2019-11-25"
+    },
+    {
+      "port": 44445,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "44446-44543",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44544,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44544,
+      "portRange": null,
+      "transport": "udp",
+      "name": "domiq",
+      "description": "DOMIQ Building Automation",
+      "assignee": "[DOMIQ_Sp_zoo]",
+      "registrationDate": "2011-08-29"
+    },
+    {
+      "port": null,
+      "portRange": "44545-44552",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44553,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rbr-debug",
+      "description": "REALbasic Remote Debug",
+      "assignee": "[Aaron_Ballman]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 44553,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rbr-debug",
+      "description": "REALbasic Remote Debug",
+      "assignee": "[Aaron_Ballman]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "44554-44599",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44600,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44600,
+      "portRange": null,
+      "transport": "udp",
+      "name": "asihpi",
+      "description": "AudioScience HPI",
+      "assignee": "[Eliot_Blennerhassett]",
+      "registrationDate": "2011-07-07"
+    },
+    {
+      "port": null,
+      "portRange": "44601-44817",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44818,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "EtherNet-IP-2",
+      "description": "EtherNet/IP messaging\n\nIANA assigned this well-formed service name as a replacement for \"EtherNet/IP-2\".",
+      "assignee": "[Brian_Batke_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 44818,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "EtherNet/IP-2",
+      "description": "EtherNet/IP messaging",
+      "assignee": "[Brian_Batke_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 44818,
+      "portRange": null,
+      "transport": "udp",
+      "name": "EtherNet-IP-2",
+      "description": "EtherNet/IP messaging\n\nIANA assigned this well-formed service name as a replacement for \"EtherNet/IP-2\".",
+      "assignee": "[Brian_Batke_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 44818,
+      "portRange": null,
+      "transport": "udp",
+      "name": "EtherNet/IP-2",
+      "description": "EtherNet/IP messaging",
+      "assignee": "[Brian_Batke_2]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "44819-44899",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 44900,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "m3da",
+      "description": "M3DA is used for efficient machine-to-machine communications",
+      "assignee": "[Eclipse_Foundation]",
+      "registrationDate": "2013-02-22"
+    },
+    {
+      "port": 44900,
+      "portRange": null,
+      "transport": "udp",
+      "name": "m3da-disc",
+      "description": "M3DA Discovery is used for efficient machine-to-machine communications",
+      "assignee": "[Eclipse_Foundation]",
+      "registrationDate": "2013-02-22"
+    },
+    {
+      "port": null,
+      "portRange": "44901-44999",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    }
+  ]
+}

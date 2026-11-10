@@ -1,0 +1,4831 @@
+{
+  "generatedFrom": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv",
+  "bucket": "8000-8999",
+  "count": 536,
+  "records": [
+    {
+      "port": 8000,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "irdmi",
+      "description": "iRDMI",
+      "assignee": "[Gil_Shafriri]",
+      "registrationDate": null
+    },
+    {
+      "port": 8000,
+      "portRange": null,
+      "transport": "udp",
+      "name": "irdmi",
+      "description": "iRDMI",
+      "assignee": "[Gil_Shafriri]",
+      "registrationDate": null
+    },
+    {
+      "port": 8001,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vcom-tunnel",
+      "description": "VCOM Tunnel",
+      "assignee": "[Mark_Lewandowski]",
+      "registrationDate": null
+    },
+    {
+      "port": 8001,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vcom-tunnel",
+      "description": "VCOM Tunnel",
+      "assignee": "[Mark_Lewandowski]",
+      "registrationDate": null
+    },
+    {
+      "port": 8002,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "teradataordbms",
+      "description": "Teradata ORDBMS",
+      "assignee": "[Curt_Ellmann]",
+      "registrationDate": null
+    },
+    {
+      "port": 8002,
+      "portRange": null,
+      "transport": "udp",
+      "name": "teradataordbms",
+      "description": "Teradata ORDBMS",
+      "assignee": "[Curt_Ellmann]",
+      "registrationDate": null
+    },
+    {
+      "port": 8003,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mcreport",
+      "description": "Mulberry Connect Reporting Service",
+      "assignee": "[Dave_Stoneham]",
+      "registrationDate": "2008-03-10"
+    },
+    {
+      "port": 8003,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mcreport",
+      "description": "Mulberry Connect Reporting Service",
+      "assignee": "[Dave_Stoneham]",
+      "registrationDate": "2008-03-10"
+    },
+    {
+      "port": 8004,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "p2pevolvenet",
+      "description": "Opensource Evolv Enterprise Platform P2P Network Node Connection Protocol",
+      "assignee": "[Tris_Puki]",
+      "registrationDate": "2018-01-16"
+    },
+    {
+      "port": 8004,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8005,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mxi",
+      "description": "MXI Generation II for z/OS",
+      "assignee": "[Rob_Scott]",
+      "registrationDate": "2007-05"
+    },
+    {
+      "port": 8005,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mxi",
+      "description": "MXI Generation II for z/OS",
+      "assignee": "[Rob_Scott]",
+      "registrationDate": "2007-05"
+    },
+    {
+      "port": 8006,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "wpl-analytics",
+      "description": "World Programming analytics",
+      "assignee": "[World_Programming_Limited]",
+      "registrationDate": "2017-04-04"
+    },
+    {
+      "port": 8006,
+      "portRange": null,
+      "transport": "udp",
+      "name": "wpl-disc",
+      "description": "World Programming analytics discovery",
+      "assignee": "[World_Programming_Limited]",
+      "registrationDate": "2017-04-04"
+    },
+    {
+      "port": 8007,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "warppipe",
+      "description": "I/O oriented cluster computing software",
+      "assignee": "[MirrorWeb_LTD]",
+      "registrationDate": "2017-07-19"
+    },
+    {
+      "port": 8007,
+      "portRange": null,
+      "transport": "udp",
+      "name": "warppipe",
+      "description": "I/O oriented cluster computing software",
+      "assignee": "[MirrorWeb_LTD]",
+      "registrationDate": "2017-07-19"
+    },
+    {
+      "port": 8008,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "http-alt",
+      "description": "HTTP Alternate",
+      "assignee": "[James_Gettys]",
+      "registrationDate": null
+    },
+    {
+      "port": 8008,
+      "portRange": null,
+      "transport": "udp",
+      "name": "http-alt",
+      "description": "HTTP Alternate",
+      "assignee": "[James_Gettys]",
+      "registrationDate": null
+    },
+    {
+      "port": 8009,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nvme-disc",
+      "description": "NVMe over Fabrics Discovery Service",
+      "assignee": "[NVM_Express_Inc]",
+      "registrationDate": "2018-03-27"
+    },
+    {
+      "port": 8009,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8010,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8011,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bier-echo",
+      "description": "The UDP destination port number for the IP/UDP encapsulated BIER Echo Reply message.",
+      "assignee": "[IESG]",
+      "registrationDate": "2026-10-22"
+    },
+    {
+      "port": 8011,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8012-8014",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8015,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cfg-cloud",
+      "description": "Configuration Cloud Service",
+      "assignee": "[admin_at_cfg_cloud]",
+      "registrationDate": "2019-01-09"
+    },
+    {
+      "port": 8015,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8016,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ads-s",
+      "description": "Beckhoff Automation Device Specification",
+      "assignee": "[Beckhoff_Automation_GmbH_Co_KG]",
+      "registrationDate": "2019-02-28"
+    },
+    {
+      "port": 8016,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8017,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8017,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cisco-cloudsec",
+      "description": "Cisco Cloudsec Dataplane Port Number",
+      "assignee": "[Cisco_Systems_Inc]",
+      "registrationDate": "2021-03-18"
+    },
+    {
+      "port": 8018,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8019,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "qbdb",
+      "description": "QB DB Dynamic Port",
+      "assignee": "[Sridhar_Krishnamurth]",
+      "registrationDate": "2008-02-15"
+    },
+    {
+      "port": 8019,
+      "portRange": null,
+      "transport": "udp",
+      "name": "qbdb",
+      "description": "QB DB Dynamic Port",
+      "assignee": "[Sridhar_Krishnamurth]",
+      "registrationDate": "2008-02-15"
+    },
+    {
+      "port": 8020,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "intu-ec-svcdisc",
+      "description": "Intuit Entitlement Service and Discovery",
+      "assignee": "[Daniel_C_McGloin]",
+      "registrationDate": "2005-05"
+    },
+    {
+      "port": 8020,
+      "portRange": null,
+      "transport": "udp",
+      "name": "intu-ec-svcdisc",
+      "description": "Intuit Entitlement Service and Discovery",
+      "assignee": "[Daniel_C_McGloin]",
+      "registrationDate": "2005-05"
+    },
+    {
+      "port": 8021,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "intu-ec-client",
+      "description": "Intuit Entitlement Client",
+      "assignee": "[Daniel_C_McGloin]",
+      "registrationDate": "2005-05"
+    },
+    {
+      "port": 8021,
+      "portRange": null,
+      "transport": "udp",
+      "name": "intu-ec-client",
+      "description": "Intuit Entitlement Client",
+      "assignee": "[Daniel_C_McGloin]",
+      "registrationDate": "2005-05"
+    },
+    {
+      "port": 8022,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "oa-system",
+      "description": "oa-system",
+      "assignee": "[Marie_France_Dubreui]",
+      "registrationDate": null
+    },
+    {
+      "port": 8022,
+      "portRange": null,
+      "transport": "udp",
+      "name": "oa-system",
+      "description": "oa-system",
+      "assignee": "[Marie_France_Dubreui]",
+      "registrationDate": null
+    },
+    {
+      "port": 8023,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "arca-api",
+      "description": "ARCATrust vault API",
+      "assignee": "[ARCATrust_SA]",
+      "registrationDate": "2018-07-05"
+    },
+    {
+      "port": 8023,
+      "portRange": null,
+      "transport": "udp",
+      "name": "arca-api",
+      "description": "ARCATrust vault API",
+      "assignee": "[ARCATrust_SA]",
+      "registrationDate": "2018-07-05"
+    },
+    {
+      "port": 8024,
+      "portRange": null,
+      "transport": "udp",
+      "name": "gaap",
+      "description": "GAAP Control Packets",
+      "assignee": "[IESG]",
+      "registrationDate": "2026-11-06"
+    },
+    {
+      "port": 8024,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8025,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ca-audit-da",
+      "description": "CA Audit Distribution Agent",
+      "assignee": "[Henning_Smith]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8025,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ca-audit-da",
+      "description": "CA Audit Distribution Agent",
+      "assignee": "[Henning_Smith]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8026,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ca-audit-ds",
+      "description": "CA Audit Distribution Server",
+      "assignee": "[Henning_Smith]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8026,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ca-audit-ds",
+      "description": "CA Audit Distribution Server",
+      "assignee": "[Henning_Smith]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8027,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "papachi-p2p-srv",
+      "description": "peer tracker and data relay service",
+      "assignee": "[Pavel_Csefalvay]",
+      "registrationDate": "2020-09-18"
+    },
+    {
+      "port": 8027,
+      "portRange": null,
+      "transport": "udp",
+      "name": "papachi-p2p-srv",
+      "description": "peer tracker and data relay service",
+      "assignee": "[Pavel_Csefalvay]",
+      "registrationDate": "2020-09-18"
+    },
+    {
+      "port": null,
+      "portRange": "8028-8031",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8032,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pro-ed",
+      "description": "ProEd",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8032,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pro-ed",
+      "description": "ProEd",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8033,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mindprint",
+      "description": "MindPrint",
+      "assignee": "[Larry_Tusoni]",
+      "registrationDate": null
+    },
+    {
+      "port": 8033,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mindprint",
+      "description": "MindPrint",
+      "assignee": "[Larry_Tusoni]",
+      "registrationDate": null
+    },
+    {
+      "port": 8034,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vantronix-mgmt",
+      "description": ".vantronix Management",
+      "assignee": "[Reyk_Floeter]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": 8034,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vantronix-mgmt",
+      "description": ".vantronix Management",
+      "assignee": "[Reyk_Floeter]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": null,
+      "portRange": "8035-8039",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8040,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ampify",
+      "description": "Ampify Messaging Protocol",
+      "assignee": "[Tav_Espian]",
+      "registrationDate": "2010-08-10"
+    },
+    {
+      "port": 8040,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ampify",
+      "description": "Ampify Messaging Protocol",
+      "assignee": "[Tav_Espian]",
+      "registrationDate": "2010-08-10"
+    },
+    {
+      "port": 8041,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "enguity-xccetp",
+      "description": "Xcorpeon ASIC Carrier Ethernet Transport",
+      "assignee": "[Enguity_Technology_Corp]",
+      "registrationDate": "2017-06-28"
+    },
+    {
+      "port": 8041,
+      "portRange": null,
+      "transport": "udp",
+      "name": "enguity-xccetp",
+      "description": "Xcorpeon ASIC Carrier Ethernet Transport",
+      "assignee": "[Enguity_Technology_Corp]",
+      "registrationDate": "2017-06-28"
+    },
+    {
+      "port": 8042,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fs-agent",
+      "description": "FireScope Agent",
+      "assignee": "[Matt_Rogers]",
+      "registrationDate": "2008-10-16"
+    },
+    {
+      "port": 8042,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8043,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fs-server",
+      "description": "FireScope Server",
+      "assignee": "[Matt_Rogers]",
+      "registrationDate": "2008-10-16"
+    },
+    {
+      "port": 8043,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8044,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fs-mgmt",
+      "description": "FireScope Management Interface",
+      "assignee": "[Matt_Rogers]",
+      "registrationDate": "2008-10-16"
+    },
+    {
+      "port": 8044,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8045-8050",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8051,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rocrail",
+      "description": "Rocrail Client Service",
+      "assignee": "[Rob_Versluis]",
+      "registrationDate": "2011-05-23"
+    },
+    {
+      "port": 8051,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8052,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix01",
+      "description": "Senomix Timesheets Server",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8052,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix01",
+      "description": "Senomix Timesheets Server",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8053,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix02",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8053,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix02",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8054,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix03",
+      "description": "Senomix Timesheets Server [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8054,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix03",
+      "description": "Senomix Timesheets Server [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8055,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix04",
+      "description": "Senomix Timesheets Server [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8055,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix04",
+      "description": "Senomix Timesheets Server [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8056,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix05",
+      "description": "Senomix Timesheets Server [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8056,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix05",
+      "description": "Senomix Timesheets Server [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8057,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix06",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8057,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix06",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8058,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix07",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8058,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix07",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8059,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "senomix08",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8059,
+      "portRange": null,
+      "transport": "udp",
+      "name": "senomix08",
+      "description": "Senomix Timesheets Client [1 year assignment]",
+      "assignee": "[Charles_O_Dale]",
+      "registrationDate": "2006-07"
+    },
+    {
+      "port": 8060,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8060,
+      "portRange": null,
+      "transport": "udp",
+      "name": "aero",
+      "description": "Asymmetric Extended Route Optimization (AERO)",
+      "assignee": "[IESG]",
+      "registrationDate": null
+    },
+    {
+      "port": 8061,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nikatron-dev",
+      "description": "Nikatron Device Protocol",
+      "assignee": "[Nikatron]",
+      "registrationDate": "2023-09-07"
+    },
+    {
+      "port": 8061,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8062-8065",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8066,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "toad-bi-appsrvr",
+      "description": "Toad BI Application Server",
+      "assignee": "[Quest_Software_2]",
+      "registrationDate": "2013-04-19"
+    },
+    {
+      "port": 8066,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8067,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "infi-async",
+      "description": "Infinidat async replication",
+      "assignee": "[INFINIDAT]",
+      "registrationDate": "2015-05-01"
+    },
+    {
+      "port": 8067,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8068-8069",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8070,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ucs-isc",
+      "description": "Oracle Unified Communication Suite's Indexed Search Converter",
+      "assignee": "[Oracle_Corp]",
+      "registrationDate": "2017-02-10"
+    },
+    {
+      "port": 8070,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8071-8073",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8074,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gadugadu",
+      "description": "Gadu-Gadu",
+      "assignee": "[Marcin_Gozdalik]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 8074,
+      "portRange": null,
+      "transport": "udp",
+      "name": "gadugadu",
+      "description": "Gadu-Gadu",
+      "assignee": "[Marcin_Gozdalik]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": null,
+      "portRange": "8075-8076",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8077,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8077,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8078-8079",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8080,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "http-alt",
+      "description": "HTTP Alternate (see port 80)",
+      "assignee": "[Stephen_Casner]",
+      "registrationDate": null
+    },
+    {
+      "port": 8080,
+      "portRange": null,
+      "transport": "udp",
+      "name": "http-alt",
+      "description": "HTTP Alternate (see port 80)",
+      "assignee": "[Stephen_Casner]",
+      "registrationDate": null
+    },
+    {
+      "port": 8081,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sunproxyadmin",
+      "description": "Sun Proxy Admin Service",
+      "assignee": "[Arvind_Srinivasan]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8081,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sunproxyadmin",
+      "description": "Sun Proxy Admin Service",
+      "assignee": "[Arvind_Srinivasan]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8082,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "us-cli",
+      "description": "Utilistor (Client)",
+      "assignee": "[Andy_Brewerton]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8082,
+      "portRange": null,
+      "transport": "udp",
+      "name": "us-cli",
+      "description": "Utilistor (Client)",
+      "assignee": "[Andy_Brewerton]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8083,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "us-srv",
+      "description": "Utilistor (Server)",
+      "assignee": "[Andy_Brewerton]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8083,
+      "portRange": null,
+      "transport": "udp",
+      "name": "us-srv",
+      "description": "Utilistor (Server)",
+      "assignee": "[Andy_Brewerton]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8084,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "websnp",
+      "description": "Snarl Network Protocol over HTTP",
+      "assignee": "[full_phat_products]",
+      "registrationDate": "2019-08-08"
+    },
+    {
+      "port": 8084,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8085,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8086,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "d-s-n",
+      "description": "Distributed SCADA Networking Rendezvous Port",
+      "assignee": "[Gary_Hampton]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": 8086,
+      "portRange": null,
+      "transport": "udp",
+      "name": "d-s-n",
+      "description": "Distributed SCADA Networking Rendezvous Port",
+      "assignee": "[Gary_Hampton]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": 8087,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "simplifymedia",
+      "description": "Simplify Media SPP Protocol",
+      "assignee": "[Emmanuel_Saint_Loube]",
+      "registrationDate": "2008-08-08"
+    },
+    {
+      "port": 8087,
+      "portRange": null,
+      "transport": "udp",
+      "name": "simplifymedia",
+      "description": "Simplify Media SPP Protocol",
+      "assignee": "[Emmanuel_Saint_Loube]",
+      "registrationDate": "2008-08-08"
+    },
+    {
+      "port": 8088,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "radan-http",
+      "description": "Radan HTTP",
+      "assignee": "[Steve_Hay]",
+      "registrationDate": "2008-06-13"
+    },
+    {
+      "port": 8088,
+      "portRange": null,
+      "transport": "udp",
+      "name": "radan-http",
+      "description": "Radan HTTP",
+      "assignee": "[Steve_Hay]",
+      "registrationDate": "2008-06-13"
+    },
+    {
+      "port": 8089,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8090,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "opsmessaging",
+      "description": "Vehicle to station messaging",
+      "assignee": "[LAN-ACES_Inc]",
+      "registrationDate": "2017-02-08"
+    },
+    {
+      "port": 8090,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8091,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "jamlink",
+      "description": "Jam Link Framework",
+      "assignee": "[Evgeniy_Filatov]",
+      "registrationDate": "2009-11-25"
+    },
+    {
+      "port": 8091,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8092-8096",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8097,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sac",
+      "description": "SAC Port Id",
+      "assignee": "[Girish_Bhat]",
+      "registrationDate": "2006-04"
+    },
+    {
+      "port": 8097,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sac",
+      "description": "SAC Port Id",
+      "assignee": "[Girish_Bhat]",
+      "registrationDate": "2006-04"
+    },
+    {
+      "port": null,
+      "portRange": "8098-8099",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8100,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "xprint-server",
+      "description": "Xprint Server",
+      "assignee": "[John_McKernan]",
+      "registrationDate": null
+    },
+    {
+      "port": 8100,
+      "portRange": null,
+      "transport": "udp",
+      "name": "xprint-server",
+      "description": "Xprint Server",
+      "assignee": "[John_McKernan]",
+      "registrationDate": null
+    },
+    {
+      "port": 8101,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ldoms-migr",
+      "description": "Logical Domains Migration",
+      "assignee": "[Liam_Merwick]",
+      "registrationDate": "2009-01-16"
+    },
+    {
+      "port": 8101,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8102,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "kz-migr",
+      "description": "Oracle Kernel zones migration server",
+      "assignee": "[Oracle_4]",
+      "registrationDate": "2013-12-24"
+    },
+    {
+      "port": 8102,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8103-8110",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8111,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8111,
+      "portRange": null,
+      "transport": "udp",
+      "name": "skynetflow",
+      "description": "Skynetflow network services",
+      "assignee": "[skynetflow.com]",
+      "registrationDate": "2019-05-28"
+    },
+    {
+      "port": null,
+      "portRange": "8112-8114",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8115,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mtl8000-matrix",
+      "description": "MTL8000 Matrix",
+      "assignee": "[David_Pinch]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": 8115,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mtl8000-matrix",
+      "description": "MTL8000 Matrix",
+      "assignee": "[David_Pinch]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": 8116,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cp-cluster",
+      "description": "Check Point Clustering",
+      "assignee": "[Roni_Moshitzky]",
+      "registrationDate": null
+    },
+    {
+      "port": 8116,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cp-cluster",
+      "description": "Check Point Clustering",
+      "assignee": "[Roni_Moshitzky]",
+      "registrationDate": null
+    },
+    {
+      "port": 8117,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "purityrpc",
+      "description": "Purity replication clustering and remote management",
+      "assignee": "[Pure_Storage]",
+      "registrationDate": "2013-08-13"
+    },
+    {
+      "port": 8117,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8118,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "privoxy",
+      "description": "Privoxy HTTP proxy",
+      "assignee": "[Andreas_Oesterhelt]",
+      "registrationDate": "2002-06"
+    },
+    {
+      "port": 8118,
+      "portRange": null,
+      "transport": "udp",
+      "name": "privoxy",
+      "description": "Privoxy HTTP proxy",
+      "assignee": "[Andreas_Oesterhelt]",
+      "registrationDate": "2002-06"
+    },
+    {
+      "port": null,
+      "portRange": "8119-8120",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8121,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "apollo-data",
+      "description": "Apollo Data Port",
+      "assignee": "[Anthony_Carrabino]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 8121,
+      "portRange": null,
+      "transport": "udp",
+      "name": "apollo-data",
+      "description": "Apollo Data Port",
+      "assignee": "[Anthony_Carrabino]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 8122,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "apollo-admin",
+      "description": "Apollo Admin Port",
+      "assignee": "[Anthony_Carrabino]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": 8122,
+      "portRange": null,
+      "transport": "udp",
+      "name": "apollo-admin",
+      "description": "Apollo Admin Port",
+      "assignee": "[Anthony_Carrabino]",
+      "registrationDate": "2003-08"
+    },
+    {
+      "port": null,
+      "portRange": "8123-8127",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8128,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "paycash-online",
+      "description": "PayCash Online Protocol",
+      "assignee": "[MegaZone]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8128,
+      "portRange": null,
+      "transport": "udp",
+      "name": "paycash-online",
+      "description": "PayCash Online Protocol",
+      "assignee": "[MegaZone]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8129,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "paycash-wbp",
+      "description": "PayCash Wallet-Browser",
+      "assignee": "[MegaZone]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8129,
+      "portRange": null,
+      "transport": "udp",
+      "name": "paycash-wbp",
+      "description": "PayCash Wallet-Browser",
+      "assignee": "[MegaZone]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8130,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "indigo-vrmi",
+      "description": "INDIGO-VRMI",
+      "assignee": "[Colin_Caughie]",
+      "registrationDate": null
+    },
+    {
+      "port": 8130,
+      "portRange": null,
+      "transport": "udp",
+      "name": "indigo-vrmi",
+      "description": "INDIGO-VRMI",
+      "assignee": "[Colin_Caughie]",
+      "registrationDate": null
+    },
+    {
+      "port": 8131,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "indigo-vbcp",
+      "description": "INDIGO-VBCP",
+      "assignee": "[Colin_Caughie]",
+      "registrationDate": null
+    },
+    {
+      "port": 8131,
+      "portRange": null,
+      "transport": "udp",
+      "name": "indigo-vbcp",
+      "description": "INDIGO-VBCP",
+      "assignee": "[Colin_Caughie]",
+      "registrationDate": null
+    },
+    {
+      "port": 8132,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dbabble",
+      "description": "dbabble",
+      "assignee": "[Chris_Pugmire]",
+      "registrationDate": null
+    },
+    {
+      "port": 8132,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dbabble",
+      "description": "dbabble",
+      "assignee": "[Chris_Pugmire]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8133-8139",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8140,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "puppet",
+      "description": "The Puppet master service",
+      "assignee": "[Puppet]",
+      "registrationDate": "2014-09-18"
+    },
+    {
+      "port": 8140,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8141-8147",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8148,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "isdd",
+      "description": "i-SDD file transfer",
+      "assignee": "[Frank_Waarsenburg]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8148,
+      "portRange": null,
+      "transport": "udp",
+      "name": "isdd",
+      "description": "i-SDD file transfer",
+      "assignee": "[Frank_Waarsenburg]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8149,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8149,
+      "portRange": null,
+      "transport": "udp",
+      "name": "eor-game",
+      "description": "Edge of Reality game data",
+      "assignee": "[Sky_Schulz]",
+      "registrationDate": "2011-05-09"
+    },
+    {
+      "port": null,
+      "portRange": "8150-8152",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8153,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "quantastor",
+      "description": "QuantaStor Management Interface",
+      "assignee": "[OS_NEXUS]",
+      "registrationDate": "2012-09-21"
+    },
+    {
+      "port": 8153,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8154-8159",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8160,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "patrol",
+      "description": "Patrol",
+      "assignee": "[Portnoy_Boxman]",
+      "registrationDate": null
+    },
+    {
+      "port": 8160,
+      "portRange": null,
+      "transport": "udp",
+      "name": "patrol",
+      "description": "Patrol",
+      "assignee": "[Portnoy_Boxman]",
+      "registrationDate": null
+    },
+    {
+      "port": 8161,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "patrol-snmp",
+      "description": "Patrol SNMP",
+      "assignee": "[Portnoy_Boxman]",
+      "registrationDate": null
+    },
+    {
+      "port": 8161,
+      "portRange": null,
+      "transport": "udp",
+      "name": "patrol-snmp",
+      "description": "Patrol SNMP",
+      "assignee": "[Portnoy_Boxman]",
+      "registrationDate": null
+    },
+    {
+      "port": 8162,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lpar2rrd",
+      "description": "LPAR2RRD client server communication",
+      "assignee": "[LPAR2RRD_project]",
+      "registrationDate": "2013-08-14"
+    },
+    {
+      "port": 8162,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8163-8180",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8181,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "intermapper",
+      "description": "Intermapper network management system",
+      "assignee": "[William_Fisher]",
+      "registrationDate": "2011-05-09"
+    },
+    {
+      "port": 8181,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8182,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vmware-fdm",
+      "description": "VMware Fault Domain Manager",
+      "assignee": "[Ron_Passerini]",
+      "registrationDate": "2010-04-27"
+    },
+    {
+      "port": 8182,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vmware-fdm",
+      "description": "VMware Fault Domain Manager",
+      "assignee": "[Ron_Passerini]",
+      "registrationDate": "2010-04-27"
+    },
+    {
+      "port": 8183,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "proremote",
+      "description": "ProRemote",
+      "assignee": "[Alex_Lelievre]",
+      "registrationDate": "2009-08-18"
+    },
+    {
+      "port": 8183,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8184,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "itach",
+      "description": "Remote iTach Connection",
+      "assignee": "[Barend_Jacobus_van_d]",
+      "registrationDate": "2010-04-27"
+    },
+    {
+      "port": 8184,
+      "portRange": null,
+      "transport": "udp",
+      "name": "itach",
+      "description": "Remote iTach Connection",
+      "assignee": "[Barend_Jacobus_van_d]",
+      "registrationDate": "2010-04-27"
+    },
+    {
+      "port": null,
+      "portRange": "8185-8189",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8190,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "gcp-rphy",
+      "description": "Generic control plane for RPHY",
+      "assignee": "[CableLabs]",
+      "registrationDate": "2015-11-24"
+    },
+    {
+      "port": 8190,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8191,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "limnerpressure",
+      "description": "Limner Pressure",
+      "assignee": "[Aaron_Kleinsteiber]",
+      "registrationDate": "2014-01-16"
+    },
+    {
+      "port": 8191,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8192,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "spytechphone",
+      "description": "SpyTech Phone Service",
+      "assignee": "[Bill_Kay]",
+      "registrationDate": "2006-04"
+    },
+    {
+      "port": 8192,
+      "portRange": null,
+      "transport": "udp",
+      "name": "spytechphone",
+      "description": "SpyTech Phone Service",
+      "assignee": "[Bill_Kay]",
+      "registrationDate": "2006-04"
+    },
+    {
+      "port": 8193,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8194,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "blp1",
+      "description": "Bloomberg data API",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 8194,
+      "portRange": null,
+      "transport": "udp",
+      "name": "blp1",
+      "description": "Bloomberg data API",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 8195,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "blp2",
+      "description": "Bloomberg feed",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 8195,
+      "portRange": null,
+      "transport": "udp",
+      "name": "blp2",
+      "description": "Bloomberg feed",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": null,
+      "portRange": "8196-8198",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8199,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vvr-data",
+      "description": "VVR DATA",
+      "assignee": "[Ming_Xu]",
+      "registrationDate": null
+    },
+    {
+      "port": 8199,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vvr-data",
+      "description": "VVR DATA",
+      "assignee": "[Ming_Xu]",
+      "registrationDate": null
+    },
+    {
+      "port": 8200,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "trivnet1",
+      "description": "TRIVNET",
+      "assignee": "[Saar_Wilf]",
+      "registrationDate": null
+    },
+    {
+      "port": 8200,
+      "portRange": null,
+      "transport": "udp",
+      "name": "trivnet1",
+      "description": "TRIVNET",
+      "assignee": "[Saar_Wilf]",
+      "registrationDate": null
+    },
+    {
+      "port": 8201,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "trivnet2",
+      "description": "TRIVNET",
+      "assignee": "[Saar_Wilf]",
+      "registrationDate": null
+    },
+    {
+      "port": 8201,
+      "portRange": null,
+      "transport": "udp",
+      "name": "trivnet2",
+      "description": "TRIVNET",
+      "assignee": "[Saar_Wilf]",
+      "registrationDate": null
+    },
+    {
+      "port": 8202,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8202,
+      "portRange": null,
+      "transport": "udp",
+      "name": "aesop",
+      "description": "Audio+Ethernet Standard Open Protocol",
+      "assignee": "[POWERSOFT_SRL]",
+      "registrationDate": "2012-01-03"
+    },
+    {
+      "port": null,
+      "portRange": "8203-8203",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8204,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lm-perfworks",
+      "description": "LM Perfworks",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8204,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lm-perfworks",
+      "description": "LM Perfworks",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8205,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lm-instmgr",
+      "description": "LM Instmgr",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8205,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lm-instmgr",
+      "description": "LM Instmgr",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8206,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lm-dta",
+      "description": "LM Dta",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8206,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lm-dta",
+      "description": "LM Dta",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8207,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lm-sserver",
+      "description": "LM SServer",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8207,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lm-sserver",
+      "description": "LM SServer",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8208,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "lm-webwatcher",
+      "description": "LM Webwatcher",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": 8208,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lm-webwatcher",
+      "description": "LM Webwatcher",
+      "assignee": "[Chris_Flynn]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8209-8210",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8211,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8211,
+      "portRange": null,
+      "transport": "udp",
+      "name": "aruba-papi",
+      "description": "Aruba Networks AP management",
+      "assignee": "[Aruba_Networks]",
+      "registrationDate": "2018-10-04"
+    },
+    {
+      "port": null,
+      "portRange": "8212-8229",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8230,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rexecj",
+      "description": "RexecJ Server",
+      "assignee": "[Curtiss_Howard]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8230,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rexecj",
+      "description": "RexecJ Server",
+      "assignee": "[Curtiss_Howard]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8231,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8231,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hncp-udp-port",
+      "description": "HNCP",
+      "assignee": "[IESG]",
+      "registrationDate": "2016-01-13"
+    },
+    {
+      "port": 8232,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8232,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hncp-dtls-port",
+      "description": "HNCP over DTLS",
+      "assignee": "[IESG]",
+      "registrationDate": "2016-01-13"
+    },
+    {
+      "port": null,
+      "portRange": "8233-8242",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8243,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "synapse-nhttps",
+      "description": "Synapse Non Blocking HTTPS",
+      "assignee": "[Ruwan_Linton]",
+      "registrationDate": "2008-07-10"
+    },
+    {
+      "port": 8243,
+      "portRange": null,
+      "transport": "udp",
+      "name": "synapse-nhttps",
+      "description": "Synapse Non Blocking HTTPS",
+      "assignee": "[Ruwan_Linton]",
+      "registrationDate": "2008-07-10"
+    },
+    {
+      "port": null,
+      "portRange": "8244-8265",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8266,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8266,
+      "portRange": null,
+      "transport": "udp",
+      "name": "espeasy-p2p",
+      "description": "ESPeasy peer-2-peer communication",
+      "assignee": "[ESPeasy]",
+      "registrationDate": "2018-11-28"
+    },
+    {
+      "port": null,
+      "portRange": "8267-8269",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8270,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "robot-remote",
+      "description": "Robot Framework Remote Library Interface",
+      "assignee": "[Robot_Framework_Foundation]",
+      "registrationDate": "2017-01-26"
+    },
+    {
+      "port": 8270,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8271-8275",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8276,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ms-mcc",
+      "description": "Microsoft Connected Cache",
+      "assignee": "[Microsoft_Corporation_6]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": 8276,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ms-mcc",
+      "description": "Microsoft Connected Cache",
+      "assignee": "[Microsoft_Corporation_6]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": null,
+      "portRange": "8277-8279",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8280,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "synapse-nhttp",
+      "description": "Synapse Non Blocking HTTP",
+      "assignee": "[Ruwan_Linton]",
+      "registrationDate": "2008-06-05"
+    },
+    {
+      "port": 8280,
+      "portRange": null,
+      "transport": "udp",
+      "name": "synapse-nhttp",
+      "description": "Synapse Non Blocking HTTP",
+      "assignee": "[Ruwan_Linton]",
+      "registrationDate": "2008-06-05"
+    },
+    {
+      "port": 8281,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8282,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "libelle",
+      "description": "Libelle EnterpriseBus",
+      "assignee": "[Libelle_AG]",
+      "registrationDate": "2016-02-17"
+    },
+    {
+      "port": 8282,
+      "portRange": null,
+      "transport": "udp",
+      "name": "libelle-disc",
+      "description": "Libelle EnterpriseBus discovery",
+      "assignee": "[Libelle_AG]",
+      "registrationDate": "2016-02-17"
+    },
+    {
+      "port": 8282,
+      "portRange": null,
+      "transport": "sctp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8282,
+      "portRange": null,
+      "transport": "dccp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8283-8291",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8292,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "blp3",
+      "description": "Bloomberg professional",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 8292,
+      "portRange": null,
+      "transport": "udp",
+      "name": "blp3",
+      "description": "Bloomberg professional",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 8293,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hiperscan-id",
+      "description": "Hiperscan Identification Service",
+      "assignee": "[Thomas_Klose]",
+      "registrationDate": "2009-12-15"
+    },
+    {
+      "port": 8293,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8294,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "blp4",
+      "description": "Bloomberg intelligent client",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": 8294,
+      "portRange": null,
+      "transport": "udp",
+      "name": "blp4",
+      "description": "Bloomberg intelligent client",
+      "assignee": "[Albert_Hou]",
+      "registrationDate": "2006-05"
+    },
+    {
+      "port": null,
+      "portRange": "8295-8299",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8300,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tmi",
+      "description": "Transport Management Interface",
+      "assignee": "[Steve_Kneizys]",
+      "registrationDate": "2006-11"
+    },
+    {
+      "port": 8300,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tmi",
+      "description": "Transport Management Interface",
+      "assignee": "[Steve_Kneizys]",
+      "registrationDate": "2006-11"
+    },
+    {
+      "port": 8301,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "amberon",
+      "description": "Amberon PPC/PPS",
+      "assignee": "[Ronald_Snyder]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": 8301,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amberon",
+      "description": "Amberon PPC/PPS",
+      "assignee": "[Ronald_Snyder]",
+      "registrationDate": "2006-03"
+    },
+    {
+      "port": null,
+      "portRange": "8302-8312",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8313,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "hub-open-net",
+      "description": "Hub Open Network",
+      "assignee": "[Grexie]",
+      "registrationDate": "2012-06-13"
+    },
+    {
+      "port": 8313,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8314-8319",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8320,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tnp-discover",
+      "description": "Thin(ium) Network Protocol",
+      "assignee": "[Aly_Orady]",
+      "registrationDate": "2007-08-07"
+    },
+    {
+      "port": 8320,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tnp-discover",
+      "description": "Thin(ium) Network Protocol",
+      "assignee": "[Aly_Orady]",
+      "registrationDate": "2007-08-07"
+    },
+    {
+      "port": 8321,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "tnp",
+      "description": "Thin(ium) Network Protocol",
+      "assignee": "[Aly_Orady]",
+      "registrationDate": "2007-08-07"
+    },
+    {
+      "port": 8321,
+      "portRange": null,
+      "transport": "udp",
+      "name": "tnp",
+      "description": "Thin(ium) Network Protocol",
+      "assignee": "[Aly_Orady]",
+      "registrationDate": "2007-08-07"
+    },
+    {
+      "port": 8322,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "garmin-marine",
+      "description": "Garmin Marine",
+      "assignee": "[Garmin_International_Inc]",
+      "registrationDate": "2015-07-23"
+    },
+    {
+      "port": 8322,
+      "portRange": null,
+      "transport": "udp",
+      "name": "garmin-marine",
+      "description": "Garmin Marine",
+      "assignee": "[Garmin_International_Inc]",
+      "registrationDate": "2015-07-23"
+    },
+    {
+      "port": null,
+      "portRange": "8323-8350",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8351,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "server-find",
+      "description": "Server Find",
+      "assignee": "[Chris_Brown]",
+      "registrationDate": null
+    },
+    {
+      "port": 8351,
+      "portRange": null,
+      "transport": "udp",
+      "name": "server-find",
+      "description": "Server Find",
+      "assignee": "[Chris_Brown]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8352-8375",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8376,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cruise-enum",
+      "description": "Cruise ENUM",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8376,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cruise-enum",
+      "description": "Cruise ENUM",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8377,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cruise-swroute",
+      "description": "Cruise SWROUTE",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8377,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cruise-swroute",
+      "description": "Cruise SWROUTE",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8378,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cruise-config",
+      "description": "Cruise CONFIG",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8378,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cruise-config",
+      "description": "Cruise CONFIG",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8379,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cruise-diags",
+      "description": "Cruise DIAGS",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8379,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cruise-diags",
+      "description": "Cruise DIAGS",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8380,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cruise-update",
+      "description": "Cruise UPDATE",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": 8380,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cruise-update",
+      "description": "Cruise UPDATE",
+      "assignee": "[Steve_Husak]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8381-8382",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8383,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "m2mservices",
+      "description": "M2m Services",
+      "assignee": "[Carlos_Arteaga_2]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8383,
+      "portRange": null,
+      "transport": "udp",
+      "name": "m2mservices",
+      "description": "M2m Services",
+      "assignee": "[Carlos_Arteaga_2]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8384,
+      "portRange": null,
+      "transport": "udp",
+      "name": "marathontp",
+      "description": "Marathon Transport Protocol",
+      "assignee": "[Inertia_Systemes]",
+      "registrationDate": "2015-06-11"
+    },
+    {
+      "port": 8384,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8385-8399",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8400,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cvd",
+      "description": "cvd",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8400,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cvd",
+      "description": "cvd",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8401,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sabarsd",
+      "description": "sabarsd",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8401,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sabarsd",
+      "description": "sabarsd",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8402,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "abarsd",
+      "description": "abarsd",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8402,
+      "portRange": null,
+      "transport": "udp",
+      "name": "abarsd",
+      "description": "abarsd",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8403,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "admind",
+      "description": "admind",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8403,
+      "portRange": null,
+      "transport": "udp",
+      "name": "admind",
+      "description": "admind",
+      "assignee": "[Aaron_Bilbrey]",
+      "registrationDate": null
+    },
+    {
+      "port": 8404,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "svcloud",
+      "description": "SuperVault Cloud",
+      "assignee": "[Nine_Technology_LLC]",
+      "registrationDate": "2009-09-14"
+    },
+    {
+      "port": 8404,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8405,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "svbackup",
+      "description": "SuperVault Backup",
+      "assignee": "[Nine_Technology_LLC]",
+      "registrationDate": "2009-09-14"
+    },
+    {
+      "port": 8405,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8406-8414",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8415,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dlpx-sp",
+      "description": "Delphix Session Protocol",
+      "assignee": "[Delphix_Corp]",
+      "registrationDate": "2012-11-01"
+    },
+    {
+      "port": 8415,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8416,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "espeech",
+      "description": "eSpeech Session Protocol",
+      "assignee": "[Scott_Tarone]",
+      "registrationDate": "2002-11"
+    },
+    {
+      "port": 8416,
+      "portRange": null,
+      "transport": "udp",
+      "name": "espeech",
+      "description": "eSpeech Session Protocol",
+      "assignee": "[Scott_Tarone]",
+      "registrationDate": "2002-11"
+    },
+    {
+      "port": 8417,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "espeech-rtp",
+      "description": "eSpeech RTP Protocol",
+      "assignee": "[Scott_Tarone]",
+      "registrationDate": "2003-04"
+    },
+    {
+      "port": 8417,
+      "portRange": null,
+      "transport": "udp",
+      "name": "espeech-rtp",
+      "description": "eSpeech RTP Protocol",
+      "assignee": "[Scott_Tarone]",
+      "registrationDate": "2003-04"
+    },
+    {
+      "port": null,
+      "portRange": "8418-8422",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8423,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "aritts",
+      "description": "Aristech text-to-speech server",
+      "assignee": "[Aristech_GmbH]",
+      "registrationDate": "2017-03-30"
+    },
+    {
+      "port": 8423,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8424-8431",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8432,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pgbackrest",
+      "description": "PostgreSQL Backup",
+      "assignee": "[David_Steele]",
+      "registrationDate": "2022-01-26"
+    },
+    {
+      "port": 8432,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8433,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8433,
+      "portRange": null,
+      "transport": "udp",
+      "name": "aws-as2",
+      "description": "Non Persistent Desktop and Application Streaming",
+      "assignee": "[Amazon.com_Services_LLC]",
+      "registrationDate": "2022-11-07"
+    },
+    {
+      "port": null,
+      "portRange": "8434-8441",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8442,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cybro-a-bus",
+      "description": "CyBro A-bus Protocol",
+      "assignee": "[Damir_Skrjanec]",
+      "registrationDate": "2007-05"
+    },
+    {
+      "port": 8442,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cybro-a-bus",
+      "description": "CyBro A-bus Protocol",
+      "assignee": "[Damir_Skrjanec]",
+      "registrationDate": "2007-05"
+    },
+    {
+      "port": 8443,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pcsync-https",
+      "description": "PCsync HTTPS",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8443,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pcsync-https",
+      "description": "PCsync HTTPS",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8444,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pcsync-http",
+      "description": "PCsync HTTP",
+      "assignee": "[Katy_Lynn_McCullough]",
+      "registrationDate": null
+    },
+    {
+      "port": 8444,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pcsync-http",
+      "description": "PCsync HTTP",
+      "assignee": "[Katy_Lynn_McCullough]",
+      "registrationDate": null
+    },
+    {
+      "port": 8445,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "copy",
+      "description": "Port for copy peer sync feature",
+      "assignee": "[Copy]",
+      "registrationDate": "2012-09-19"
+    },
+    {
+      "port": 8445,
+      "portRange": null,
+      "transport": "udp",
+      "name": "copy-disc",
+      "description": "Port for copy discovery",
+      "assignee": "[Copy]",
+      "registrationDate": "2012-09-19"
+    },
+    {
+      "port": null,
+      "portRange": "8446-8447",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8448,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "matrix-fed",
+      "description": "Matrix Federation Protocol",
+      "assignee": "[The_Matrix.org_Foundation_C.I.C.]",
+      "registrationDate": "2023-08-04"
+    },
+    {
+      "port": 8448,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8449,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8450,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "npmp",
+      "description": "npmp",
+      "assignee": "[Ian_Chard]",
+      "registrationDate": null
+    },
+    {
+      "port": 8450,
+      "portRange": null,
+      "transport": "udp",
+      "name": "npmp",
+      "description": "npmp",
+      "assignee": "[Ian_Chard]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8451-8456",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8457,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nexentamv",
+      "description": "Nexenta Management GUI",
+      "assignee": "[Nexenta]",
+      "registrationDate": "2012-12-07"
+    },
+    {
+      "port": 8457,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8458-8469",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8470,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cisco-avp",
+      "description": "Cisco Address Validation Protocol",
+      "assignee": "[Cullen_Jennings]",
+      "registrationDate": "2009-02-13"
+    },
+    {
+      "port": 8470,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8471,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "pim-port",
+      "description": "PIM over Reliable Transport",
+      "assignee": "[IESG]",
+      "registrationDate": "2008-08-21"
+    },
+    {
+      "port": 8471,
+      "portRange": null,
+      "transport": "sctp",
+      "name": "pim-port",
+      "description": "PIM over Reliable Transport",
+      "assignee": "[IESG]",
+      "registrationDate": "2008-08-21"
+    },
+    {
+      "port": 8471,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8472,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "otv",
+      "description": "Overlay Transport Virtualization (OTV)",
+      "assignee": "[Dino_Farinacci]",
+      "registrationDate": "2008-01-07"
+    },
+    {
+      "port": 8472,
+      "portRange": null,
+      "transport": "udp",
+      "name": "otv",
+      "description": "Overlay Transport Virtualization (OTV)",
+      "assignee": "[Dino_Farinacci]",
+      "registrationDate": "2008-01-07"
+    },
+    {
+      "port": 8473,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vp2p",
+      "description": "Virtual Point to Point",
+      "assignee": "[Jerome_Grimbert]",
+      "registrationDate": null
+    },
+    {
+      "port": 8473,
+      "portRange": null,
+      "transport": "udp",
+      "name": "vp2p",
+      "description": "Virtual Point to Point",
+      "assignee": "[Jerome_Grimbert]",
+      "registrationDate": null
+    },
+    {
+      "port": 8474,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "noteshare",
+      "description": "AquaMinds NoteShare",
+      "assignee": "[Michael_McNabb]",
+      "registrationDate": "2005-10"
+    },
+    {
+      "port": 8474,
+      "portRange": null,
+      "transport": "udp",
+      "name": "noteshare",
+      "description": "AquaMinds NoteShare",
+      "assignee": "[Michael_McNabb]",
+      "registrationDate": "2005-10"
+    },
+    {
+      "port": null,
+      "portRange": "8475-8499",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8500,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "fmtp",
+      "description": "Flight Message Transfer Protocol",
+      "assignee": "[Eivan_Cerasi]",
+      "registrationDate": "2003-12"
+    },
+    {
+      "port": 8500,
+      "portRange": null,
+      "transport": "udp",
+      "name": "fmtp",
+      "description": "Flight Message Transfer Protocol",
+      "assignee": "[Eivan_Cerasi]",
+      "registrationDate": "2003-12"
+    },
+    {
+      "port": 8501,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cmtp-mgt",
+      "description": "CYTEL Message Transfer Management",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8501,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cmtp-av",
+      "description": "CYTEL Message Transfer Audio and Video",
+      "assignee": "[Frank_Jakel]",
+      "registrationDate": "2011-04-29"
+    },
+    {
+      "port": 8502,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ftnmtp",
+      "description": "FTN Message Transfer Protocol",
+      "assignee": "[Yuri_Myakotin]",
+      "registrationDate": "2014-01-07"
+    },
+    {
+      "port": 8502,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8503,
+      "portRange": null,
+      "transport": "udp",
+      "name": "lsp-self-ping",
+      "description": "MPLS LSP Self-Ping",
+      "assignee": "[IESG]",
+      "registrationDate": "2015-06-11"
+    },
+    {
+      "port": 8503,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8504-8553",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8554,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "rtsp-alt",
+      "description": "RTSP Alternate (see port 554)",
+      "assignee": "[Stephen_Casner_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 8554,
+      "portRange": null,
+      "transport": "udp",
+      "name": "rtsp-alt",
+      "description": "RTSP Alternate (see port 554)",
+      "assignee": "[Stephen_Casner_2]",
+      "registrationDate": null
+    },
+    {
+      "port": 8555,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "d-fence",
+      "description": "SYMAX D-FENCE",
+      "assignee": "[Thomas_Geisel]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": 8555,
+      "portRange": null,
+      "transport": "udp",
+      "name": "d-fence",
+      "description": "SYMAX D-FENCE",
+      "assignee": "[Thomas_Geisel]",
+      "registrationDate": "2003-01"
+    },
+    {
+      "port": null,
+      "portRange": "8556-8566",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8567,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dof-tunnel",
+      "description": "DOF Tunneling Protocol",
+      "assignee": "[OpenDOF]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8567,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dof-tunnel",
+      "description": "DOF Tunneling Protocol",
+      "assignee": "[OpenDOF]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "8568-8599",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8600,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "asterix",
+      "description": "Surveillance Data",
+      "assignee": "[Eivan_Cerasi]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 8600,
+      "portRange": null,
+      "transport": "udp",
+      "name": "asterix",
+      "description": "Surveillance Data",
+      "assignee": "[Eivan_Cerasi]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": null,
+      "portRange": "8601-8608",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8609,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8609,
+      "portRange": null,
+      "transport": "udp",
+      "name": "canon-cpp-disc",
+      "description": "Canon Compact Printer Protocol Discovery",
+      "assignee": "[Canon_Inc]",
+      "registrationDate": "2012-06-08"
+    },
+    {
+      "port": 8610,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "canon-mfnp",
+      "description": "Canon MFNP Service",
+      "assignee": "[Ritsuto_Sako]",
+      "registrationDate": "2009-05-04"
+    },
+    {
+      "port": 8610,
+      "portRange": null,
+      "transport": "udp",
+      "name": "canon-mfnp",
+      "description": "Canon MFNP Service",
+      "assignee": "[Ritsuto_Sako]",
+      "registrationDate": "2009-05-04"
+    },
+    {
+      "port": 8611,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "canon-bjnp1",
+      "description": "Canon BJNP Port 1",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8611,
+      "portRange": null,
+      "transport": "udp",
+      "name": "canon-bjnp1",
+      "description": "Canon BJNP Port 1",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8612,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "canon-bjnp2",
+      "description": "Canon BJNP Port 2",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8612,
+      "portRange": null,
+      "transport": "udp",
+      "name": "canon-bjnp2",
+      "description": "Canon BJNP Port 2",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8613,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "canon-bjnp3",
+      "description": "Canon BJNP Port 3",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8613,
+      "portRange": null,
+      "transport": "udp",
+      "name": "canon-bjnp3",
+      "description": "Canon BJNP Port 3",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8614,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "canon-bjnp4",
+      "description": "Canon BJNP Port 4",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8614,
+      "portRange": null,
+      "transport": "udp",
+      "name": "canon-bjnp4",
+      "description": "Canon BJNP Port 4",
+      "assignee": "[Atsushi_Nakamura]",
+      "registrationDate": "2003-11"
+    },
+    {
+      "port": 8615,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "imink",
+      "description": "Imink Service Control",
+      "assignee": "[Canon_Inc]",
+      "registrationDate": "2011-10-10"
+    },
+    {
+      "port": 8615,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8616-8664",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8665,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "monetra",
+      "description": "Monetra",
+      "assignee": "[Main_Street_Softworks]",
+      "registrationDate": "2013-04-02"
+    },
+    {
+      "port": 8665,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8666,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "monetra-admin",
+      "description": "Monetra Administrative Access",
+      "assignee": "[Main_Street_Softworks]",
+      "registrationDate": "2013-04-02"
+    },
+    {
+      "port": 8666,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8667,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8668,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "spartan",
+      "description": "Spartan management",
+      "assignee": "[Tenebris_Technologies_Inc]",
+      "registrationDate": "2023-10-26"
+    },
+    {
+      "port": 8668,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8669-8674",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8675,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "msi-cps-rm",
+      "description": "Motorola Solutions Customer Programming Software for Radio Management",
+      "assignee": "[Motorola_Solutions_Inc]",
+      "registrationDate": "2012-03-14"
+    },
+    {
+      "port": 8675,
+      "portRange": null,
+      "transport": "udp",
+      "name": "msi-cps-rm-disc",
+      "description": "Motorola Solutions Customer Programming Software for Radio Management Discovery",
+      "assignee": "[Motorola_Solutions_Inc]",
+      "registrationDate": "2012-03-14"
+    },
+    {
+      "port": null,
+      "portRange": "8676-8685",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8686,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sun-as-jmxrmi",
+      "description": "Sun App Server - JMX/RMI",
+      "assignee": "[Abhijit_Kumar]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 8686,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sun-as-jmxrmi",
+      "description": "Sun App Server - JMX/RMI",
+      "assignee": "[Abhijit_Kumar]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 8687,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8688,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "openremote-ctrl",
+      "description": "OpenRemote Controller HTTP/REST",
+      "assignee": "[OpenRemote_Inc]",
+      "registrationDate": "2012-12-18"
+    },
+    {
+      "port": 8688,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8689-8698",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8699,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "vnyx",
+      "description": "VNYX Primary Port",
+      "assignee": "[Gregg_Green]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8699,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "8700-8709",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8710,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "semi-grpc",
+      "description": "gRPC for SEMI Standards implementations",
+      "assignee": "[SEMI]",
+      "registrationDate": "2020-01-10"
+    },
+    {
+      "port": 8710,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8711,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nvc",
+      "description": "Nuance Voice Control",
+      "assignee": "[Nuance_Communications_Inc2]",
+      "registrationDate": "2012-10-05"
+    },
+    {
+      "port": 8711,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8712-8731",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8732,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8732,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dtp-net",
+      "description": "DASGIP Net Services",
+      "assignee": "[Dr_Matthias_Arnold]",
+      "registrationDate": "2009-03-23"
+    },
+    {
+      "port": 8733,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ibus",
+      "description": "iBus",
+      "assignee": "[Silvano_Maffeis]",
+      "registrationDate": null
+    },
+    {
+      "port": 8733,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ibus",
+      "description": "iBus",
+      "assignee": "[Silvano_Maffeis]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8734-8749",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8750,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dey-keyneg",
+      "description": "DEY Storage Key Negotiation",
+      "assignee": "[DEY_Storage_Systems_Inc]",
+      "registrationDate": "2013-03-01"
+    },
+    {
+      "port": 8750,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8751-8762",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8763,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "mc-appserver",
+      "description": "MC-APPSERVER",
+      "assignee": "[Romeo_Kasanwidjojo]",
+      "registrationDate": null
+    },
+    {
+      "port": 8763,
+      "portRange": null,
+      "transport": "udp",
+      "name": "mc-appserver",
+      "description": "MC-APPSERVER",
+      "assignee": "[Romeo_Kasanwidjojo]",
+      "registrationDate": null
+    },
+    {
+      "port": 8764,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "openqueue",
+      "description": "OPENQUEUE",
+      "assignee": "[Matt_Jensen]",
+      "registrationDate": null
+    },
+    {
+      "port": 8764,
+      "portRange": null,
+      "transport": "udp",
+      "name": "openqueue",
+      "description": "OPENQUEUE",
+      "assignee": "[Matt_Jensen]",
+      "registrationDate": null
+    },
+    {
+      "port": 8765,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ultraseek-http",
+      "description": "Ultraseek HTTP",
+      "assignee": "[Walter_Underwood]",
+      "registrationDate": null
+    },
+    {
+      "port": 8765,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ultraseek-http",
+      "description": "Ultraseek HTTP",
+      "assignee": "[Walter_Underwood]",
+      "registrationDate": null
+    },
+    {
+      "port": 8766,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "amcs",
+      "description": "Agilent Connectivity Service",
+      "assignee": "[Keysight_Technologies_Inc]",
+      "registrationDate": "2013-01-16"
+    },
+    {
+      "port": 8766,
+      "portRange": null,
+      "transport": "udp",
+      "name": "amcs",
+      "description": "Agilent Connectivity Service",
+      "assignee": "[Keysight_Technologies_Inc]",
+      "registrationDate": "2013-01-16"
+    },
+    {
+      "port": 8767,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "core-of-source",
+      "description": "Online mobile multiplayer game",
+      "assignee": "[Alt_Solve_Sdn_Bhd]",
+      "registrationDate": "2019-07-24"
+    },
+    {
+      "port": 8767,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8768,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sandpolis",
+      "description": "Sandpolis Server",
+      "assignee": "[Tyler_Cook]",
+      "registrationDate": "2019-11-22"
+    },
+    {
+      "port": 8768,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8769,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "oktaauthenticat",
+      "description": "Okta MultiPlatform Access Mgmt for Cloud Svcs",
+      "assignee": "[Okta_Inc]",
+      "registrationDate": "2019-12-19"
+    },
+    {
+      "port": 8769,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8770,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dpap",
+      "description": "Digital Photo Access Protocol (iPhoto)",
+      "assignee": "[Amandeep_Jawa_2]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": 8770,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dpap",
+      "description": "Digital Photo Access Protocol (iPhoto)",
+      "assignee": "[Amandeep_Jawa_2]",
+      "registrationDate": "2004-11"
+    },
+    {
+      "port": null,
+      "portRange": "8771-8777",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8778,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "uec",
+      "description": "Stonebranch Universal Enterprise Controller",
+      "assignee": "[Stonebranch_Inc]",
+      "registrationDate": "2013-06-25"
+    },
+    {
+      "port": 8778,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8779-8785",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8786,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "msgclnt",
+      "description": "Message Client",
+      "assignee": "[Michael_O_Brien]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": 8786,
+      "portRange": null,
+      "transport": "udp",
+      "name": "msgclnt",
+      "description": "Message Client",
+      "assignee": "[Michael_O_Brien]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": 8787,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "msgsrvr",
+      "description": "Message Server",
+      "assignee": "[Michael_O_Brien]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": 8787,
+      "portRange": null,
+      "transport": "udp",
+      "name": "msgsrvr",
+      "description": "Message Server",
+      "assignee": "[Michael_O_Brien]",
+      "registrationDate": "2003-03"
+    },
+    {
+      "port": null,
+      "portRange": "8788-8792",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8793,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "acd-pm",
+      "description": "Accedian Performance Measurement",
+      "assignee": "[Marco_Mascitto]",
+      "registrationDate": null
+    },
+    {
+      "port": 8793,
+      "portRange": null,
+      "transport": "udp",
+      "name": "acd-pm",
+      "description": "Accedian Performance Measurement",
+      "assignee": "[Marco_Mascitto]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8794-8799",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8800,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sunwebadmin",
+      "description": "Sun Web Server Admin Service",
+      "assignee": "[Jyri_J_Virkki]",
+      "registrationDate": "2005-12"
+    },
+    {
+      "port": 8800,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sunwebadmin",
+      "description": "Sun Web Server Admin Service",
+      "assignee": "[Jyri_J_Virkki]",
+      "registrationDate": "2005-12"
+    },
+    {
+      "port": null,
+      "portRange": "8801-8803",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8804,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "truecm",
+      "description": "truecm",
+      "assignee": "[Scott_Kramer]",
+      "registrationDate": null
+    },
+    {
+      "port": 8804,
+      "portRange": null,
+      "transport": "udp",
+      "name": "truecm",
+      "description": "truecm",
+      "assignee": "[Scott_Kramer]",
+      "registrationDate": null
+    },
+    {
+      "port": 8805,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8805,
+      "portRange": null,
+      "transport": "udp",
+      "name": "pfcp",
+      "description": "Destination Port number for PFCP",
+      "assignee": "[Kimmo_Kymalainen]",
+      "registrationDate": "2017-05-08"
+    },
+    {
+      "port": 8806,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8807,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8807,
+      "portRange": null,
+      "transport": "udp",
+      "name": "hes-clip",
+      "description": "HES-CLIP Interoperability protocol",
+      "assignee": "[Tim_Schoechle]",
+      "registrationDate": "2018-09-07"
+    },
+    {
+      "port": 8808,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8808,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ssports-bcast",
+      "description": "STATSports Broadcast Service",
+      "assignee": "[Statsports_International]",
+      "registrationDate": "2016-12-22"
+    },
+    {
+      "port": 8809,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8809,
+      "portRange": null,
+      "transport": "udp",
+      "name": "3gpp-monp",
+      "description": "MCPTT Off-Network Protocol (MONP)",
+      "assignee": "[_3GPP]",
+      "registrationDate": "2019-04-15"
+    },
+    {
+      "port": null,
+      "portRange": "8810-8872",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8873,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dxspider",
+      "description": "dxspider linking protocol",
+      "assignee": "[Dirk_Koopman]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": 8873,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dxspider",
+      "description": "dxspider linking protocol",
+      "assignee": "[Dirk_Koopman]",
+      "registrationDate": "2005-08"
+    },
+    {
+      "port": null,
+      "portRange": "8874-8879",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8880,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cddbp-alt",
+      "description": "CDDBP",
+      "assignee": "[Steve_Scherf]",
+      "registrationDate": null
+    },
+    {
+      "port": 8880,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cddbp-alt",
+      "description": "CDDBP",
+      "assignee": "[Steve_Scherf]",
+      "registrationDate": null
+    },
+    {
+      "port": 8881,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "galaxy4d",
+      "description": "Galaxy4D Online Game Engine",
+      "assignee": "[Galaxy4D]",
+      "registrationDate": "2012-06-18"
+    },
+    {
+      "port": 8881,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8882,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8883,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "secure-mqtt",
+      "description": "Secure MQTT",
+      "assignee": "[OASIS]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": 8883,
+      "portRange": null,
+      "transport": "udp",
+      "name": "secure-mqtt",
+      "description": "Secure MQTT",
+      "assignee": "[OASIS]",
+      "registrationDate": "2008-02-27"
+    },
+    {
+      "port": null,
+      "portRange": "8884-8887",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8888,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ddi-tcp-1",
+      "description": "NewsEDGE server TCP (TCP 1)",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8888,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ddi-udp-1",
+      "description": "NewsEDGE server UDP (UDP 1)",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8889,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ddi-tcp-2",
+      "description": "Desktop Data TCP 1",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8889,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ddi-udp-2",
+      "description": "NewsEDGE server broadcast",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8890,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ddi-tcp-3",
+      "description": "Desktop Data TCP 2",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8890,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ddi-udp-3",
+      "description": "NewsEDGE client broadcast",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8891,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ddi-tcp-4",
+      "description": "Desktop Data TCP 3: NESS application",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8891,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ddi-udp-4",
+      "description": "Desktop Data UDP 3: NESS application",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8892,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ddi-tcp-5",
+      "description": "Desktop Data TCP 4: FARM product",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8892,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ddi-udp-5",
+      "description": "Desktop Data UDP 4: FARM product",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8893,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ddi-tcp-6",
+      "description": "Desktop Data TCP 5: NewsEDGE/Web application",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8893,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ddi-udp-6",
+      "description": "Desktop Data UDP 5: NewsEDGE/Web application",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8894,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ddi-tcp-7",
+      "description": "Desktop Data TCP 6: COAL application",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": 8894,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ddi-udp-7",
+      "description": "Desktop Data UDP 6: COAL application",
+      "assignee": "[Fred_Yao]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8895-8898",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8899,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ospf-lite",
+      "description": "ospf-lite",
+      "assignee": "[Matthew_Thomas]",
+      "registrationDate": "2008-01-07"
+    },
+    {
+      "port": 8899,
+      "portRange": null,
+      "transport": "udp",
+      "name": "ospf-lite",
+      "description": "ospf-lite",
+      "assignee": "[Matthew_Thomas]",
+      "registrationDate": "2008-01-07"
+    },
+    {
+      "port": 8900,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "jmb-cds1",
+      "description": "JMB-CDS 1",
+      "assignee": "[Curtis_Bray]",
+      "registrationDate": null
+    },
+    {
+      "port": 8900,
+      "portRange": null,
+      "transport": "udp",
+      "name": "jmb-cds1",
+      "description": "JMB-CDS 1",
+      "assignee": "[Curtis_Bray]",
+      "registrationDate": null
+    },
+    {
+      "port": 8901,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "jmb-cds2",
+      "description": "JMB-CDS 2",
+      "assignee": "[Curtis_Bray]",
+      "registrationDate": null
+    },
+    {
+      "port": 8901,
+      "portRange": null,
+      "transport": "udp",
+      "name": "jmb-cds2",
+      "description": "JMB-CDS 2",
+      "assignee": "[Curtis_Bray]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8902-8907",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8908,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dpp",
+      "description": "WFA Device Provisioning Protocol",
+      "assignee": "[Wi-Fi_Alliance_4]",
+      "registrationDate": "2020-10-19"
+    },
+    {
+      "port": 8908,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8909,
+      "portRange": null,
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8910,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "manyone-http",
+      "description": "manyone-http",
+      "assignee": "[Matt_King]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": 8910,
+      "portRange": null,
+      "transport": "udp",
+      "name": "manyone-http",
+      "description": "manyone-http",
+      "assignee": "[Matt_King]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": 8911,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "manyone-xml",
+      "description": "manyone-xml",
+      "assignee": "[Matt_King]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": 8911,
+      "portRange": null,
+      "transport": "udp",
+      "name": "manyone-xml",
+      "description": "manyone-xml",
+      "assignee": "[Matt_King]",
+      "registrationDate": "2002-04"
+    },
+    {
+      "port": 8912,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "wcbackup",
+      "description": "Windows Client Backup",
+      "assignee": "[Jim_Lyon]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 8912,
+      "portRange": null,
+      "transport": "udp",
+      "name": "wcbackup",
+      "description": "Windows Client Backup",
+      "assignee": "[Jim_Lyon]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 8913,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "dragonfly",
+      "description": "Dragonfly System Service",
+      "assignee": "[Paul_Hodara]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": 8913,
+      "portRange": null,
+      "transport": "udp",
+      "name": "dragonfly",
+      "description": "Dragonfly System Service",
+      "assignee": "[Paul_Hodara]",
+      "registrationDate": "2005-11"
+    },
+    {
+      "port": null,
+      "portRange": "8914-8936",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8937,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "twds",
+      "description": "Transaction Warehouse Data Service",
+      "assignee": "[Lance_M_Steenson]",
+      "registrationDate": "2009-09-18"
+    },
+    {
+      "port": 8937,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8938-8952",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8953,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "ub-dns-control",
+      "description": "unbound dns nameserver control",
+      "assignee": "[NLnet_Labs_Support]",
+      "registrationDate": "2011-05-10"
+    },
+    {
+      "port": 8953,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8954,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "cumulus-admin",
+      "description": "Cumulus Admin Port",
+      "assignee": "[Thomas_Schleu]",
+      "registrationDate": null
+    },
+    {
+      "port": 8954,
+      "portRange": null,
+      "transport": "udp",
+      "name": "cumulus-admin",
+      "description": "Cumulus Admin Port",
+      "assignee": "[Thomas_Schleu]",
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8955-8979",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8980,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "nod-provider",
+      "description": "Network of Devices Provider",
+      "assignee": "[David_Muller]",
+      "registrationDate": "2015-02-22"
+    },
+    {
+      "port": 8980,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nod-provider",
+      "description": "Network of Devices Provider",
+      "assignee": "[David_Muller]",
+      "registrationDate": "2015-02-22"
+    },
+    {
+      "port": 8981,
+      "portRange": null,
+      "transport": "udp",
+      "name": "nod-client",
+      "description": "Network of Devices Client",
+      "assignee": "[David_Muller]",
+      "registrationDate": "2015-02-22"
+    },
+    {
+      "port": 8981,
+      "portRange": null,
+      "transport": "tcp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": null,
+      "portRange": "8982-8988",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8989,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "sunwebadmins",
+      "description": "Sun Web Server SSL Admin Service",
+      "assignee": "[Jyri_J_Virkki]",
+      "registrationDate": "2005-12"
+    },
+    {
+      "port": 8989,
+      "portRange": null,
+      "transport": "udp",
+      "name": "sunwebadmins",
+      "description": "Sun Web Server SSL Admin Service",
+      "assignee": "[Jyri_J_Virkki]",
+      "registrationDate": "2005-12"
+    },
+    {
+      "port": 8990,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "http-wmap",
+      "description": "webmail HTTP service",
+      "assignee": "[Chris_Newman]",
+      "registrationDate": "2007-12-03"
+    },
+    {
+      "port": 8990,
+      "portRange": null,
+      "transport": "udp",
+      "name": "http-wmap",
+      "description": "webmail HTTP service",
+      "assignee": "[Chris_Newman]",
+      "registrationDate": "2007-12-03"
+    },
+    {
+      "port": 8991,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "https-wmap",
+      "description": "webmail HTTPS service",
+      "assignee": "[Chris_Newman]",
+      "registrationDate": "2007-12-03"
+    },
+    {
+      "port": 8991,
+      "portRange": null,
+      "transport": "udp",
+      "name": "https-wmap",
+      "description": "webmail HTTPS service",
+      "assignee": "[Chris_Newman]",
+      "registrationDate": "2007-12-03"
+    },
+    {
+      "port": null,
+      "portRange": "8992-8996",
+      "transport": null,
+      "name": null,
+      "description": "Unassigned",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8997,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "oracle-ms-ens",
+      "description": "Oracle Messaging Server Event Notification Service",
+      "assignee": "[Oracle_6]",
+      "registrationDate": "2014-10-28"
+    },
+    {
+      "port": 8997,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8998,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "canto-roboflow",
+      "description": "Canto RoboFlow Control",
+      "assignee": "[Canto]",
+      "registrationDate": "2014-02-26"
+    },
+    {
+      "port": 8998,
+      "portRange": null,
+      "transport": "udp",
+      "name": null,
+      "description": "Reserved",
+      "assignee": null,
+      "registrationDate": null
+    },
+    {
+      "port": 8999,
+      "portRange": null,
+      "transport": "tcp",
+      "name": "bctp",
+      "description": "Brodos Crypto Trade Protocol",
+      "assignee": "[Alexander_Sahler]",
+      "registrationDate": "2002-02"
+    },
+    {
+      "port": 8999,
+      "portRange": null,
+      "transport": "udp",
+      "name": "bctp",
+      "description": "Brodos Crypto Trade Protocol",
+      "assignee": "[Alexander_Sahler]",
+      "registrationDate": "2002-02"
+    }
+  ]
+}
